@@ -417,6 +417,48 @@
         "sha256": "fbe00a999cadedaac8929c52f4bf9d5120ba8c5ccb0b2c0e7f1ba0710f0f04c3",
         "name": "WC3MOD_ASSETS_4.SC2Mod",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/mods/WC3MOD_ASSETS_4.SC2Mod"
+      },
+      {
+        "version": "1.1",
+        "sha256": "07192d7630547879e097d439d74db6fad4d30881892c0c5711ca552a1d46b90f",
+        "name": "WC3MOD_ASSETS_MOVIES_1.SC2Mod",
+        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_MOVIES_1.SC2Mod",
+        "release_asset": true
+      },
+      {
+        "version": "1.1",
+        "sha256": "8aba1375848d9a47da500b0a9e35ce35f25a4dc63258edc84969b2a74ef51c8e",
+        "name": "WC3MOD_ASSETS_MOVIES_2.SC2Mod",
+        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_MOVIES_2.SC2Mod",
+        "release_asset": true
+      },
+      {
+        "version": "1.1",
+        "sha256": "7fb1549ad169fdbaf974a2eccbfabedd454a14fd29f1862703538756ac7a61ce",
+        "name": "WC3MOD_ASSETS_MOVIES_3.SC2Mod",
+        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_MOVIES_3.SC2Mod",
+        "release_asset": true
+      },
+      {
+        "version": "1.1",
+        "sha256": "6d87cdd5a5f9f9119ee8375267b62bdbe47f7e5db8a0dce971bc2fa951f2ac44",
+        "name": "WC3MOD_ASSETS_MOVIES_4.SC2Mod",
+        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_MOVIES_4.SC2Mod",
+        "release_asset": true
+      },
+      {
+        "version": "1.1",
+        "sha256": "9b45fdca10f5f312c772cbcb73e7004e44b414eb57e91b8a38914d70bd50cef",
+        "name": "WC3MOD_ASSETS_1.SC2Mod",
+        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_1.SC2Mod",
+        "release_asset": true
+      },
+      {
+        "version": "1.1",
+        "sha256": "6718e91d85aa8996df7726c1195b4cf9ffd5483814b5550f812a59c17a96d13e",
+        "name": "WC3MOD_ASSETS_2.SC2Mod",
+        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_2.SC2Mod",
+        "release_asset": true
       }
     ]
   }
