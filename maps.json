@@ -418,6 +418,7 @@
         "name": "WC3MOD_ASSETS_2.SC2Mod",
         "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_2.SC2Mod"
       },
+      {
         "version": "1.2",
         "sha256": "4082a12abc73cef4e83aae2d003b0b54fe3d2ecd91d227a4a4a14a7a40766e3e",
         "name": "WC3MOD_ASSETS_3.SC2Mod",
