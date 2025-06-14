@@ -2,10 +2,10 @@ name: Upload large SC2 maps
 
 on:
   push:
-    branches: [main]           
+    branches: [main]            # trigger on pushes to main
 
 permissions:
-  contents: write              
+  contents: write               # allow the workflow to commit changes
 
 jobs:
   upload-big-maps:
@@ -13,76 +13,73 @@ jobs:
 
     steps:
     # --------------------------------------------------------------
-    # 1.  Git-LFS)
+    # 1.  Check out repo (no Git-LFS needed)
     # --------------------------------------------------------------
     - uses: actions/checkout@v4
       with:
         lfs: false
 
     # --------------------------------------------------------------
-    # 2.  maps.json (adds / bumps entries)
+    # 2.  Regenerate maps.json
     # --------------------------------------------------------------
     - name: Regenerate maps.json
       run: python .github/scripts/update_maps_json.py
 
     # --------------------------------------------------------------
-    # 3.  Collect all filenames that have  "release_asset": true
-    #     and expose them via step-output  files=<space-separated list>
+    # 3.  Collect filenames that have "release_asset": true
+    #     (still useful for future auditing / logging)
     # --------------------------------------------------------------
     - id: list
       run: |
         python - <<'PY'
-        import os, json, shlex, pathlib, sys
+        import os, json, shlex, pathlib
         data = json.load(open("maps.json"))
-        files = [
-            m["name"]
-            for c in data
-            for m in c["maps"]
-            if m.get("release_asset")
-        ]
+        files = [m["name"]
+                 for c in data
+                 for m in c["maps"]
+                 if m.get("release_asset")]
         out = "files=" + " ".join(map(shlex.quote, files)) + "\n"
         pathlib.Path(os.environ["GITHUB_OUTPUT"]).write_text(out)
         PY
 
     # --------------------------------------------------------------
-    # 4.  Create (or update) the Release that will hold the assets
+    # 4.  (Disabled) Create / update the release that would hold assets
     # --------------------------------------------------------------
-    - uses: softprops/action-gh-release@v1
-      if: steps.list.outputs.files != ''
-      with:
-        tag_name: maps-assets
-        name: Maps Assets
-        body: Auto-uploaded large .SC2Map files
-        draft: false
-        prerelease: false
+    # - uses: softprops/action-gh-release@v1
+    #   if: steps.list.outputs.files != ''
+    #   with:
+    #     tag_name: maps-assets
+    #     name: Maps Assets
+    #     body: Auto-uploaded large .SC2Map files
+    #     draft: false
+    #     prerelease: false
 
     # --------------------------------------------------------------
-    # 5.  Upload each asset *if it still exists in the repo*;
-    #     otherwise skip — it’s already on the Release
+    # 5.  (Disabled) Upload each asset if still present in the repo
     # --------------------------------------------------------------
-    - name: Upload assets
-      if: steps.list.outputs.files != ''
-      env:
-        FILES: ${{ steps.list.outputs.files }}
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: |
-        for f in ${FILES}; do
-          path=$(git ls-files -co --full-name -- "campaigns/**/$f" | head -n1)
-          if [ -n "$path" ]; then
-            echo "➜ uploading $path"
-            gh release upload maps-assets "$path" --clobber
-          else
-            echo "➜ skipping $f – already on release (no repo copy)"
-          fi
-        done
+    # - name: Upload assets
+    #   if: steps.list.outputs.files != ''
+    #   env:
+    #     FILES: ${{ steps.list.outputs.files }}
+    #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    #   run: |
+    #     for f in ${FILES}; do
+    #       path=$(git ls-files -co --full-name -- "campaigns/**/$f" | head -n1)
+    #       if [ -n "$path" ]; then
+    #         echo "➜ uploading $path"
+    #         gh release upload maps-assets "$path" --clobber
+    #       else
+    #         echo "➜ skipping $f – already on release (no repo copy)"
+    #       fi
+    #     done
 
     # --------------------------------------------------------------
-    # 6.  Commit the updated maps.json  (release URLs)
+    # 6.  Commit the updated maps.json (release URLs, versions, etc.)
     # --------------------------------------------------------------
     - name: Commit manifest
       run: |
         git config user.name  github-actions
         git config user.email noreply@github.com
         git add maps.json
-        git commit -m "ci: update maps.json with release URLs" || echo "no change"
+        git commit -m "ci: update maps.json" || echo "no change"
         git push
