@@ -1,113 +1,119 @@
-#update_maps_json.py
+# .github/scripts/update_maps_json.py
 
-import hashlib, json, os, re, subprocess
+from __future__ import annotations
+import hashlib, json, os, re, subprocess, sys
 from urllib.parse import quote
 from pathlib import Path
 
-# ------------------------------------------------------------
-ROOT      = Path(__file__).resolve().parents[2]
+# -------------------------------------------------------------------
+ROOT      = Path(__file__).resolve().parents[2]          # repo root
 MAPS_DIR  = ROOT / "campaigns"
 MAPS_JSON = ROOT / "maps.json"
 
-# -------- derive owner/repo for raw URLs --------------------
-owner_repo = os.getenv("GITHUB_REPOSITORY")
-if not owner_repo or "/" not in owner_repo:
+# -------------------------------------------------------------------
+def owner_repo() -> str:
+    # 1 – GitHub Actions env
+    if (env := os.getenv("GITHUB_REPOSITORY")) and "/" in env:
+        return env
+    # 2 – local git remote
     try:
         url = subprocess.check_output(
             ["git", "config", "--get", "remote.origin.url"], text=True
         ).strip()
         m = re.search(r"[/:]([^/]+)/([^/]+?)(?:\.git)?$", url)
         if m:
-            owner_repo = f"{m.group(1)}/{m.group(2)}"
+            return f"{m.group(1)}/{m.group(2)}"
     except Exception:
         pass
-if not owner_repo or "/" not in owner_repo:
-    raise SystemExit("Unable to determine <owner>/<repo>")
+    sys.exit("❌  Unable to determine <owner>/<repo>")
+RAW_BASE = f"https://raw.githubusercontent.com/{owner_repo()}/main/"
 
-RAW_BASE = f"https://raw.githubusercontent.com/{owner_repo}/main/"
-
-# -------- version helpers (major.minor) ---------------------
+# -------------------------------------------------------------------
 VER_RE = re.compile(r"^(?P<maj>\d+)\.(?P<min>\d+)$")
-def bump_minor(ver: str) -> str:
-    m = VER_RE.match(ver or "1.0") or VER_RE.match("1.0")
-    maj, minor = map(int, m.groups())
-    return f"{maj}.{minor+1}"
+def bump_minor(ver: str | None) -> str:
+    m = VER_RE.match(ver or "") or VER_RE.match("1.0")
+    maj, mn = map(int, m.groups())
+    return f"{maj}.{mn+1}"
 
 def sha256(p: Path) -> str:
     h = hashlib.sha256()
-    with p.open("rb", buffering=0) as f:
+    with p.open("rb") as f:
         for chunk in iter(lambda: f.read(1 << 20), b""):
             h.update(chunk)
     return h.hexdigest()
 
-# -------- load current manifest -----------------------------------
-current = {c["title"]: c for c in json.loads(MAPS_JSON.read_text())} \
-          if MAPS_JSON.exists() else {}
-new_manifest = []
+# -------------------------------------------------------------------
+def alnum_only(s: str) -> str:
+    """Remove every non-alphanumeric char."""
+    return "".join(ch for ch in s if ch.isalnum())
 
-# -------- iterate campaigns ---------------------------------------
-for camp_dir in sorted(p for p in MAPS_DIR.iterdir() if p.is_dir()):
-    title      = camp_dir.name
-    asset_png  = f"{title}.png"
-    old_block  = current.get(title, {})
+# -------------------------------------------------------------------
+current_blocks: list[dict] = json.loads(MAPS_JSON.read_text()) if MAPS_JSON.exists() else []
+current_by_folder = {b.get("folder", b["title"]): b for b in current_blocks}
+
+new_manifest: list[dict] = []
+
+for camp_dir in sorted(MAPS_DIR.iterdir()):
+    if not camp_dir.is_dir():
+        continue
+
+    folder       = camp_dir.name
+    pretty_title = current_by_folder.get(folder, {}).get("title") or folder
+    asset_png    = f"{pretty_title}.png"
+
+    old_block  = current_by_folder.get(folder, {})
     old_maps   = {m["name"]: m for m in old_block.get("maps", [])}
     camp_ver   = old_block.get("version", "1.0")
 
-    updated_paths = []
+    paths  = list(camp_dir.glob("*.SC2Map"))
+    paths += list((camp_dir / "mods").glob("*.SC2Mod"))
 
-    # --- collect *.SC2Map files in campaign root ------------------
-    updated_paths += list(camp_dir.glob("*.SC2Map"))
+    keep_release = {n: e for n, e in old_maps.items() if e.get("release_asset")}
 
-    # --- collect *.SC2Mod files under mods/ -----------------------
-    updated_paths += list((camp_dir / "mods").glob("*.SC2Mod"))
-
-    # --- remember release-asset entries whose file is gone --------
-    keep_release = {
-        n: e for n, e in old_maps.items() if e.get("release_asset")
-    }
-
-    # --- build / update entries ----------------------------------
-    new_entries = []
-    for path in sorted(updated_paths, key=lambda p: p.name.lower()):
-        name   = path.name
-        digest = sha256(path)
-        entry  = old_maps.get(name,
-                 {"version": "1.0", "sha256": "", "name": name})
+    new_entries: list[dict] = []
+    for pth in sorted(paths, key=lambda p: p.name.lower()):
+        name, digest = pth.name, sha256(pth)
+        entry = old_maps.get(name, {"name": name, "version": "1.0", "sha256": ""})
 
         if entry["sha256"] != digest:
             entry["version"] = bump_minor(entry["version"])
             entry["sha256"]  = digest
 
-        rel = quote(path.relative_to(ROOT).as_posix())
-        entry["url"] = RAW_BASE + rel
+        entry["url"] = RAW_BASE + quote(pth.relative_to(ROOT).as_posix())
         new_entries.append(entry)
 
-    # --- release-asset entries not on disk --------------
-    existing_names = {e["name"] for e in new_entries}
-    for name, entry in keep_release.items():
-        if name not in existing_names:
-            new_entries.append(entry)
+    # keep orphaned release_asset records
+    names_present = {e["name"] for e in new_entries}
+    new_entries.extend(e for n, e in keep_release.items() if n not in names_present)
 
-    # ----- launcher first -----------------------------------------
+    # launcher first
     new_entries.sort(key=lambda m: (0 if "launcher" in m["name"].lower() else 1,
                                     m["name"].lower()))
 
-    # ----- bump campaign version if something changed -------------
+    # bump campaign version if anything changed
     old_sorted = sorted(old_maps.values(), key=lambda m: m["name"])
-    if (
-        len(new_entries) != len(old_sorted) or
-        any(a["sha256"] != b["sha256"] or a["version"] != b["version"]
-            for a, b in zip(sorted(new_entries, key=lambda m: m["name"]), old_sorted))
-    ):
+    if (len(new_entries) != len(old_sorted)
+        or any(a["sha256"] != b["sha256"] or a["version"] != b["version"]
+               for a, b in zip(sorted(new_entries, key=lambda m: m["name"]), old_sorted))):
         camp_ver = bump_minor(camp_ver)
 
-    new_manifest.append({
-        "title":   title,
+    block = {
+        "title":   pretty_title,
         "version": camp_ver,
         "asset":   asset_png,
         "maps":    new_entries
-    })
+    }
 
-# -------- write json ------------------------------------------
+    auto_folder = alnum_only(pretty_title)
+    if auto_folder != pretty_title:
+        block["folder"] = auto_folder
+    else:
+
+        if folder != pretty_title:
+            block["folder"] = folder
+
+    new_manifest.append(block)
+
+# -------------------------------------------------------------------
 MAPS_JSON.write_text(json.dumps(new_manifest, indent=2))
-print("✅ maps.json regenerated (keeps release assets)")
+print("✅ maps.json complete")
