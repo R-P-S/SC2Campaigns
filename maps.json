@@ -407,6 +407,20 @@
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/mods/WC3MOD.SC2Mod"
       },
       {
+        "version": "1.1",
+        "sha256": "04ad5e7a44e935371a735a7da536597f7a462299e2cf09686de948f1d21fc8e3",
+        "name": "WC3MOD_ASSETS_1.SC2Mod",
+        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_1.SC2Mod",
+        "release_asset": true
+      },
+      {
+        "version": "1.1",
+        "sha256": "7331b8884b6f4fbb4d273d96a971c39b8fed69be60b26d90692c0e528644b8e7",
+        "name": "WC3MOD_ASSETS_2.SC2Mod",
+        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_2.SC2Mod",
+        "release_asset": true
+      },
+      {
         "version": "1.2",
         "sha256": "4082a12abc73cef4e83aae2d003b0b54fe3d2ecd91d227a4a4a14a7a40766e3e",
         "name": "WC3MOD_ASSETS_3.SC2Mod",
@@ -417,6 +431,34 @@
         "sha256": "09554a3a87bcb4d264324df54ba5e8f60e19964a663953dc329031ab6cc1718e",
         "name": "WC3MOD_ASSETS_4.SC2Mod",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/mods/WC3MOD_ASSETS_4.SC2Mod"
+      },
+      {
+        "version": "1.1",
+        "sha256": "8da4ca518973e01deece411e08093b5e027dee8c2673219e8b8919e140d5bebf",
+        "name": "WC3MOD_ASSETS_MOVIES_1.SC2Mod",
+        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_MOVIES_1.SC2Mod",
+        "release_asset": true
+      },
+      {
+        "version": "1.1",
+        "sha256": "c69cb3c4501d84424ea6c4489114fb09f54584fb7cc251dcd29ebb7ebfb2d0d9",
+        "name": "WC3MOD_ASSETS_MOVIES_2.SC2Mod",
+        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_MOVIES_2.SC2Mod",
+        "release_asset": true
+      },
+      {
+        "version": "1.1",
+        "sha256": "7130d6ab525db141615b140294fb89633745cf3016e2f31d8dc974813f65e0f9",
+        "name": "WC3MOD_ASSETS_MOVIES_3.SC2Mod",
+        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_MOVIES_3.SC2Mod",
+        "release_asset": true
+      },
+      {
+        "version": "1.1",
+        "sha256": "79aa5f6de78bc7b5c9a9659a0540bd65dffd29e25d312f7bfb12b6c8250f0db7",
+        "name": "WC3MOD_ASSETS_MOVIES_4.SC2Mod",
+        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_MOVIES_4.SC2Mod",
+        "release_asset": true
       }
     ]
   }
