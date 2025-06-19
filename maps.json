@@ -554,5 +554,1203 @@
       }
     ],
     "folder": "AzerothReborn"
+  },
+  {
+    "title": "Heart of the Swarm Protoss Edition",
+    "version": "1.1",
+    "asset": "Heart of the Swarm Protoss Edition.png",
+    "maps": [
+      {
+        "name": "LauncherHOTSPE.SC2Map",
+        "version": "1.1",
+        "sha256": "baeb7c3a7ea3e70b85e738fb2b0e34a43609c2337a93cbd78aba4d0c148a7d29",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/LauncherHOTSPE.SC2Map"
+      },
+      {
+        "name": "[Mod] HOTSPE.SC2Mod",
+        "version": "1.1",
+        "sha256": "217a1c8d6c25f6d4e001e9d0c426cd3b6ffc343609aa19ce21448a215f58323d",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/mods/%5BMod%5D%20HOTSPE.SC2Mod"
+      },
+      {
+        "name": "HOTSPE1.SC2Map",
+        "version": "1.1",
+        "sha256": "e10ff55b62c36a6112a0b8a9f51f27e5f53746c869f24ba3204f667a55aaae22",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/HOTSPE1.SC2Map"
+      },
+      {
+        "name": "HOTSPE10.SC2Map",
+        "version": "1.1",
+        "sha256": "369d8c492758d026e9ba42df461c3717d82edecd61ef7ab6cccc68b767d69097",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/HOTSPE10.SC2Map"
+      },
+      {
+        "name": "HOTSPE11.SC2Map",
+        "version": "1.1",
+        "sha256": "1e115b5382f53e32f94a25ac46e57d6a2529b278ace8621c65fd1b3795a86c20",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/HOTSPE11.SC2Map"
+      },
+      {
+        "name": "HOTSPE12.SC2Map",
+        "version": "1.1",
+        "sha256": "108c4e2210e43ba1d9dcc0fa70d91a7f46a7aa6ce92de64339ac01a67a2413b6",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/HOTSPE12.SC2Map"
+      },
+      {
+        "name": "HOTSPE13.SC2Map",
+        "version": "1.1",
+        "sha256": "c6d768c2bdaff84b5c34430ef0af8b544dbd9d6cd43887a3ea664555e63db7b4",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/HOTSPE13.SC2Map"
+      },
+      {
+        "name": "HOTSPE14.SC2Map",
+        "version": "1.1",
+        "sha256": "dd581179349b2e6c524db24f3608992140a57db2ad10142e04f3f4c2cc800761",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/HOTSPE14.SC2Map"
+      },
+      {
+        "name": "HOTSPE15.SC2Map",
+        "version": "1.1",
+        "sha256": "f50ecd14ab593bc657d90c036e93cb2cec42c62d72412a0f0dbe8df152e8d25d",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/HOTSPE15.SC2Map"
+      },
+      {
+        "name": "HOTSPE16.SC2Map",
+        "version": "1.1",
+        "sha256": "f112735aa3d31d3e755c2de7ac8b5798a34765eadbca363631b36c92ffb16aea",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/HOTSPE16.SC2Map"
+      },
+      {
+        "name": "HOTSPE17.SC2Map",
+        "version": "1.1",
+        "sha256": "e9c54b55b4d4dc434841e361b69496bcee818f5928bcc7cf55b6bcc605fef376",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/HOTSPE17.SC2Map"
+      },
+      {
+        "name": "HOTSPE18.SC2Map",
+        "version": "1.1",
+        "sha256": "e548c066dfa02e59e6d49e340301a4b6c51571c14b029258d6ccdecc79a07948",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/HOTSPE18.SC2Map"
+      },
+      {
+        "name": "HOTSPE19.SC2Map",
+        "version": "1.1",
+        "sha256": "9f58cad7a1c509ec921b1da1ee5c595c80c4dbd2b614396217b2d407e04f5af7",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/HOTSPE19.SC2Map"
+      },
+      {
+        "name": "HOTSPE2.SC2Map",
+        "version": "1.1",
+        "sha256": "c28ab580ae4409a4b619dd0f2862fbacb58ca345543e16376c8e139089a0a84e",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/HOTSPE2.SC2Map"
+      },
+      {
+        "name": "HOTSPE20.SC2Map",
+        "version": "1.1",
+        "sha256": "9c8a38ca3842edf6ecbb26a65d5f6d70950a5ca1548aa6ea5721b631a365e679",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/HOTSPE20.SC2Map"
+      },
+      {
+        "name": "HOTSPE3.SC2Map",
+        "version": "1.1",
+        "sha256": "7b2c220b97e25bc083a3ebbf568e50ca3a97ab7681d821f2ea8e99e8d29e781d",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/HOTSPE3.SC2Map"
+      },
+      {
+        "name": "HOTSPE4.SC2Map",
+        "version": "1.1",
+        "sha256": "545d981b34323a08195db4dbc0c04dc3b1c0b888c7831757c7b9470f1fb95f76",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/HOTSPE4.SC2Map"
+      },
+      {
+        "name": "HOTSPE5.SC2Map",
+        "version": "1.1",
+        "sha256": "adc625ed03420523f7d72d4e37e644db017c78dddc3507a558964f8216a9cad8",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/HOTSPE5.SC2Map"
+      },
+      {
+        "name": "HOTSPE6.SC2Map",
+        "version": "1.1",
+        "sha256": "505dd54bd96fb504ffadbf3d8a9167e4e86cb9f9dd9840049c98af34bc91e92d",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/HOTSPE6.SC2Map"
+      },
+      {
+        "name": "HOTSPE7.SC2Map",
+        "version": "1.1",
+        "sha256": "89f217e9856c5d821f3f5f9afc81b1ccb76548826795eb138238d4901f1e33cc",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/HOTSPE7.SC2Map"
+      },
+      {
+        "name": "HOTSPE8.SC2Map",
+        "version": "1.1",
+        "sha256": "a7482f5900cb6f1455f03b148ddc2fef29be01d5ec6b879d786b6c9c3244763d",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/HOTSPE8.SC2Map"
+      },
+      {
+        "name": "HOTSPE9.SC2Map",
+        "version": "1.1",
+        "sha256": "cd3f1e1c905cd27ee7affdf4f2816fec1568c40b985417b33deb3a2f1f0e1777",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/HOTSPE9.SC2Map"
+      }
+    ],
+    "folder": "HeartoftheSwarmProtossEdition"
+  },
+  {
+    "title": "Heart of the Swarm Terran Edition",
+    "version": "1.1",
+    "asset": "Heart of the Swarm Terran Edition.png",
+    "maps": [
+      {
+        "name": "LauncherHOTSTE.SC2Map",
+        "version": "1.1",
+        "sha256": "c84cbabd50e1dbd1cfe6f9ce7a9d0370e0590119784d40da926f532d10e763a3",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/LauncherHOTSTE.SC2Map"
+      },
+      {
+        "name": "[Mod] HOTSTE.SC2Mod",
+        "version": "1.1",
+        "sha256": "f6bd0f269eb3615593ee4b54f309698c865b9a0a53939470a253657e415c923c",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/mods/%5BMod%5D%20HOTSTE.SC2Mod"
+      },
+      {
+        "name": "HOTSTE1.SC2Map",
+        "version": "1.1",
+        "sha256": "460edd6d602a9fffa689ef292801f821a855ea0cf0c7f41921013f169db2c56b",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/HOTSTE1.SC2Map"
+      },
+      {
+        "name": "HOTSTE10.SC2Map",
+        "version": "1.1",
+        "sha256": "66278231890f871697c69f5d2fc6986d9271a7fabd2a3458186326bb3f3000a2",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/HOTSTE10.SC2Map"
+      },
+      {
+        "name": "HOTSTE11.SC2Map",
+        "version": "1.1",
+        "sha256": "66be99044f9182f9ec1fcac41a48d72e16d9e15776f5bed0d07715a4207eaed1",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/HOTSTE11.SC2Map"
+      },
+      {
+        "name": "HOTSTE12.SC2Map",
+        "version": "1.1",
+        "sha256": "a82cca341d50aa2cfbcf6dbd31a5d6255293bec6c864f90bd425a5c206ca662b",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/HOTSTE12.SC2Map"
+      },
+      {
+        "name": "HOTSTE13.SC2Map",
+        "version": "1.1",
+        "sha256": "a014de8bbd256665535018af1014d0e4b2f3b5a3e1c31c7916960b93fe55d627",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/HOTSTE13.SC2Map"
+      },
+      {
+        "name": "HOTSTE14.SC2Map",
+        "version": "1.1",
+        "sha256": "874f17fb224204f225ccc15faef20d271476526c7a34456a84b6e285d7722fe3",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/HOTSTE14.SC2Map"
+      },
+      {
+        "name": "HOTSTE15.SC2Map",
+        "version": "1.1",
+        "sha256": "5eb9e1a9fb400e61b289a2c0703a937b501d65316b53357eefbbdb3b708d7df7",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/HOTSTE15.SC2Map"
+      },
+      {
+        "name": "HOTSTE16.SC2Map",
+        "version": "1.1",
+        "sha256": "5f4ad37b191b32a4a16a13d0ce7fea55e46368a907a35f5306a23c4fad237177",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/HOTSTE16.SC2Map"
+      },
+      {
+        "name": "HOTSTE17.SC2Map",
+        "version": "1.1",
+        "sha256": "f1ad5f190d43d5fa5fa4b07cc115a36d1db2808d3fda179e5eb1618660d72153",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/HOTSTE17.SC2Map"
+      },
+      {
+        "name": "HOTSTE18.SC2Map",
+        "version": "1.1",
+        "sha256": "caf5b6db0ac398a8faa7db5f8694afc5c9e92e3869cc195df604ed436ec24081",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/HOTSTE18.SC2Map"
+      },
+      {
+        "name": "HOTSTE19.SC2Map",
+        "version": "1.1",
+        "sha256": "2e53f28149a8e7b486ca498948f9538b45b67525f48fd5fd5247cfe90e38a659",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/HOTSTE19.SC2Map"
+      },
+      {
+        "name": "HOTSTE2.SC2Map",
+        "version": "1.1",
+        "sha256": "25ff118f303f2f87cd7c699bda7433f4586f73d3a66bb12367fd2092cff4c094",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/HOTSTE2.SC2Map"
+      },
+      {
+        "name": "HOTSTE20.SC2Map",
+        "version": "1.1",
+        "sha256": "beea3101964f1f841d1ea6bbdfc9184aec1fceacc532dd001d73ff6e934b0dca",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/HOTSTE20.SC2Map"
+      },
+      {
+        "name": "HOTSTE3.SC2Map",
+        "version": "1.1",
+        "sha256": "98a835bba3502de23a0ab738712dbe32d029fb128413c76d405b7b8ebad5610d",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/HOTSTE3.SC2Map"
+      },
+      {
+        "name": "HOTSTE4.SC2Map",
+        "version": "1.1",
+        "sha256": "bffb8e3f891cd8283d829c10a84cb157dbbfb6561bfdb51beea49a1506adeed1",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/HOTSTE4.SC2Map"
+      },
+      {
+        "name": "HOTSTE5.SC2Map",
+        "version": "1.1",
+        "sha256": "25abd53d427029e3b58446015a4ed5b8567303de0df86d4c8ff839f31a35feda",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/HOTSTE5.SC2Map"
+      },
+      {
+        "name": "HOTSTE6.SC2Map",
+        "version": "1.1",
+        "sha256": "c8e95c816ff089ff296618e2a5f8501b18cf8a887a60c038d3aa8356e622b981",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/HOTSTE6.SC2Map"
+      },
+      {
+        "name": "HOTSTE7.SC2Map",
+        "version": "1.1",
+        "sha256": "16e18ee5ae99ee55f572b3242265a0a3dc9f238d62972c6d9d1150bb35aa922e",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/HOTSTE7.SC2Map"
+      },
+      {
+        "name": "HOTSTE8.SC2Map",
+        "version": "1.1",
+        "sha256": "ed2f87b2f5a4552217e64cbb08f5632319d2eb8b1acca6771220b04c6465da0f",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/HOTSTE8.SC2Map"
+      },
+      {
+        "name": "HOTSTE9.SC2Map",
+        "version": "1.1",
+        "sha256": "c3fafc7113145a449e7e58813feb3a9b913ab8e05f0c2416757b681aa15e133f",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/HOTSTE9.SC2Map"
+      }
+    ],
+    "folder": "HeartoftheSwarmTerranEdition"
+  },
+  {
+    "title": "Kerrigan Covert Ops",
+    "version": "1.1",
+    "asset": "Kerrigan Covert Ops.png",
+    "maps": [
+      {
+        "name": "LauncherKCO.SC2Map",
+        "version": "1.1",
+        "sha256": "ee2af0fe097c7b5f1be60253cbd478a7989f0f319249a0ccb47bd1769ee4116e",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Kerrigan%20Covert%20Ops/LauncherKCO.SC2Map"
+      },
+      {
+        "name": "[Mod] Kerrigan Covert Ops.SC2Mod",
+        "version": "1.1",
+        "sha256": "a71f2f471918730be0f2d11a686b82a8179b82f4c63061254a172ef9e9a2cdc0",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Kerrigan%20Covert%20Ops/mods/%5BMod%5D%20Kerrigan%20Covert%20Ops.SC2Mod"
+      },
+      {
+        "name": "KCO1.SC2Map",
+        "version": "1.1",
+        "sha256": "0147043d52b2805d504dfbc3a2b4f9819a39c9b8b375fc5bb011a9a7f2b48793",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Kerrigan%20Covert%20Ops/KCO1.SC2Map"
+      },
+      {
+        "name": "KCO2.SC2Map",
+        "version": "1.1",
+        "sha256": "faeccc9cf5d8340a204d2861d27f66af518e1035c0c700be6099528219caeaec",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Kerrigan%20Covert%20Ops/KCO2.SC2Map"
+      },
+      {
+        "name": "KCO3.SC2Map",
+        "version": "1.1",
+        "sha256": "171260a0086335d7d4dda2d0e09cfc636c1bb256a4d68bc869776e8eb5cca533",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Kerrigan%20Covert%20Ops/KCO3.SC2Map"
+      },
+      {
+        "name": "KCO4.SC2Map",
+        "version": "1.1",
+        "sha256": "155bf75f9473751974d9f43d2d1e2af793c05ec665700ca4f48971b4ccde3237",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Kerrigan%20Covert%20Ops/KCO4.SC2Map"
+      },
+      {
+        "name": "KCO5.SC2Map",
+        "version": "1.1",
+        "sha256": "16506725023f074a4d8c20e8bf629465d37db1f13f74f1a53c4a1c8c5b1afa15",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Kerrigan%20Covert%20Ops/KCO5.SC2Map"
+      },
+      {
+        "name": "KCO6.SC2Map",
+        "version": "1.1",
+        "sha256": "1af516a3b8d751815f4c7b0e1d87ac7f6d621b83ed7ef2aa66d986f28bc30d06",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Kerrigan%20Covert%20Ops/KCO6.SC2Map"
+      },
+      {
+        "name": "KCO7.SC2Map",
+        "version": "1.1",
+        "sha256": "60f94bfb842232bfae7effcbb520c946c14d59c518bfc4da6fb783d9f3885062",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Kerrigan%20Covert%20Ops/KCO7.SC2Map"
+      },
+      {
+        "name": "KCO8.SC2Map",
+        "version": "1.1",
+        "sha256": "cf55c7bce17b4cc0f83cb3b724b3836fa7a588c88dfa2830cd3d9e5b42f8e612",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Kerrigan%20Covert%20Ops/KCO8.SC2Map"
+      },
+      {
+        "name": "KCO9.SC2Map",
+        "version": "1.1",
+        "sha256": "47db57fec77e6c1b3b03fc3b9348f301dc191e7209578aa8c59715fc2e09baf1",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Kerrigan%20Covert%20Ops/KCO9.SC2Map"
+      }
+    ],
+    "folder": "KerriganCovertOps"
+  },
+  {
+    "title": "Legacy of the Void Terran Edition",
+    "version": "1.1",
+    "asset": "Legacy of the Void Terran Edition.png",
+    "maps": [
+      {
+        "name": "LauncherLOTVTE.SC2Map",
+        "version": "1.1",
+        "sha256": "8be98b54b91d6277514e6de179ddc959639d7bfb1cfc15c25efe247670f849ee",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LauncherLOTVTE.SC2Map"
+      },
+      {
+        "name": "[Mod] LOTV Prologue TE.SC2Mod",
+        "version": "1.1",
+        "sha256": "d88e1833f77df3976559e7cd978870b74edc7f90ab952d55e9a2e25ff61760de",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/mods/%5BMod%5D%20LOTV%20Prologue%20TE.SC2Mod"
+      },
+      {
+        "name": "[Mod] LOTVTE-TEpilogue.SC2Mod",
+        "version": "1.1",
+        "sha256": "5dd0a61a006f78c52f0db40aa254b070c95769c6e8be2d7057f9774f9aecde4e",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/mods/%5BMod%5D%20LOTVTE-TEpilogue.SC2Mod"
+      },
+      {
+        "name": "LOTVTE1.SC2Map",
+        "version": "1.1",
+        "sha256": "989e01f6b35f79e944eab886e4e5d833f770c4711fdbc1d90b23fdbb9bc949f6",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE1.SC2Map"
+      },
+      {
+        "name": "LOTVTE10.SC2Map",
+        "version": "1.1",
+        "sha256": "add7fdb6445e6451d1f5a28ce136a13c845c516a194b3c0b0f8a0e9623d51dce",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE10.SC2Map"
+      },
+      {
+        "name": "LOTVTE11.SC2Map",
+        "version": "1.1",
+        "sha256": "13e56aef3db844da68ebbdf5f512ffa9b8c488fdb330116187f172e6f64bd8c7",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE11.SC2Map"
+      },
+      {
+        "name": "LOTVTE12.SC2Map",
+        "version": "1.1",
+        "sha256": "cb5610bf31398dc38c61f49cc0ef82cdc83be97b4d4e30ebb703af92398888b6",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE12.SC2Map"
+      },
+      {
+        "name": "LOTVTE13.SC2Map",
+        "version": "1.1",
+        "sha256": "47eb073c3a0b00aeb0d3afcba67a796089f81ce070e090600ce6c476ea055afd",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE13.SC2Map"
+      },
+      {
+        "name": "LOTVTE14.SC2Map",
+        "version": "1.1",
+        "sha256": "b5e77147a5d7e4e4bdac457e1cd5cbc104a3d8adc621888bcce2d7f0ccc55d95",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE14.SC2Map"
+      },
+      {
+        "name": "LOTVTE15.SC2Map",
+        "version": "1.1",
+        "sha256": "5402d9b89e50d80a08ee764aa2f6aa75ccd02e7ce9476a0bff7ddf66c1b24567",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE15.SC2Map"
+      },
+      {
+        "name": "LOTVTE16.SC2Map",
+        "version": "1.1",
+        "sha256": "b924a3e7ef1cf8288f65eaec0e3e5834145810c64fcf34ceb833d36772627aec",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE16.SC2Map"
+      },
+      {
+        "name": "LOTVTE17.SC2Map",
+        "version": "1.1",
+        "sha256": "25fad86602955b21a2f543257c908596d6abd7a01f285d1dd866c99840c70481",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE17.SC2Map"
+      },
+      {
+        "name": "LOTVTE18.SC2Map",
+        "version": "1.1",
+        "sha256": "7c0d0d85b69d16ed2b493d33077b1d0c33a5cd5c732e9c559f6f44a478285cc7",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE18.SC2Map"
+      },
+      {
+        "name": "LOTVTE19.SC2Map",
+        "version": "1.1",
+        "sha256": "4fe04d0b074fe3ea20fee0872dff543d8eee98138a73b7d2038593c42a067f1c",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE19.SC2Map"
+      },
+      {
+        "name": "LOTVTE2.SC2Map",
+        "version": "1.1",
+        "sha256": "afb6cd90345cae88d1c0c2906a655b106ab350e05b5d391aaaba5d87373d42ef",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE2.SC2Map"
+      },
+      {
+        "name": "LOTVTE20.SC2Map",
+        "version": "1.1",
+        "sha256": "720bea0971541a99d5287fc9b7d9ed3e8c3dba5693f6f19b5598699c8eb2ac69",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE20.SC2Map"
+      },
+      {
+        "name": "LOTVTE21.SC2Map",
+        "version": "1.1",
+        "sha256": "ffbbba49c666f2d29c989b10e3d905872f9c8b447b8979f8ad9841b9295a35d8",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE21.SC2Map"
+      },
+      {
+        "name": "LOTVTE22.SC2Map",
+        "version": "1.1",
+        "sha256": "6314670af7f8d429ca7d787f85af1fc65ea37238576d4d06c53fc81b7b1fcd40",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE22.SC2Map"
+      },
+      {
+        "name": "LOTVTE23.SC2Map",
+        "version": "1.1",
+        "sha256": "3f02fdfd522db15ac0bfe33fbe6da563c7ac8459e1f37713822d4cbc2cca69b5",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE23.SC2Map"
+      },
+      {
+        "name": "LOTVTE24.SC2Map",
+        "version": "1.1",
+        "sha256": "ba129559db0d6423df1a1c5c398e8f174613b60bb3befa11c192e45a17c4cc9c",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE24.SC2Map"
+      },
+      {
+        "name": "LOTVTE25.SC2Map",
+        "version": "1.1",
+        "sha256": "b5f181000dc84790c9538c98830e24923fb46718fb87506a36ff430c8ed2314a",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE25.SC2Map"
+      },
+      {
+        "name": "LOTVTE3.SC2Map",
+        "version": "1.1",
+        "sha256": "cfe5c7e7430b4de0e4b85c73dbc4fdf1d137f1dbd57948ff2d0596bc34edf0ba",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE3.SC2Map"
+      },
+      {
+        "name": "LOTVTE4.SC2Map",
+        "version": "1.1",
+        "sha256": "33fba8742e58add16c1dad777e7b2e1eed4aa0ae230df804bbea902f0b44cefb",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE4.SC2Map"
+      },
+      {
+        "name": "LOTVTE5.SC2Map",
+        "version": "1.1",
+        "sha256": "585c3c85207b1a9446ea7759f076281b9f973584b92c180cf940d3944b452973",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE5.SC2Map"
+      },
+      {
+        "name": "LOTVTE6.SC2Map",
+        "version": "1.1",
+        "sha256": "3545173df05a4c5f531611d6310a997e74d5a69f5159e62303dcae4742d75599",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE6.SC2Map"
+      },
+      {
+        "name": "LOTVTE7.SC2Map",
+        "version": "1.1",
+        "sha256": "eaf2301c371c1cccd6764d4632983c9c8bedb47d31dc5066379fa723e3149e9f",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE7.SC2Map"
+      },
+      {
+        "name": "LOTVTE8.SC2Map",
+        "version": "1.1",
+        "sha256": "cf718258b4dbe26366e017280bcd57b45eb929307aa5880407441ba2071629ac",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE8.SC2Map"
+      },
+      {
+        "name": "LOTVTE9.SC2Map",
+        "version": "1.1",
+        "sha256": "e3dff60a6161192f1c789793a3f69b1c174da94884666bda879f0de65f6d8d06",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE9.SC2Map"
+      }
+    ],
+    "folder": "LegacyoftheVoidTerranEdition"
+  },
+  {
+    "title": "Legacy of the Void Zerg Edition",
+    "version": "1.1",
+    "asset": "Legacy of the Void Zerg Edition.png",
+    "maps": [
+      {
+        "name": "LauncherLOTVZE.SC2Map",
+        "version": "1.1",
+        "sha256": "3e8ee2863c2bc40c0b9b9001764255225a23d60b623b0f18cc72d845b4bd63e3",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LauncherLOTVZE.SC2Map"
+      },
+      {
+        "name": "[Mod] LOTVZE.SC2Mod",
+        "version": "1.1",
+        "sha256": "46d0c79d6ce3fad7fc2228c007198489d181c280e1b26aad26efac5cbc872f67",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/mods/%5BMod%5D%20LOTVZE.SC2Mod"
+      },
+      {
+        "name": "LOTVZE1.SC2Map",
+        "version": "1.1",
+        "sha256": "e99e3252e8f4de1dc6ceda24e976a198f7ff69fdda85de5193fae529c898cd13",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE1.SC2Map"
+      },
+      {
+        "name": "LOTVZE10.SC2Map",
+        "version": "1.1",
+        "sha256": "ce64e9e08b0a95d371b522ad56f6280c847e3463dcb544bcf1c0a3f03557494f",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE10.SC2Map"
+      },
+      {
+        "name": "LOTVZE11.SC2Map",
+        "version": "1.1",
+        "sha256": "5d560f415ea0624cd14dfc4e526306d3074662909b2ead8ff2ff24f9d7f685c0",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE11.SC2Map"
+      },
+      {
+        "name": "LOTVZE12.SC2Map",
+        "version": "1.1",
+        "sha256": "da18cdac192cb3db04cf9e87ed053f928d972b93ac44950b7b907d8ef7be6a71",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE12.SC2Map"
+      },
+      {
+        "name": "LOTVZE13.SC2Map",
+        "version": "1.1",
+        "sha256": "3e9e0411a944bddc4c52596383e02865edb54b67a3151abaab6a7230368b4692",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE13.SC2Map"
+      },
+      {
+        "name": "LOTVZE14.SC2Map",
+        "version": "1.1",
+        "sha256": "747ae5de6b65e6d20ed8410859976ef7636b3da8180118c73b61fce088e2bead",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE14.SC2Map"
+      },
+      {
+        "name": "LOTVZE15.SC2Map",
+        "version": "1.1",
+        "sha256": "acdb67fcc3087e376af29641328ac9fb7a24038186c032fabe1287474208d5d2",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE15.SC2Map"
+      },
+      {
+        "name": "LOTVZE16.SC2Map",
+        "version": "1.1",
+        "sha256": "ee609c616c81f9cb7427520f3d08f4e9ae433a8ae7f469541f677cb2462fef17",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE16.SC2Map"
+      },
+      {
+        "name": "LOTVZE17.SC2Map",
+        "version": "1.1",
+        "sha256": "0d00f68dbf7b5613356aee67b12a40ba2bc01099371ea52ac293084c46232780",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE17.SC2Map"
+      },
+      {
+        "name": "LOTVZE18.SC2Map",
+        "version": "1.1",
+        "sha256": "d827ccf6cb00616ee711d5d77e6da37b41b55b950b76ee353d4e780bfb507d50",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE18.SC2Map"
+      },
+      {
+        "name": "LOTVZE19.SC2Map",
+        "version": "1.1",
+        "sha256": "bba11b46dc69ff48bfc37ab2696fef1d61a46e0478a433604877d418897afadf",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE19.SC2Map"
+      },
+      {
+        "name": "LOTVZE2.SC2Map",
+        "version": "1.1",
+        "sha256": "e280eb49d39eedc3bbbb13b6403ebbacdf8d647e7031ffa291852fb85c4f380e",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE2.SC2Map"
+      },
+      {
+        "name": "LOTVZE20.SC2Map",
+        "version": "1.1",
+        "sha256": "31a6124fbd7221882ce7af774089d1f05e4293c0b3b337737f5ba32c6dd7a56a",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE20.SC2Map"
+      },
+      {
+        "name": "LOTVZE21.SC2Map",
+        "version": "1.1",
+        "sha256": "65eb5f790f8dbc8562d6dce0211900cb13f0240c28040c9607f7afe7110db7d0",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE21.SC2Map"
+      },
+      {
+        "name": "LOTVZE22.SC2Map",
+        "version": "1.1",
+        "sha256": "8724f1d365b1730904100d2f72ad94a74677e4c6eefba6b02d3d4a23c477e881",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE22.SC2Map"
+      },
+      {
+        "name": "LOTVZE23.SC2Map",
+        "version": "1.1",
+        "sha256": "65fd07781e50f336129816c0a41a27dbf01dd4f920c96222fa078a95c083ddd3",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE23.SC2Map"
+      },
+      {
+        "name": "LOTVZE24.SC2Map",
+        "version": "1.1",
+        "sha256": "841aaf4b86bfb30fd43072f978e099aab9421641ccac84366c6d55cb60343931",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE24.SC2Map"
+      },
+      {
+        "name": "LOTVZE25.SC2Map",
+        "version": "1.1",
+        "sha256": "ab181c73de5a285257e2cb150a78f5e03f9020cd15ec24d4765d18fc86a15572",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE25.SC2Map"
+      },
+      {
+        "name": "LOTVZE3.SC2Map",
+        "version": "1.1",
+        "sha256": "0c92955bc04ce49edf75caa6011499391582fa3ca2034e59b3a8d03da52d661b",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE3.SC2Map"
+      },
+      {
+        "name": "LOTVZE4.SC2Map",
+        "version": "1.1",
+        "sha256": "c59ccd5bfe0d774bf21d03d837163d13a5ced28209c42fbbfb51003f8738f6bd",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE4.SC2Map"
+      },
+      {
+        "name": "LOTVZE5.SC2Map",
+        "version": "1.1",
+        "sha256": "a5039ce65c5e5819a1826f011bce83e70a63bf27fa2266f11227ddecd957e545",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE5.SC2Map"
+      },
+      {
+        "name": "LOTVZE6.SC2Map",
+        "version": "1.1",
+        "sha256": "857f21b17794a6cffd9725acf5100673e88b6e1c2a556fafb0a3fb1984057d7e",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE6.SC2Map"
+      },
+      {
+        "name": "LOTVZE7.SC2Map",
+        "version": "1.1",
+        "sha256": "338bd74ebfcaaafe59803bc93d16a41ff1173b40780b48fbb0689719e9c98045",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE7.SC2Map"
+      },
+      {
+        "name": "LOTVZE8.SC2Map",
+        "version": "1.1",
+        "sha256": "32f2214ca1a42459f6392ad4788a2e21ee7f236da3155427ba0667b25ea5aa7d",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE8.SC2Map"
+      },
+      {
+        "name": "LOTVZE9.SC2Map",
+        "version": "1.1",
+        "sha256": "e86bfcb977dd0be772898609a8463b76e397cc30ed9d183cf59bd9775e7d7fa0",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE9.SC2Map"
+      }
+    ],
+    "folder": "LegacyoftheVoidZergEdition"
+  },
+  {
+    "title": "Protoss Covert Ops",
+    "version": "1.1",
+    "asset": "Protoss Covert Ops.png",
+    "maps": [
+      {
+        "name": "LauncherPCO.SC2Map",
+        "version": "1.1",
+        "sha256": "ccd1a6f3bf0010d6d2072b91a5765c7b9b37062e555722cea63095b3834e3919",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Protoss%20Covert%20Ops/LauncherPCO.SC2Map"
+      },
+      {
+        "name": "[Mod] Protoss Covert Ops.SC2Mod",
+        "version": "1.1",
+        "sha256": "8badf928f1756e4814ba331fd7b916baf3b23cee0042b8cc070534ac5ea2603a",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Protoss%20Covert%20Ops/mods/%5BMod%5D%20Protoss%20Covert%20Ops.SC2Mod"
+      },
+      {
+        "name": "PCO1.SC2Map",
+        "version": "1.1",
+        "sha256": "3f9c82fa94e91cdb91784169664fc2b1dfbe3af41cc24e4dd2a32895286fb384",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Protoss%20Covert%20Ops/PCO1.SC2Map"
+      },
+      {
+        "name": "PCO2.SC2Map",
+        "version": "1.1",
+        "sha256": "ac8a2a61621dbedbf9ec53fc9809738d814e446373c6f553956c20579cae9651",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Protoss%20Covert%20Ops/PCO2.SC2Map"
+      },
+      {
+        "name": "PCO3.SC2Map",
+        "version": "1.1",
+        "sha256": "8f5ef15b336bb06dbea20e15c4f05e9fd6cd174cfae224e5c980511c515e71a2",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Protoss%20Covert%20Ops/PCO3.SC2Map"
+      },
+      {
+        "name": "PCO4.SC2Map",
+        "version": "1.1",
+        "sha256": "af42c24db8e0a92298a4837ed9fcd8fb3f07e8e2d23b60a52d3b1547ab1d2de1",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Protoss%20Covert%20Ops/PCO4.SC2Map"
+      },
+      {
+        "name": "PCO5.SC2Map",
+        "version": "1.1",
+        "sha256": "c010a0438a11db0158f5fc29ea6f610aebba1fb88585f6c04a2c8d2b07ef82a2",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Protoss%20Covert%20Ops/PCO5.SC2Map"
+      },
+      {
+        "name": "PCO6.SC2Map",
+        "version": "1.1",
+        "sha256": "4ea8ad725ac8cd7c668d245792afb8c45bf4fb27d2738006d9dbfd4868c0cdc1",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Protoss%20Covert%20Ops/PCO6.SC2Map"
+      },
+      {
+        "name": "PCO7.SC2Map",
+        "version": "1.1",
+        "sha256": "33e0d66347451871178fea197fe8d1e6e8987233c071f72e72332f4d2fbf2a06",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Protoss%20Covert%20Ops/PCO7.SC2Map"
+      },
+      {
+        "name": "PCO8.SC2Map",
+        "version": "1.1",
+        "sha256": "b5b1769135140047ad0a18062e6b34f0e082b6744dcb3b291954798c61a0c658",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Protoss%20Covert%20Ops/PCO8.SC2Map"
+      },
+      {
+        "name": "PCO9.SC2Map",
+        "version": "1.1",
+        "sha256": "3835a5090e9199587581bd274122b3c30058d0624eec94980e6c6c7ccec927fd",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Protoss%20Covert%20Ops/PCO9.SC2Map"
+      }
+    ],
+    "folder": "ProtossCovertOps"
+  },
+  {
+    "title": "Wings of Liberty Protoss Edition",
+    "version": "1.1",
+    "asset": "Wings of Liberty Protoss Edition.png",
+    "maps": [
+      {
+        "name": "LauncherWOLPE.SC2Map",
+        "version": "1.1",
+        "sha256": "967234830a5b84b659bcfaa626db190340a66b7f36bf4e5320a26f81235d16e3",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/LauncherWOLPE.SC2Map"
+      },
+      {
+        "name": "[Mod] WOLPE.SC2Mod",
+        "version": "1.1",
+        "sha256": "7906120e59675b44864507c0701680e3753a9cb6bb5af418d64c01dc889d0a68",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/mods/%5BMod%5D%20WOLPE.SC2Mod"
+      },
+      {
+        "name": "[Mod] WOLTE.SC2Mod",
+        "version": "1.1",
+        "sha256": "dd162fa37994decedc08a4a3bc31ab02e69c43cc64c2ee1db871e2dfed1aac62",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/mods/%5BMod%5D%20WOLTE.SC2Mod"
+      },
+      {
+        "name": "[Mod] ZEpilogue-PEpilogue.SC2Mod",
+        "version": "1.1",
+        "sha256": "5cc91dc2c7a1c05858531b78d6ce7d7ace6be1bed22baa6abb96c2ad85f4a7d6",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/mods/%5BMod%5D%20ZEpilogue-PEpilogue.SC2Mod"
+      },
+      {
+        "name": "WOLPE1.SC2Map",
+        "version": "1.1",
+        "sha256": "c8f6bdcd0c5772c64a61988e5bd6c15e89629be9f56927d8357ecb277261193d",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE1.SC2Map"
+      },
+      {
+        "name": "WOLPE10.SC2Map",
+        "version": "1.1",
+        "sha256": "b97caaf2b05edb282f42b23cb6e9fe60986a6fab58a6246ba97f6a485474c8a1",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE10.SC2Map"
+      },
+      {
+        "name": "WOLPE11.SC2Map",
+        "version": "1.1",
+        "sha256": "8fef72c152ebb5048c49253f2df4f726d9911e7fefde6190d36af1b82fc39874",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE11.SC2Map"
+      },
+      {
+        "name": "WOLPE12.SC2Map",
+        "version": "1.1",
+        "sha256": "b558394b4053f64ec0db3d67b31cbb1363e8530f58008c861c4c89b9649c0456",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE12.SC2Map"
+      },
+      {
+        "name": "WOLPE13.SC2Map",
+        "version": "1.1",
+        "sha256": "f4ccd24ccdcd02a3e40b47e681b34da287b49ea836b603acf47fb16fb6d7fb3a",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE13.SC2Map"
+      },
+      {
+        "name": "WOLPE14.SC2Map",
+        "version": "1.1",
+        "sha256": "43664529af9ed16768df197b3026a30de5d3dfeb1e3ab3310179587a9f187c4f",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE14.SC2Map"
+      },
+      {
+        "name": "WOLPE15.SC2Map",
+        "version": "1.1",
+        "sha256": "0bf55c49f4032557f7baa2f5fa86a6a6b50a2272c970c485deaa189ad9997971",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE15.SC2Map"
+      },
+      {
+        "name": "WOLPE16.SC2Map",
+        "version": "1.1",
+        "sha256": "ee863e4338259a082e4c2d120c534ec9fcdc16fd2e4503ec8b31818b6ac8304f",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE16.SC2Map"
+      },
+      {
+        "name": "WOLPE17.SC2Map",
+        "version": "1.1",
+        "sha256": "d897d69fbbfe51bb16fa461a85c3d0a21682347f31db023178b4cedbfe3cc679",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE17.SC2Map"
+      },
+      {
+        "name": "WOLPE18.SC2Map",
+        "version": "1.1",
+        "sha256": "f66fcafa1f691ea516b6c6c1e672387a91088109b6c4ec193980827d24542f10",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE18.SC2Map"
+      },
+      {
+        "name": "WOLPE19.SC2Map",
+        "version": "1.1",
+        "sha256": "7bdec6181c8a246d7ed2fc863e17f0fafcff7391d652a302b3cff64ffb8164c7",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE19.SC2Map"
+      },
+      {
+        "name": "WOLPE2.SC2Map",
+        "version": "1.1",
+        "sha256": "95c7976b7f7c3ab15b4dc3e09f1c420938be8a0ea056dfb3461e98a7bf2477c0",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE2.SC2Map"
+      },
+      {
+        "name": "WOLPE20.SC2Map",
+        "version": "1.1",
+        "sha256": "8a520d8062690ae8ea7a36114aaeb1fec155288f4b85d898b707caf7b0de22a9",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE20.SC2Map"
+      },
+      {
+        "name": "WOLPE21.SC2Map",
+        "version": "1.1",
+        "sha256": "e3525d1710f21547a9db64906af3275c22779e7376437a30fc0bf413d7fa9892",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE21.SC2Map"
+      },
+      {
+        "name": "WOLPE22.SC2Map",
+        "version": "1.1",
+        "sha256": "24e20307654eaad73fdddf09c3c703519f48856acdf59e48edbff399b90e0a14",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE22.SC2Map"
+      },
+      {
+        "name": "WOLPE23.SC2Map",
+        "version": "1.1",
+        "sha256": "1df38cfa1a505b1cb6c1b27cd62afca31c999bb7d1aefd6a314344b8ba4ed903",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE23.SC2Map"
+      },
+      {
+        "name": "WOLPE24.SC2Map",
+        "version": "1.1",
+        "sha256": "10b395ffc514fbe962c3cdb19f56cfd1fcbbe83cf063b1dc6cb704b44167a18b",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE24.SC2Map"
+      },
+      {
+        "name": "WOLPE25.SC2Map",
+        "version": "1.1",
+        "sha256": "10635959e049cdbb9a776344b7edef83aeb505e5ecfa07e46555e148894e6d40",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE25.SC2Map"
+      },
+      {
+        "name": "WOLPE26.SC2Map",
+        "version": "1.1",
+        "sha256": "3146c7c2ff1a1693f9495af139746422c2115ea333f3b78fc29e8b3aaf75b1dd",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE26.SC2Map"
+      },
+      {
+        "name": "WOLPE27.SC2Map",
+        "version": "1.1",
+        "sha256": "fc10b2813f9127c5f6d5d0148bba6635b28233e445a08ae5c3e50dac69085868",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE27.SC2Map"
+      },
+      {
+        "name": "WOLPE28.SC2Map",
+        "version": "1.1",
+        "sha256": "748ba079ea99ae71e30ba398769256dff76fddf9549cf23c8fd64cf8823f84da",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE28.SC2Map"
+      },
+      {
+        "name": "WOLPE29.SC2Map",
+        "version": "1.1",
+        "sha256": "e5dd9dd0d29d941e28c759645d592a2d3913c3d9a1c175e8b9e642e9f9e517c1",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE29.SC2Map"
+      },
+      {
+        "name": "WOLPE3.SC2Map",
+        "version": "1.1",
+        "sha256": "7f80bc289e15da6346be2cfdab897d233a666ed90fbe79f4453b3110b5319321",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE3.SC2Map"
+      },
+      {
+        "name": "WOLPE30.SC2Map",
+        "version": "1.1",
+        "sha256": "d063b7c5ce213853211627f290a7f504815187be741ab51948ab8cba89000d50",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE30.SC2Map"
+      },
+      {
+        "name": "WOLPE31.SC2Map",
+        "version": "1.1",
+        "sha256": "bf9092f778e01699c07221741e65f5b239d92dc4a884ad33d8bbbe7022bf1d21",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE31.SC2Map"
+      },
+      {
+        "name": "WOLPE32.SC2Map",
+        "version": "1.1",
+        "sha256": "99cf53bf16936384f0d1a16879b3437e4938d385eeb3639ce9915d0600f8c58b",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE32.SC2Map"
+      },
+      {
+        "name": "WOLPE4.SC2Map",
+        "version": "1.1",
+        "sha256": "78eca896aa2a1201bf34b5f6c092be267863aa85ca41e70521849c7420b652b5",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE4.SC2Map"
+      },
+      {
+        "name": "WOLPE5.SC2Map",
+        "version": "1.1",
+        "sha256": "b4e78fefbfb49b8ea786ae69f3bfa5f10da62e7ee00fd8104d96d6c536cd4c4f",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE5.SC2Map"
+      },
+      {
+        "name": "WOLPE6.SC2Map",
+        "version": "1.1",
+        "sha256": "eb5d86fd33e2fd5a3379b6b95839879e93f67955856cf71f1446f67100f62572",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE6.SC2Map"
+      },
+      {
+        "name": "WOLPE7.SC2Map",
+        "version": "1.1",
+        "sha256": "856afc1762565957eef83f5c23a284ddd5c132b175f84d6393b76cb196810096",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE7.SC2Map"
+      },
+      {
+        "name": "WOLPE8.SC2Map",
+        "version": "1.1",
+        "sha256": "83e93ba54027ec2dfbcabe9de45de68553a82f085bb0bdec71a9111b24528df3",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE8.SC2Map"
+      },
+      {
+        "name": "WOLPE9.SC2Map",
+        "version": "1.1",
+        "sha256": "b1a9de2a8f357ad1d261141ca83a459b162066e1076270c3978f49010c4803ce",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE9.SC2Map"
+      }
+    ],
+    "folder": "WingsofLibertyProtossEdition"
+  },
+  {
+    "title": "Wings of Liberty Zerg Edition",
+    "version": "1.1",
+    "asset": "Wings of Liberty Zerg Edition.png",
+    "maps": [
+      {
+        "name": "LauncherWOLZE.SC2Map",
+        "version": "1.1",
+        "sha256": "5e766a2e688b76b8201ed6d0bf69d3bebc156b8086fca2b45f04638f134052a9",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/LauncherWOLZE.SC2Map"
+      },
+      {
+        "name": "[Mod] WOLZE - Infested Vodka.SC2Mod",
+        "version": "1.1",
+        "sha256": "a292e2d470f7a15e1fbfe884fdfa4d81e2f8eb1eacbab1f8383ba535954bbb22",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/mods/%5BMod%5D%20WOLZE%20-%20Infested%20Vodka.SC2Mod"
+      },
+      {
+        "name": "[Mod] WOLZE.SC2Mod",
+        "version": "1.1",
+        "sha256": "08757c99512e65e597c9bb43055b89bde822ab43b8a2dbd6c2710971f5ff6546",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/mods/%5BMod%5D%20WOLZE.SC2Mod"
+      },
+      {
+        "name": "WOLZE1.SC2Map",
+        "version": "1.1",
+        "sha256": "576e4e94febcf521d6aabd07f638b892c1e29f2eb16d228a7c3166053b1aa480",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE1.SC2Map"
+      },
+      {
+        "name": "WOLZE10.SC2Map",
+        "version": "1.1",
+        "sha256": "b1fed9652eaeeb0ead50c407786dd7b3b27379d8f8d0b2d2f271d82602ebb72e",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE10.SC2Map"
+      },
+      {
+        "name": "WOLZE11.SC2Map",
+        "version": "1.1",
+        "sha256": "70f98929c4c8fa69daf8d36994615a4e7b4c9fa61f408779ec9e980cd8b0adc3",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE11.SC2Map"
+      },
+      {
+        "name": "WOLZE12.SC2Map",
+        "version": "1.1",
+        "sha256": "0fc6aa4dc655e4e086110f3e937d8524b5854066de42f654ff01759a05407c88",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE12.SC2Map"
+      },
+      {
+        "name": "WOLZE13.SC2Map",
+        "version": "1.1",
+        "sha256": "603ac7052dad1051362c5e0c328d7a6f6f595007ddf5968d305b7f11964c5a54",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE13.SC2Map"
+      },
+      {
+        "name": "WOLZE14.SC2Map",
+        "version": "1.1",
+        "sha256": "9a31d4922411fc5eed1ed6164877074cd7a86e6168a0f02f3d5153f194667f00",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE14.SC2Map"
+      },
+      {
+        "name": "WOLZE15.SC2Map",
+        "version": "1.1",
+        "sha256": "1b3ba5f1308d3bd10cf8ccb096edb13fc1350edbe4375e1beb230cb7106ded95",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE15.SC2Map"
+      },
+      {
+        "name": "WOLZE16.SC2Map",
+        "version": "1.1",
+        "sha256": "f2185fd4cb8c2452e5090f681c36362d87c087e36b5d65d35739e24a7cb7ac42",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE16.SC2Map"
+      },
+      {
+        "name": "WOLZE17.SC2Map",
+        "version": "1.1",
+        "sha256": "e16785fc818da78d3e2d0a42407d631583ba0955e884024995c5e563fc1c0b93",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE17.SC2Map"
+      },
+      {
+        "name": "WOLZE18.SC2Map",
+        "version": "1.1",
+        "sha256": "0db953a5590da85b585f535f3ae64fb34b128d97894a36d2f9bac75feda38624",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE18.SC2Map"
+      },
+      {
+        "name": "WOLZE19.SC2Map",
+        "version": "1.1",
+        "sha256": "4e7bf68189de4ea8882d62f20608d215285a88e2a45e3a3a865f2ff5ca8b4408",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE19.SC2Map"
+      },
+      {
+        "name": "WOLZE2.SC2Map",
+        "version": "1.1",
+        "sha256": "00d4632146697c9e82d68dc949440e9b5c8d534e6094783bfa11f3683d539a73",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE2.SC2Map"
+      },
+      {
+        "name": "WOLZE20.SC2Map",
+        "version": "1.1",
+        "sha256": "6cba11235949fcbbd815e1ed19123e4c577b5874ae60e493f81424c105b29605",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE20.SC2Map"
+      },
+      {
+        "name": "WOLZE21.SC2Map",
+        "version": "1.1",
+        "sha256": "f536757f48312ef51e1787a8f9524c8bb9f74decfa6211e44a606a01f0971d38",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE21.SC2Map"
+      },
+      {
+        "name": "WOLZE22.SC2Map",
+        "version": "1.1",
+        "sha256": "244726fb2f131513cc7393561418e8785380e40f130f6c7e2e11168565ad4956",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE22.SC2Map"
+      },
+      {
+        "name": "WOLZE23.SC2Map",
+        "version": "1.1",
+        "sha256": "a938b779b251a027f96b082100fc247443ef48d55b867e0d20be6f17e89594e8",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE23.SC2Map"
+      },
+      {
+        "name": "WOLZE24.SC2Map",
+        "version": "1.1",
+        "sha256": "6540995c8ba57af17db022ea6a02ef0c254131d219dc384349f7590ec98f5a9d",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE24.SC2Map"
+      },
+      {
+        "name": "WOLZE25.SC2Map",
+        "version": "1.1",
+        "sha256": "4fb7f34f9403c2800a48ab921e86c02f7a8997c1f277a3fde6347cc51f16fb84",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE25.SC2Map"
+      },
+      {
+        "name": "WOLZE26.SC2Map",
+        "version": "1.1",
+        "sha256": "5aa671939ccde3553b3e4964aa78191705c29e52909812a5f2b18d3f3852dd55",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE26.SC2Map"
+      },
+      {
+        "name": "WOLZE27.SC2Map",
+        "version": "1.1",
+        "sha256": "78bdef91416b254a7612478ca5240aaf38319b9989acf7af7bd2ac3ad7767a71",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE27.SC2Map"
+      },
+      {
+        "name": "WOLZE28.SC2Map",
+        "version": "1.1",
+        "sha256": "08988a784f6d772b37b9cfccb41cd32cf0d4b6abc8f254bd80ab875f962df1f3",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE28.SC2Map"
+      },
+      {
+        "name": "WOLZE29.SC2Map",
+        "version": "1.1",
+        "sha256": "9662912ae3f55d98b98fe7cffd935a6fb4a50efd62a6074097f19cb1a8138249",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE29.SC2Map"
+      },
+      {
+        "name": "WOLZE3.SC2Map",
+        "version": "1.1",
+        "sha256": "6678f95f17f76bad900faab15a4ef947546cac7c57045975533951a1c41f080d",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE3.SC2Map"
+      },
+      {
+        "name": "WOLZE4.SC2Map",
+        "version": "1.1",
+        "sha256": "c1120b522cb7109b6bdd109d19da44e3130640f3e01aecab1d147ecd35cec914",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE4.SC2Map"
+      },
+      {
+        "name": "WOLZE5.SC2Map",
+        "version": "1.1",
+        "sha256": "d4d9178e1eda112f871eac4c2d0a52b129f9b41d101f79e4c2244d393e125c26",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE5.SC2Map"
+      },
+      {
+        "name": "WOLZE6.SC2Map",
+        "version": "1.1",
+        "sha256": "c1844adaf03a7763554b86078535bdd2033cdd5c7f77c1d674c8f1cf0029b8b1",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE6.SC2Map"
+      },
+      {
+        "name": "WOLZE7.SC2Map",
+        "version": "1.1",
+        "sha256": "dc18276f35855a77dccc80bd4866f25eaafd01bda8c0f57c68d002daa1b5c35a",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE7.SC2Map"
+      },
+      {
+        "name": "WOLZE8.SC2Map",
+        "version": "1.1",
+        "sha256": "3d242523b342483673fab76f5b9faf64830061e7398dd7665b8efb56b9f496a9",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE8.SC2Map"
+      },
+      {
+        "name": "WOLZE9.SC2Map",
+        "version": "1.1",
+        "sha256": "584d132be33d9487ca7e3e9816a7624dc03ef099a2761e550ae73449b52904c3",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE9.SC2Map"
+      }
+    ],
+    "folder": "WingsofLibertyZergEdition"
   }
 ]
