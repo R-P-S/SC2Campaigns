@@ -6,116 +6,116 @@
     "maps": [
       {
         "name": "ALLauncher.SC2Map",
-        "version": "1.1",
-        "sha256": "7d57f521d175de89dd7f08e834fdcee4648629c201cd2331dfd479c855ecbd15",
+        "version": "1.2",
+        "sha256": "f8489cf82c2babf56eada287252968e2eb205f8bfaa0f03d507215a83a997411",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/ALLauncher.SC2Map"
       },
       {
         "name": "Human01.SC2Map",
-        "version": "1.1",
-        "sha256": "09b2de40e45e1a53038b934ea3bb3500aa1d6f7a33b005366272037b4342d043",
+        "version": "1.2",
+        "sha256": "65043cbcb9502698b0a2fcc2230629f1d9b280c66c9e75333a813b0807080d2e",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/Human01.SC2Map"
       },
       {
         "name": "Human02.SC2Map",
-        "version": "1.1",
-        "sha256": "d9e996c9654fafac3d90b9b091a308840483d646bf077bf62190c6d9b262bc5b",
+        "version": "1.2",
+        "sha256": "7426db959a8c4fee51b3cb743518bb79769727d705ccd9b73e31862ddef91817",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/Human02.SC2Map"
       },
       {
         "name": "Human03.SC2Map",
-        "version": "1.1",
-        "sha256": "9b7570fc4880be9ec9794a9c3cd2cb2a12f94891abe22fef0a4fc2116be0107b",
+        "version": "1.2",
+        "sha256": "faf3934ccbcefa14516580a27c03ebaf69b6adc08cbfc393b2c11715b54d57c0",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/Human03.SC2Map"
       },
       {
         "name": "Human04.SC2Map",
-        "version": "1.1",
-        "sha256": "bbe0ebac781f668a08eb6b8d03c8963f4faa3c627ac743c9939bbcbe847220bb",
+        "version": "1.2",
+        "sha256": "0fe1214e7ea955bd718a307c1e04ef67731edd5ea2696de6eeae78189fb4e314",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/Human04.SC2Map"
       },
       {
         "name": "Human05.SC2Map",
-        "version": "1.1",
-        "sha256": "9d3d74eb9defeee4cb3989c1682945082b5af9186a68833ace267c9914a9f96a",
+        "version": "1.2",
+        "sha256": "75d849ef1a4a296460105c2f70d66bd5cab8b08e15cd445d811573127e62f2b6",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/Human05.SC2Map"
       },
       {
         "name": "Human06.SC2Map",
-        "version": "1.1",
-        "sha256": "d5d21f8ee597665718c67e2699a600ffa24aa7b122d1902bf11f54c57d23dd1e",
+        "version": "1.2",
+        "sha256": "7a0d18c6c228801be29cc347eae023c51e522dd18cecf8a7996de3a9d69cf0bf",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/Human06.SC2Map"
       },
       {
         "name": "Human07.SC2Map",
-        "version": "1.1",
-        "sha256": "528d92769e440911587009aae48c994b3b243b016c900569eb44fb0bf67635d1",
+        "version": "1.2",
+        "sha256": "9db424519fa166bf3b299c1c4d994accf42d74f12569c6fe9a1476546d124a59",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/Human07.SC2Map"
       },
       {
         "name": "Human08.SC2Map",
-        "version": "1.1",
-        "sha256": "dbd8dbf565a707b254c746d28ade1e1fc10e1e787e392973da62d1e8329173a4",
+        "version": "1.2",
+        "sha256": "18a6a30ef1f0072e5a59c2e3756855eb6fe4bab762dd228fb6b1f9edbf1b11eb",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/Human08.SC2Map"
       },
       {
         "name": "Human09.SC2Map",
-        "version": "1.1",
-        "sha256": "5a5d06e96d09e69ab81ee42c08ee868605311234509eb4f60ef3b93d55bb931b",
+        "version": "1.2",
+        "sha256": "53efcc036b4189708b5fd21e18c9c9954d2fd02412e53855bf2dba64d4ff8342",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/Human09.SC2Map"
       },
       {
         "name": "Undead01.SC2Map",
-        "version": "1.1",
-        "sha256": "ac8b679518cb71b23aedf07e53aa56f61cbf409e5e993bc1c3fb239253079eb4",
+        "version": "1.2",
+        "sha256": "c620cb4a1533d78a5af92f8b0919bb072da17c6c205a88cfb8d5831ee83221a9",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/Undead01.SC2Map"
       },
       {
         "name": "Undead02.SC2Map",
-        "version": "1.1",
-        "sha256": "2e76d2bddf70bfada94aa2be3e22d175e32ff74c7f6f12e564ade54c95ba53dc",
+        "version": "1.2",
+        "sha256": "94fe61cbf66edbfa355f5d619779e97b4802a0b231f7584038d91a2cd1577e85",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/Undead02.SC2Map"
       },
       {
         "name": "Undead03.SC2Map",
-        "version": "1.1",
-        "sha256": "cb494cd1c2f7e975e3717004ea1f01358154a80af9dffb448dc6a7614bdf4a06",
+        "version": "1.2",
+        "sha256": "e8901c7c31eee6ebcc6e7ec86d727cc961aa6737ecc1cd552754e05c2c59e86f",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/Undead03.SC2Map"
       },
       {
         "name": "Undead04.SC2Map",
-        "version": "1.1",
-        "sha256": "b051ad0242d161f7084d4582b408bc38eb05d64f155ccfea1d66134fd222dfc9",
+        "version": "1.2",
+        "sha256": "544c4c67f716c5a0132ad75e53b55f9e3ad1b901ce589b2040922568f0f0eb66",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/Undead04.SC2Map"
       },
       {
         "name": "Undead05.SC2Map",
-        "version": "1.1",
-        "sha256": "71f84cd786912e1891232d3e834ffc37a35327a0cbe74d85ab053b5a103c448d",
+        "version": "1.2",
+        "sha256": "cb102a666de0d99472c90bd0b2fef7d6b03fa4e6f6202bab472c131c34210497",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/Undead05.SC2Map"
       },
       {
         "name": "Undead06.SC2Map",
-        "version": "1.1",
-        "sha256": "f0d479435e3445cfb512af88970e7d7ce6adfdc858fe866d31b2e1991fb2d81c",
+        "version": "1.2",
+        "sha256": "11e6200cd88bce235767c485649c51410ff7485562d34882300d6996860d533c",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/Undead06.SC2Map"
       },
       {
         "name": "Undead07.SC2Map",
-        "version": "1.1",
-        "sha256": "3b476730dd6e0fedd4c5c73ef760a41c746c6eb4f2d81fae7ccceaa9310893d1",
+        "version": "1.2",
+        "sha256": "45b87ae3a1ff9ec873aff4690bf49bc81e1e9782535e356771e40de42ac13a21",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/Undead07.SC2Map"
       },
       {
         "name": "Undead08.SC2Map",
-        "version": "1.1",
-        "sha256": "d73a7b55f730c7f90f96169fbcc4bec6cf93ef9520666102a11a489873f0cc9b",
+        "version": "1.2",
+        "sha256": "52ceae2356485634d444d8ad6a4cf1ccc216086c5dfc1c683a34ee83645ebb62",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/Undead08.SC2Map"
       },
       {
         "name": "Undead09.SC2Map",
-        "version": "1.1",
-        "sha256": "bd7fb58a0b08162368573e4bd71a0cf757885ca469284554112f266dec349c36",
+        "version": "1.2",
+        "sha256": "34dfbd0064ed8fa8e5220f019b259bbf619db8a58bed189b0a824754a1fac533",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/Undead09.SC2Map"
       },
       {
