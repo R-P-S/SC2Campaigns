@@ -1145,6 +1145,13 @@
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/mods/%5BMod%5D%20LOTVZE.SC2Mod"
       },
       {
+        "version": "1.1",
+        "sha256": "fadbde178d2400bd71fbaec758dd13f5bf4f71b71c414897f2eb8a92461fda31",
+        "name": "ARTMOD.SC2Mod",
+        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/raceswap-assets/ARTMOD.SC2Mod",
+        "release_asset": true
+      },
+      {
         "name": "LOTVZE1.SC2Map",
         "version": "1.1",
         "sha256": "e99e3252e8f4de1dc6ceda24e976a198f7ff69fdda85de5193fae529c898cd13",
@@ -1293,13 +1300,6 @@
         "version": "1.1",
         "sha256": "e86bfcb977dd0be772898609a8463b76e397cc30ed9d183cf59bd9775e7d7fa0",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE9.SC2Map"
-      },
-      {
-        "version": "1.1",
-        "sha256": "fadbde178d2400bd71fbaec758dd13f5bf4f71b71c414897f2eb8a92461fda31",
-        "name": "ARTMOD.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/raceswap-assets/ARTMOD.SC2Mod",
-        "release_asset": true
       }
     ],
     "folder": "legacyofthevoidzergedition"
