@@ -131,7 +131,7 @@
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/mods/WC3_CustomData.SC2Mod"
       }
     ],
-    "folder": "AzerothLegends"
+    "folder": "azerothlegends"
   },
   {
     "title": "Azeroth Reborn",
@@ -553,7 +553,7 @@
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/mods/WC3MOD_ASSETS_4.SC2Mod"
       }
     ],
-    "folder": "AzerothReborn"
+    "folder": "azerothreborn"
   },
   {
     "title": "Heart of the Swarm Protoss Edition",
@@ -693,7 +693,7 @@
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/HOTSPE9.SC2Map"
       }
     ],
-    "folder": "HeartoftheSwarmProtossEdition"
+    "folder": "heartoftheswarmprotossedition"
   },
   {
     "title": "Heart of the Swarm Terran Edition",
@@ -833,7 +833,7 @@
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/HOTSTE9.SC2Map"
       }
     ],
-    "folder": "HeartoftheSwarmTerranEdition"
+    "folder": "heartoftheswarmterranedition"
   },
   {
     "title": "Kerrigan Covert Ops",
@@ -907,7 +907,7 @@
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Kerrigan%20Covert%20Ops/KCO9.SC2Map"
       }
     ],
-    "folder": "KerriganCovertOps"
+    "folder": "kerrigancovertops"
   },
   {
     "title": "Legacy of the Void Terran Edition",
@@ -1083,7 +1083,7 @@
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE9.SC2Map"
       }
     ],
-    "folder": "LegacyoftheVoidTerranEdition"
+    "folder": "legacyofthevoidterranedition"
   },
   {
     "title": "Legacy of the Void Zerg Edition",
@@ -1253,7 +1253,7 @@
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE9.SC2Map"
       }
     ],
-    "folder": "LegacyoftheVoidZergEdition"
+    "folder": "legacyofthevoidzergedition"
   },
   {
     "title": "Protoss Covert Ops",
@@ -1327,7 +1327,7 @@
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Protoss%20Covert%20Ops/PCO9.SC2Map"
       }
     ],
-    "folder": "ProtossCovertOps"
+    "folder": "protosscovertops"
   },
   {
     "title": "Wings of Liberty Protoss Edition",
@@ -1551,7 +1551,7 @@
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE9.SC2Map"
       }
     ],
-    "folder": "WingsofLibertyProtossEdition"
+    "folder": "wingsoflibertyprotossedition"
   },
   {
     "title": "Wings of Liberty Zerg Edition",
@@ -1751,6 +1751,6 @@
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE9.SC2Map"
       }
     ],
-    "folder": "WingsofLibertyZergEdition"
+    "folder": "wingsoflibertyzergedition"
   }
 ]
