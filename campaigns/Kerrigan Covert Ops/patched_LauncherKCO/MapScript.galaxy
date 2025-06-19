@@ -1,0 +1,179 @@
+//==================================================================================================
+// 
+// Generated Map Script
+// 
+// Name:   Kerrigan Covert Ops - Map Launcher
+// 
+//==================================================================================================
+include "TriggerLibs/NativeLib"
+
+//--------------------------------------------------------------------------------------------------
+// Library Initialization
+//--------------------------------------------------------------------------------------------------
+void InitLibs () {
+    libNtve_InitLib();
+}
+
+//--------------------------------------------------------------------------------------------------
+// Global Variables
+//--------------------------------------------------------------------------------------------------
+int gv_map1;
+int gv_map2;
+int gv_map3;
+int gv_map4;
+int gv_map5;
+int gv_map6;
+int gv_map7;
+int gv_map8;
+int gv_map9;
+
+void InitGlobals () {
+    gv_map1 = c_invalidDialogControlId;
+    gv_map2 = c_invalidDialogControlId;
+    gv_map3 = c_invalidDialogControlId;
+    gv_map4 = c_invalidDialogControlId;
+    gv_map5 = c_invalidDialogControlId;
+    gv_map6 = c_invalidDialogControlId;
+    gv_map7 = c_invalidDialogControlId;
+    gv_map8 = c_invalidDialogControlId;
+    gv_map9 = c_invalidDialogControlId;
+}
+
+//--------------------------------------------------------------------------------------------------
+// Trigger Variables
+//--------------------------------------------------------------------------------------------------
+trigger gt_UISetup;
+trigger gt_ButtonsPressed;
+
+//--------------------------------------------------------------------------------------------------
+// Trigger: UI Setup
+//--------------------------------------------------------------------------------------------------
+bool gt_UISetup_Func (bool testConds, bool runActions) {
+    // Automatic Variable Declarations
+    // Actions
+    if (!runActions) {
+        return true;
+    }
+
+    libNtve_gf_HideGameUI(false, PlayerGroupAll());
+    UISetWorldVisible(PlayerGroupAll(), false);
+    CameraLockInput(1, true);
+    libNtve_gf_DisplayScreenImage(1, "Assets\\Textures\\ui_hots_loading_missionselect_zspace02.dds", c_triggerBlendModeAdd, 2120, 1200, c_anchorCenter, 0, 0);
+    libNtve_gf_DisplayScreenLabel(1, StringExternal("Param/Value/03542E23"), "Kicker_Zerg", 700, 100, c_anchorTop, 150, 50);
+    libNtve_gf_DisplayScreenLabel(2, StringExternal("Param/Value/1C0A7864"), "Kicker_Refinery", 400, 200, c_anchorTopLeft, 100, 150);
+    libNtve_gf_DisplayScreenButton(1, StringExternal("Param/Value/3553F6FD"), 500, 100, c_anchorTopLeft, 50, 200, null);
+    libNtve_gf_SetScreenButtonBorderImage(1, "Assets\\Textures\\ui_generic_button_normalpressed_zerg.dds", "Assets\\Textures\\ui_generic_button_normaloverpressedover_zerg.dds", c_triggerImageTypeBorder);
+    gv_map1 = DialogControlLastCreated();
+    libNtve_gf_DisplayScreenButton(2, StringExternal("Param/Value/C305177E"), 500, 100, c_anchorTopLeft, 50, 295, null);
+    libNtve_gf_SetScreenButtonBorderImage(2, "Assets\\Textures\\ui_generic_button_normalpressed_zerg.dds", "Assets\\Textures\\ui_generic_button_normaloverpressedover_zerg.dds", c_triggerImageTypeBorder);
+    gv_map2 = DialogControlLastCreated();
+    libNtve_gf_DisplayScreenButton(3, StringExternal("Param/Value/2EE09FD0"), 500, 100, c_anchorTopLeft, 50, 390, null);
+    libNtve_gf_SetScreenButtonBorderImage(3, "Assets\\Textures\\ui_generic_button_normalpressed_zerg.dds", "Assets\\Textures\\ui_generic_button_normaloverpressedover_zerg.dds", c_triggerImageTypeBorder);
+    gv_map3 = DialogControlLastCreated();
+    libNtve_gf_DisplayScreenButton(4, StringExternal("Param/Value/7B6BC4EE"), 500, 100, c_anchorTopLeft, 50, 535, null);
+    libNtve_gf_SetScreenButtonBorderImage(4, "Assets\\Textures\\ui_generic_button_normalpressed_zerg.dds", "Assets\\Textures\\ui_generic_button_normaloverpressedover_zerg.dds", c_triggerImageTypeBorder);
+    gv_map4 = DialogControlLastCreated();
+    libNtve_gf_DisplayScreenButton(5, StringExternal("Param/Value/D0A02DDF"), 500, 100, c_anchorTopLeft, 50, 630, null);
+    libNtve_gf_SetScreenButtonBorderImage(5, "Assets\\Textures\\ui_generic_button_normalpressed_zerg.dds", "Assets\\Textures\\ui_generic_button_normaloverpressedover_zerg.dds", c_triggerImageTypeBorder);
+    gv_map5 = DialogControlLastCreated();
+    libNtve_gf_DisplayScreenButton(6, StringExternal("Param/Value/4D7C3FA9"), 500, 100, c_anchorTopLeft, 50, 725, null);
+    libNtve_gf_SetScreenButtonBorderImage(6, "Assets\\Textures\\ui_generic_button_normalpressed_zerg.dds", "Assets\\Textures\\ui_generic_button_normaloverpressedover_zerg.dds", c_triggerImageTypeBorder);
+    gv_map6 = DialogControlLastCreated();
+    libNtve_gf_DisplayScreenButton(7, StringExternal("Param/Value/CA1D7675"), 500, 100, c_anchorTopLeft, 50, 870, null);
+    libNtve_gf_SetScreenButtonBorderImage(7, "Assets\\Textures\\ui_generic_button_normalpressed_zerg.dds", "Assets\\Textures\\ui_generic_button_normaloverpressedover_zerg.dds", c_triggerImageTypeBorder);
+    gv_map7 = DialogControlLastCreated();
+    libNtve_gf_DisplayScreenButton(8, StringExternal("Param/Value/CDC2B2BB"), 500, 100, c_anchorTopLeft, 50, 965, null);
+    libNtve_gf_SetScreenButtonBorderImage(8, "Assets\\Textures\\ui_generic_button_normalpressed_zerg.dds", "Assets\\Textures\\ui_generic_button_normaloverpressedover_zerg.dds", c_triggerImageTypeBorder);
+    gv_map8 = DialogControlLastCreated();
+    libNtve_gf_DisplayScreenButton(9, StringExternal("Param/Value/D88C54D7"), 500, 100, c_anchorTopLeft, 50, 1060, null);
+    libNtve_gf_SetScreenButtonBorderImage(9, "Assets\\Textures\\ui_generic_button_normalpressed_zerg.dds", "Assets\\Textures\\ui_generic_button_normaloverpressedover_zerg.dds", c_triggerImageTypeBorder);
+    gv_map9 = DialogControlLastCreated();
+    return true;
+}
+
+//--------------------------------------------------------------------------------------------------
+void gt_UISetup_Init () {
+    gt_UISetup = TriggerCreate("gt_UISetup_Func");
+    TriggerAddEventMapInit(gt_UISetup);
+}
+
+//--------------------------------------------------------------------------------------------------
+// Trigger: Buttons Pressed
+//--------------------------------------------------------------------------------------------------
+bool gt_ButtonsPressed_Func (bool testConds, bool runActions) {
+    // Automatic Variable Declarations
+    int auto66C3CF2C_val;
+
+    // Actions
+    if (!runActions) {
+        return true;
+    }
+
+    auto66C3CF2C_val = EventDialogControl();
+    if (auto66C3CF2C_val == gv_map1) {
+        OnlineMapToMapLoad(52, PlayerGroupSingle(1), PlayerGroupEmpty());
+        GameSetNextMap("KerriganCovertOps/KCO1.SC2Map");
+    }
+    else if (auto66C3CF2C_val == gv_map2) {
+        OnlineMapToMapLoad(53, PlayerGroupSingle(1), PlayerGroupEmpty());
+        GameSetNextMap("KerriganCovertOps/KCO2.SC2Map");
+    }
+    else if (auto66C3CF2C_val == gv_map3) {
+        OnlineMapToMapLoad(54, PlayerGroupSingle(1), PlayerGroupEmpty());
+        GameSetNextMap("KerriganCovertOps/KCO3.SC2Map");
+    }
+    else if (auto66C3CF2C_val == gv_map4) {
+        OnlineMapToMapLoad(55, PlayerGroupSingle(1), PlayerGroupEmpty());
+        GameSetNextMap("KerriganCovertOps/KCO4.SC2Map");
+    }
+    else if (auto66C3CF2C_val == gv_map5) {
+        OnlineMapToMapLoad(56, PlayerGroupSingle(1), PlayerGroupEmpty());
+        GameSetNextMap("KerriganCovertOps/KCO5.SC2Map");
+    }
+    else if (auto66C3CF2C_val == gv_map6) {
+        OnlineMapToMapLoad(57, PlayerGroupSingle(1), PlayerGroupEmpty());
+        GameSetNextMap("KerriganCovertOps/KCO6.SC2Map");
+    }
+    else if (auto66C3CF2C_val == gv_map7) {
+        OnlineMapToMapLoad(58, PlayerGroupSingle(1), PlayerGroupEmpty());
+        GameSetNextMap("KerriganCovertOps/KCO7.SC2Map");
+    }
+    else if (auto66C3CF2C_val == gv_map8) {
+        OnlineMapToMapLoad(59, PlayerGroupSingle(1), PlayerGroupEmpty());
+        GameSetNextMap("KerriganCovertOps/KCO8.SC2Map");
+    }
+    else if (auto66C3CF2C_val == gv_map9) {
+        OnlineMapToMapLoad(60, PlayerGroupSingle(1), PlayerGroupEmpty());
+        GameSetNextMap("KerriganCovertOps/KCO9.SC2Map");
+    }
+    else {
+    }
+    if ((GameIsOnline() == false)) {
+        GameOver(1, c_gameOverVictory, false, false);
+    }
+
+    return true;
+}
+
+//--------------------------------------------------------------------------------------------------
+void gt_ButtonsPressed_Init () {
+    gt_ButtonsPressed = TriggerCreate("gt_ButtonsPressed_Func");
+    TriggerAddEventDialogControl(gt_ButtonsPressed, 1, c_invalidDialogControlId, c_triggerControlEventTypeClick);
+}
+
+//--------------------------------------------------------------------------------------------------
+// Trigger Initialization
+//--------------------------------------------------------------------------------------------------
+void InitTriggers () {
+    gt_UISetup_Init();
+    gt_ButtonsPressed_Init();
+}
+
+//--------------------------------------------------------------------------------------------------
+// Map Initialization
+//--------------------------------------------------------------------------------------------------
+void InitMap () {
+    InitLibs();
+    InitGlobals();
+    InitTriggers();
+}
