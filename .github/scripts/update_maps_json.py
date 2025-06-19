@@ -84,7 +84,7 @@ for camp_dir in sorted(MAPS_DIR.iterdir()):
     for pth in sorted(files, key=lambda p: p.name.lower()):
         name   = pth.name
         digest = sha256(pth)
-        entry  = old_maps.get(name, {"name": name, "version": "1.0", "sha256": ""})
+        entry  = (old_maps.get(name) or {"name": name, "version": "1.0", "sha256": ""}).copy()
 
         if entry["sha256"] != digest:
             entry["version"] = bump_minor(entry["version"])
