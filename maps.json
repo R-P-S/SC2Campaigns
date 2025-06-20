@@ -599,13 +599,13 @@
   },
   {
     "title": "Heart of the Swarm Protoss Edition",
-    "version": "1.1",
+    "version": "1.2",
     "asset": "Heart of the Swarm Protoss Edition.png",
     "maps": [
       {
         "name": "LauncherHOTSPE.SC2Map",
-        "version": "1.1",
-        "sha256": "baeb7c3a7ea3e70b85e738fb2b0e34a43609c2337a93cbd78aba4d0c148a7d29",
+        "version": "1.2",
+        "sha256": "32f7c475e7b3f4f8bef2ee077d14a0a9dc85b6916ea2cdcb263f70513a58126c",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/LauncherHOTSPE.SC2Map"
       },
       {
@@ -616,122 +616,122 @@
       },
       {
         "name": "HOTSPE1.SC2Map",
-        "version": "1.1",
-        "sha256": "e10ff55b62c36a6112a0b8a9f51f27e5f53746c869f24ba3204f667a55aaae22",
+        "version": "1.2",
+        "sha256": "fe6cfea986c23b7f3715156ef12a1e8914eec6e9a81eac9bbaa5930e6544aa34",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/HOTSPE1.SC2Map"
       },
       {
         "name": "HOTSPE10.SC2Map",
-        "version": "1.1",
-        "sha256": "369d8c492758d026e9ba42df461c3717d82edecd61ef7ab6cccc68b767d69097",
+        "version": "1.2",
+        "sha256": "ec9afafc2c4fe8cd8b7b43bd291e6260e851a7fc722ddd75b531dfd4525f9537",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/HOTSPE10.SC2Map"
       },
       {
         "name": "HOTSPE11.SC2Map",
-        "version": "1.1",
-        "sha256": "1e115b5382f53e32f94a25ac46e57d6a2529b278ace8621c65fd1b3795a86c20",
+        "version": "1.2",
+        "sha256": "b04b14ed209fca2f3c54dcf42c16a84460bb613b6e0ec4a1a81c879e7de4a681",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/HOTSPE11.SC2Map"
       },
       {
         "name": "HOTSPE12.SC2Map",
-        "version": "1.1",
-        "sha256": "108c4e2210e43ba1d9dcc0fa70d91a7f46a7aa6ce92de64339ac01a67a2413b6",
+        "version": "1.2",
+        "sha256": "2076e3d7c5587ece9e10bc1793e5ec71237ac158f867c11a21f2d1eaab89fba0",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/HOTSPE12.SC2Map"
       },
       {
         "name": "HOTSPE13.SC2Map",
-        "version": "1.1",
-        "sha256": "c6d768c2bdaff84b5c34430ef0af8b544dbd9d6cd43887a3ea664555e63db7b4",
+        "version": "1.2",
+        "sha256": "e711b883158448f4bf74914d4ce4c68201ac5d1d658d3a3f8c90b72f22595f6b",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/HOTSPE13.SC2Map"
       },
       {
         "name": "HOTSPE14.SC2Map",
-        "version": "1.1",
-        "sha256": "dd581179349b2e6c524db24f3608992140a57db2ad10142e04f3f4c2cc800761",
+        "version": "1.2",
+        "sha256": "e6014a4836ea62a5af7d259083df386e81ea58ad015ee413e767f2254b2798ee",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/HOTSPE14.SC2Map"
       },
       {
         "name": "HOTSPE15.SC2Map",
-        "version": "1.1",
-        "sha256": "f50ecd14ab593bc657d90c036e93cb2cec42c62d72412a0f0dbe8df152e8d25d",
+        "version": "1.2",
+        "sha256": "8c3fd8cfa038eb064b2400638ef53f0b4fca50a3a09a4a9e358554d9f2fa174e",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/HOTSPE15.SC2Map"
       },
       {
         "name": "HOTSPE16.SC2Map",
-        "version": "1.1",
-        "sha256": "f112735aa3d31d3e755c2de7ac8b5798a34765eadbca363631b36c92ffb16aea",
+        "version": "1.2",
+        "sha256": "c8e9ebcae6d4cca09ba8d2ca0e29455cf940f04df78c88c7586d69225f093ba4",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/HOTSPE16.SC2Map"
       },
       {
         "name": "HOTSPE17.SC2Map",
-        "version": "1.1",
-        "sha256": "e9c54b55b4d4dc434841e361b69496bcee818f5928bcc7cf55b6bcc605fef376",
+        "version": "1.2",
+        "sha256": "d26f3529a8185546c441316f3c116ad8c1e84f2f1b38a1e2766560f8b805a392",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/HOTSPE17.SC2Map"
       },
       {
         "name": "HOTSPE18.SC2Map",
-        "version": "1.1",
-        "sha256": "e548c066dfa02e59e6d49e340301a4b6c51571c14b029258d6ccdecc79a07948",
+        "version": "1.2",
+        "sha256": "10814fab425e5678836703b76d2438ae2a2a27f93e087c67c0163c95bbbd52f8",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/HOTSPE18.SC2Map"
       },
       {
         "name": "HOTSPE19.SC2Map",
-        "version": "1.1",
-        "sha256": "9f58cad7a1c509ec921b1da1ee5c595c80c4dbd2b614396217b2d407e04f5af7",
+        "version": "1.2",
+        "sha256": "caea3fc6104d02d33cfec16d78d6f1eef33d11e24af29a077d60ef45df84cd47",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/HOTSPE19.SC2Map"
       },
       {
         "name": "HOTSPE2.SC2Map",
-        "version": "1.1",
-        "sha256": "c28ab580ae4409a4b619dd0f2862fbacb58ca345543e16376c8e139089a0a84e",
+        "version": "1.2",
+        "sha256": "506b8c8e4ac7e68e4ec58f22c7a534dab09d12b6d8dfb23c75eb2181edd41fab",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/HOTSPE2.SC2Map"
       },
       {
         "name": "HOTSPE20.SC2Map",
-        "version": "1.1",
-        "sha256": "9c8a38ca3842edf6ecbb26a65d5f6d70950a5ca1548aa6ea5721b631a365e679",
+        "version": "1.2",
+        "sha256": "faad85ff4bbfada51b3066d768e4e40c2a061f4d4faaae9a77247372bbf7980d",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/HOTSPE20.SC2Map"
       },
       {
         "name": "HOTSPE3.SC2Map",
-        "version": "1.1",
-        "sha256": "7b2c220b97e25bc083a3ebbf568e50ca3a97ab7681d821f2ea8e99e8d29e781d",
+        "version": "1.2",
+        "sha256": "a50329bfeabc9de6b745fec6cedcf2e054a60694cb29b3758498c5394e0a50a2",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/HOTSPE3.SC2Map"
       },
       {
         "name": "HOTSPE4.SC2Map",
-        "version": "1.1",
-        "sha256": "545d981b34323a08195db4dbc0c04dc3b1c0b888c7831757c7b9470f1fb95f76",
+        "version": "1.2",
+        "sha256": "d27192170f6f6d4467e14ccec1f279f62e55d966702062431b1aecefa856ae21",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/HOTSPE4.SC2Map"
       },
       {
         "name": "HOTSPE5.SC2Map",
-        "version": "1.1",
-        "sha256": "adc625ed03420523f7d72d4e37e644db017c78dddc3507a558964f8216a9cad8",
+        "version": "1.2",
+        "sha256": "56136fe97cb87e668cc812cad98ce7068a4025a918d6bf43cfe3114b6fa4ad39",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/HOTSPE5.SC2Map"
       },
       {
         "name": "HOTSPE6.SC2Map",
-        "version": "1.1",
-        "sha256": "505dd54bd96fb504ffadbf3d8a9167e4e86cb9f9dd9840049c98af34bc91e92d",
+        "version": "1.2",
+        "sha256": "a007009bc696d3c5f5673d8634f9ce9a1ff8f929b80b027dad776b4f609f79bf",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/HOTSPE6.SC2Map"
       },
       {
         "name": "HOTSPE7.SC2Map",
-        "version": "1.1",
-        "sha256": "89f217e9856c5d821f3f5f9afc81b1ccb76548826795eb138238d4901f1e33cc",
+        "version": "1.2",
+        "sha256": "2f6682c9b5853e21113841c6ec5afbe920ab5976828d045b774ed5ea849b6fba",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/HOTSPE7.SC2Map"
       },
       {
         "name": "HOTSPE8.SC2Map",
-        "version": "1.1",
-        "sha256": "a7482f5900cb6f1455f03b148ddc2fef29be01d5ec6b879d786b6c9c3244763d",
+        "version": "1.2",
+        "sha256": "28a0927ff6189c02db50f3fd6588d38d25a276fcba3c8f00ad554c705577d2f9",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/HOTSPE8.SC2Map"
       },
       {
         "name": "HOTSPE9.SC2Map",
-        "version": "1.1",
-        "sha256": "cd3f1e1c905cd27ee7affdf4f2816fec1568c40b985417b33deb3a2f1f0e1777",
+        "version": "1.2",
+        "sha256": "edd22b56d227ce5bb8b355014eb93b964523f84a921376b504aa0c2cb659351f",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/HOTSPE9.SC2Map"
       }
     ],
