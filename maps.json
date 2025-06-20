@@ -879,13 +879,13 @@
   },
   {
     "title": "Kerrigan Covert Ops",
-    "version": "1.1",
+    "version": "1.2",
     "asset": "Kerrigan Covert Ops.png",
     "maps": [
       {
         "name": "LauncherKCO.SC2Map",
-        "version": "1.1",
-        "sha256": "ee2af0fe097c7b5f1be60253cbd478a7989f0f319249a0ccb47bd1769ee4116e",
+        "version": "1.2",
+        "sha256": "61dab08f68445b1858711aa96ac3f5380ba9e824f42042bcaf58aadb3d24acfa",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Kerrigan%20Covert%20Ops/LauncherKCO.SC2Map"
       },
       {
@@ -896,56 +896,56 @@
       },
       {
         "name": "KCO1.SC2Map",
-        "version": "1.1",
-        "sha256": "0147043d52b2805d504dfbc3a2b4f9819a39c9b8b375fc5bb011a9a7f2b48793",
+        "version": "1.2",
+        "sha256": "42ed974c41a967b2e5bac66dc0410d37df566e2a5a8a1834c1d7b131c90dabbf",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Kerrigan%20Covert%20Ops/KCO1.SC2Map"
       },
       {
         "name": "KCO2.SC2Map",
-        "version": "1.1",
-        "sha256": "faeccc9cf5d8340a204d2861d27f66af518e1035c0c700be6099528219caeaec",
+        "version": "1.2",
+        "sha256": "e4895d87aefb287887c16022d1f809827a3dd57ff817d3d70aa9afb19635d55c",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Kerrigan%20Covert%20Ops/KCO2.SC2Map"
       },
       {
         "name": "KCO3.SC2Map",
-        "version": "1.1",
-        "sha256": "171260a0086335d7d4dda2d0e09cfc636c1bb256a4d68bc869776e8eb5cca533",
+        "version": "1.2",
+        "sha256": "3ae93fd641202a4a8f6b0f217216a05ea157c89ad4af37af4e7cc4f257f28606",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Kerrigan%20Covert%20Ops/KCO3.SC2Map"
       },
       {
         "name": "KCO4.SC2Map",
-        "version": "1.1",
-        "sha256": "155bf75f9473751974d9f43d2d1e2af793c05ec665700ca4f48971b4ccde3237",
+        "version": "1.2",
+        "sha256": "a67fa7d8f7e00252fca69fd62c8f0397cf993ba7f49d066a52077172e5713bfd",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Kerrigan%20Covert%20Ops/KCO4.SC2Map"
       },
       {
         "name": "KCO5.SC2Map",
-        "version": "1.1",
-        "sha256": "16506725023f074a4d8c20e8bf629465d37db1f13f74f1a53c4a1c8c5b1afa15",
+        "version": "1.2",
+        "sha256": "9b57d5d07a1d8a2f928200a6ca50cc5331b004bfa8c7f49c56c5c4a36f05b489",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Kerrigan%20Covert%20Ops/KCO5.SC2Map"
       },
       {
         "name": "KCO6.SC2Map",
-        "version": "1.1",
-        "sha256": "1af516a3b8d751815f4c7b0e1d87ac7f6d621b83ed7ef2aa66d986f28bc30d06",
+        "version": "1.2",
+        "sha256": "6d5e650c463092fa4225bf795529e94a473efae3a48e45bfdc6fe6cf694a53ea",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Kerrigan%20Covert%20Ops/KCO6.SC2Map"
       },
       {
         "name": "KCO7.SC2Map",
-        "version": "1.1",
-        "sha256": "60f94bfb842232bfae7effcbb520c946c14d59c518bfc4da6fb783d9f3885062",
+        "version": "1.2",
+        "sha256": "d9d854d881dcc000000ee56a3c04722de442b0d6b91ec0c961b14ac4dc89460a",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Kerrigan%20Covert%20Ops/KCO7.SC2Map"
       },
       {
         "name": "KCO8.SC2Map",
-        "version": "1.1",
-        "sha256": "cf55c7bce17b4cc0f83cb3b724b3836fa7a588c88dfa2830cd3d9e5b42f8e612",
+        "version": "1.2",
+        "sha256": "bce10953696860fc37fb8f3d43c1c70464599abe49de91cd6990efa67d8cb698",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Kerrigan%20Covert%20Ops/KCO8.SC2Map"
       },
       {
         "name": "KCO9.SC2Map",
-        "version": "1.1",
-        "sha256": "47db57fec77e6c1b3b03fc3b9348f301dc191e7209578aa8c59715fc2e09baf1",
+        "version": "1.2",
+        "sha256": "4ff821ab2b53f4c0f91c014d30a670fa9086af12a516362c8472888bcdb54090",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Kerrigan%20Covert%20Ops/KCO9.SC2Map"
       }
     ],
