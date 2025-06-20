@@ -879,13 +879,13 @@
   },
   {
     "title": "Kerrigan Covert Ops",
-    "version": "1.2",
+    "version": "1.3",
     "asset": "Kerrigan Covert Ops.png",
     "maps": [
       {
         "name": "LauncherKCO.SC2Map",
-        "version": "1.2",
-        "sha256": "61dab08f68445b1858711aa96ac3f5380ba9e824f42042bcaf58aadb3d24acfa",
+        "version": "1.3",
+        "sha256": "2c392b75d87ba32c0e821d32f5178f11a2d7609bd48cb2c9883e15c46e31d172",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Kerrigan%20Covert%20Ops/LauncherKCO.SC2Map"
       },
       {
