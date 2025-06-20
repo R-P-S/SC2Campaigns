@@ -1306,13 +1306,13 @@
   },
   {
     "title": "Protoss Covert Ops",
-    "version": "1.1",
+    "version": "1.2",
     "asset": "Protoss Covert Ops.png",
     "maps": [
       {
         "name": "LauncherPCO.SC2Map",
-        "version": "1.1",
-        "sha256": "ccd1a6f3bf0010d6d2072b91a5765c7b9b37062e555722cea63095b3834e3919",
+        "version": "1.2",
+        "sha256": "c0fb3b3fe0db1b4272d42aa773fc0e77d19eb5ddc22523197490d5a6c675fcc9",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Protoss%20Covert%20Ops/LauncherPCO.SC2Map"
       },
       {
@@ -1323,56 +1323,56 @@
       },
       {
         "name": "PCO1.SC2Map",
-        "version": "1.1",
-        "sha256": "3f9c82fa94e91cdb91784169664fc2b1dfbe3af41cc24e4dd2a32895286fb384",
+        "version": "1.2",
+        "sha256": "1f51d412982f055f3d12f6c16048c9242e25d8e0d77ba1774b4203f2704d6695",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Protoss%20Covert%20Ops/PCO1.SC2Map"
       },
       {
         "name": "PCO2.SC2Map",
-        "version": "1.1",
-        "sha256": "ac8a2a61621dbedbf9ec53fc9809738d814e446373c6f553956c20579cae9651",
+        "version": "1.2",
+        "sha256": "bab7b0c6ad319b21dbd9bfbec86bd92dfc72779089580987c7f7d1ebcb9611f3",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Protoss%20Covert%20Ops/PCO2.SC2Map"
       },
       {
         "name": "PCO3.SC2Map",
-        "version": "1.1",
-        "sha256": "8f5ef15b336bb06dbea20e15c4f05e9fd6cd174cfae224e5c980511c515e71a2",
+        "version": "1.2",
+        "sha256": "652487d9e1970f6d54d48a09f9d8b621993ada0bc24019870e9c06c309c77d63",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Protoss%20Covert%20Ops/PCO3.SC2Map"
       },
       {
         "name": "PCO4.SC2Map",
-        "version": "1.1",
-        "sha256": "af42c24db8e0a92298a4837ed9fcd8fb3f07e8e2d23b60a52d3b1547ab1d2de1",
+        "version": "1.2",
+        "sha256": "0cd88d86ae173dcb595d45d83bd5916fc065d58ef1ae6e0fcbe7b1c0b38a1843",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Protoss%20Covert%20Ops/PCO4.SC2Map"
       },
       {
         "name": "PCO5.SC2Map",
-        "version": "1.1",
-        "sha256": "c010a0438a11db0158f5fc29ea6f610aebba1fb88585f6c04a2c8d2b07ef82a2",
+        "version": "1.2",
+        "sha256": "dfe212e8697238a055ccf132183a11d527d875836132b8468893520a26c54c86",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Protoss%20Covert%20Ops/PCO5.SC2Map"
       },
       {
         "name": "PCO6.SC2Map",
-        "version": "1.1",
-        "sha256": "4ea8ad725ac8cd7c668d245792afb8c45bf4fb27d2738006d9dbfd4868c0cdc1",
+        "version": "1.2",
+        "sha256": "8a4bfe84a5df0652f8467df61bf25379071bf75118e253b95e5d492efbdde790",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Protoss%20Covert%20Ops/PCO6.SC2Map"
       },
       {
         "name": "PCO7.SC2Map",
-        "version": "1.1",
-        "sha256": "33e0d66347451871178fea197fe8d1e6e8987233c071f72e72332f4d2fbf2a06",
+        "version": "1.2",
+        "sha256": "a73fd4116953315dbc90a14ec4ac4eaee2dd89c67587ab4979e4f92066b7e03a",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Protoss%20Covert%20Ops/PCO7.SC2Map"
       },
       {
         "name": "PCO8.SC2Map",
-        "version": "1.1",
-        "sha256": "b5b1769135140047ad0a18062e6b34f0e082b6744dcb3b291954798c61a0c658",
+        "version": "1.2",
+        "sha256": "9f7b32a8d749f9fcf2308692fa5f89f34af7e91607495d25113943d1b8f96a1f",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Protoss%20Covert%20Ops/PCO8.SC2Map"
       },
       {
         "name": "PCO9.SC2Map",
-        "version": "1.1",
-        "sha256": "3835a5090e9199587581bd274122b3c30058d0624eec94980e6c6c7ccec927fd",
+        "version": "1.2",
+        "sha256": "f599a60a2526dc011772a3d958859017a6666ceef7ca44261b2cce46333cf187",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Protoss%20Covert%20Ops/PCO9.SC2Map"
       }
     ],
