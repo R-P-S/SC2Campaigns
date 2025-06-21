@@ -1129,13 +1129,13 @@
   },
   {
     "title": "Legacy of the Void Zerg Edition",
-    "version": "1.1",
+    "version": "1.2",
     "asset": "Legacy of the Void Zerg Edition.png",
     "maps": [
       {
         "name": "LauncherLOTVZE.SC2Map",
-        "version": "1.1",
-        "sha256": "3e8ee2863c2bc40c0b9b9001764255225a23d60b623b0f18cc72d845b4bd63e3",
+        "version": "1.2",
+        "sha256": "264d2ef3783c45d3ddc9a4aa6e9fc66345cc7bd738973415d212dbeb53a2b68e",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LauncherLOTVZE.SC2Map"
       },
       {
@@ -1153,152 +1153,152 @@
       },
       {
         "name": "LOTVZE1.SC2Map",
-        "version": "1.1",
-        "sha256": "e99e3252e8f4de1dc6ceda24e976a198f7ff69fdda85de5193fae529c898cd13",
+        "version": "1.2",
+        "sha256": "4b2e84fd69154933e0c349470794f6e09f8c38299962dfd5debb96766682fcd1",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE1.SC2Map"
       },
       {
         "name": "LOTVZE10.SC2Map",
-        "version": "1.1",
-        "sha256": "ce64e9e08b0a95d371b522ad56f6280c847e3463dcb544bcf1c0a3f03557494f",
+        "version": "1.2",
+        "sha256": "7cbddeafcf6ef610735e7ceaddbac2aacf2383b597f0d12299b4b85d873a9ddc",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE10.SC2Map"
       },
       {
         "name": "LOTVZE11.SC2Map",
-        "version": "1.1",
-        "sha256": "5d560f415ea0624cd14dfc4e526306d3074662909b2ead8ff2ff24f9d7f685c0",
+        "version": "1.2",
+        "sha256": "2356095fdafcf393d0298aca8ada199e302d0380e293fbb125ece4f79865e9a4",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE11.SC2Map"
       },
       {
         "name": "LOTVZE12.SC2Map",
-        "version": "1.1",
-        "sha256": "da18cdac192cb3db04cf9e87ed053f928d972b93ac44950b7b907d8ef7be6a71",
+        "version": "1.2",
+        "sha256": "2b6f7f40994480ebc16128841a1cdb5067ce855d64e74f799af6263807205177",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE12.SC2Map"
       },
       {
         "name": "LOTVZE13.SC2Map",
-        "version": "1.1",
-        "sha256": "3e9e0411a944bddc4c52596383e02865edb54b67a3151abaab6a7230368b4692",
+        "version": "1.2",
+        "sha256": "a4e835ee87c18b9ee821fc867a7b9af920e0d73ec18fc4f47805b972f2bdb2de",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE13.SC2Map"
       },
       {
         "name": "LOTVZE14.SC2Map",
-        "version": "1.1",
-        "sha256": "747ae5de6b65e6d20ed8410859976ef7636b3da8180118c73b61fce088e2bead",
+        "version": "1.2",
+        "sha256": "930bc7a52d4e2c2bb73e5b1b378272a7e9bb4b9e498397744ae8283c24f9a8da",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE14.SC2Map"
       },
       {
         "name": "LOTVZE15.SC2Map",
-        "version": "1.1",
-        "sha256": "acdb67fcc3087e376af29641328ac9fb7a24038186c032fabe1287474208d5d2",
+        "version": "1.2",
+        "sha256": "0681a9921642d66bc72eaa346c169a21cdb14db3bb54379c43415bc9e0141111",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE15.SC2Map"
       },
       {
         "name": "LOTVZE16.SC2Map",
-        "version": "1.1",
-        "sha256": "ee609c616c81f9cb7427520f3d08f4e9ae433a8ae7f469541f677cb2462fef17",
+        "version": "1.2",
+        "sha256": "625465691f39864f8a8ea21ba67e3adc95ba1af88a4f9cceb99e3297b2496a95",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE16.SC2Map"
       },
       {
         "name": "LOTVZE17.SC2Map",
-        "version": "1.1",
-        "sha256": "0d00f68dbf7b5613356aee67b12a40ba2bc01099371ea52ac293084c46232780",
+        "version": "1.2",
+        "sha256": "0f645e556fe72a57588afa091cd6c7890146f1e37c9bfff9e786dc08468b86e0",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE17.SC2Map"
       },
       {
         "name": "LOTVZE18.SC2Map",
-        "version": "1.1",
-        "sha256": "d827ccf6cb00616ee711d5d77e6da37b41b55b950b76ee353d4e780bfb507d50",
+        "version": "1.2",
+        "sha256": "962889299ee2b5c6e40c860a0b265760cfaec6588771cca91188b4ca396ff534",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE18.SC2Map"
       },
       {
         "name": "LOTVZE19.SC2Map",
-        "version": "1.1",
-        "sha256": "bba11b46dc69ff48bfc37ab2696fef1d61a46e0478a433604877d418897afadf",
+        "version": "1.2",
+        "sha256": "567eb5b334259401c87fec208df77f23968e97186f9d1d0dcb9e9f023b95f253",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE19.SC2Map"
       },
       {
         "name": "LOTVZE2.SC2Map",
-        "version": "1.1",
-        "sha256": "e280eb49d39eedc3bbbb13b6403ebbacdf8d647e7031ffa291852fb85c4f380e",
+        "version": "1.2",
+        "sha256": "41b68992141441bcfe1c59d8c7f7890572a1e78cfb6d57a07acfae2516d53289",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE2.SC2Map"
       },
       {
         "name": "LOTVZE20.SC2Map",
-        "version": "1.1",
-        "sha256": "31a6124fbd7221882ce7af774089d1f05e4293c0b3b337737f5ba32c6dd7a56a",
+        "version": "1.2",
+        "sha256": "a57d6ca5f7a688f8e4467e1146007b51db7a04921a1585ab25b42bd981026533",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE20.SC2Map"
       },
       {
         "name": "LOTVZE21.SC2Map",
-        "version": "1.1",
-        "sha256": "65eb5f790f8dbc8562d6dce0211900cb13f0240c28040c9607f7afe7110db7d0",
+        "version": "1.2",
+        "sha256": "40672cbaa20c563e9fad75442d7f3a26b08c95d25c4a0ddbcb63119412ff510d",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE21.SC2Map"
       },
       {
         "name": "LOTVZE22.SC2Map",
-        "version": "1.1",
-        "sha256": "8724f1d365b1730904100d2f72ad94a74677e4c6eefba6b02d3d4a23c477e881",
+        "version": "1.2",
+        "sha256": "8948ff738d4fbc1132f497ba6cc23695363e3e79863d36d19a7d79c5056accaf",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE22.SC2Map"
       },
       {
         "name": "LOTVZE23.SC2Map",
-        "version": "1.1",
-        "sha256": "65fd07781e50f336129816c0a41a27dbf01dd4f920c96222fa078a95c083ddd3",
+        "version": "1.2",
+        "sha256": "266c6f0dd251932aae2c7e5bedf11f96d58125b825bdc4a07c1d8f92112fe2c0",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE23.SC2Map"
       },
       {
         "name": "LOTVZE24.SC2Map",
-        "version": "1.1",
-        "sha256": "841aaf4b86bfb30fd43072f978e099aab9421641ccac84366c6d55cb60343931",
+        "version": "1.2",
+        "sha256": "6ebf960a364726012a2e4eb0e46b3305c66209fb019022bf2204a042e267ea00",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE24.SC2Map"
       },
       {
         "name": "LOTVZE25.SC2Map",
-        "version": "1.1",
-        "sha256": "ab181c73de5a285257e2cb150a78f5e03f9020cd15ec24d4765d18fc86a15572",
+        "version": "1.2",
+        "sha256": "c7e77c3ca7e9bf410e19ee6bfa2c6bca153dfc4001e1c2b2cca5c8dd186f637c",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE25.SC2Map"
       },
       {
         "name": "LOTVZE3.SC2Map",
-        "version": "1.1",
-        "sha256": "0c92955bc04ce49edf75caa6011499391582fa3ca2034e59b3a8d03da52d661b",
+        "version": "1.2",
+        "sha256": "5e12b2471a4b7e151eda98dbb6dbc5bef13693f4b8f8fc21ba9bbe58709aea48",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE3.SC2Map"
       },
       {
         "name": "LOTVZE4.SC2Map",
-        "version": "1.1",
-        "sha256": "c59ccd5bfe0d774bf21d03d837163d13a5ced28209c42fbbfb51003f8738f6bd",
+        "version": "1.2",
+        "sha256": "e1661b08281cbca8587af0cab6a4489ecd1ac6c5240a925a2f27ecbf480100b9",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE4.SC2Map"
       },
       {
         "name": "LOTVZE5.SC2Map",
-        "version": "1.1",
-        "sha256": "a5039ce65c5e5819a1826f011bce83e70a63bf27fa2266f11227ddecd957e545",
+        "version": "1.2",
+        "sha256": "4715c4c5041bfe07786d141f90b38dd677d57dfcdceca2f3666187f9990104ef",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE5.SC2Map"
       },
       {
         "name": "LOTVZE6.SC2Map",
-        "version": "1.1",
-        "sha256": "857f21b17794a6cffd9725acf5100673e88b6e1c2a556fafb0a3fb1984057d7e",
+        "version": "1.2",
+        "sha256": "1aa5faeed44696e3ac86f261d7d43643d58009fb8badf37c36b97194c1c9ef86",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE6.SC2Map"
       },
       {
         "name": "LOTVZE7.SC2Map",
-        "version": "1.1",
-        "sha256": "338bd74ebfcaaafe59803bc93d16a41ff1173b40780b48fbb0689719e9c98045",
+        "version": "1.2",
+        "sha256": "9b89dee06f588be33781d20ad697b620daa1899690c9dfdb22b7411e6ff74da5",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE7.SC2Map"
       },
       {
         "name": "LOTVZE8.SC2Map",
-        "version": "1.1",
-        "sha256": "32f2214ca1a42459f6392ad4788a2e21ee7f236da3155427ba0667b25ea5aa7d",
+        "version": "1.2",
+        "sha256": "565dacb53ffae86db233722dda867680a66dcf6d3f1241226df28c39726ff5b7",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE8.SC2Map"
       },
       {
         "name": "LOTVZE9.SC2Map",
-        "version": "1.1",
-        "sha256": "e86bfcb977dd0be772898609a8463b76e397cc30ed9d183cf59bd9775e7d7fa0",
+        "version": "1.2",
+        "sha256": "d91fb518948fdc4ce0401509ceda24a5d3ac2b0156b2a5587279ba4b4c0bb7fb",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE9.SC2Map"
       }
     ],
