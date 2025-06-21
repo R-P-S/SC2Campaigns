@@ -953,13 +953,13 @@
   },
   {
     "title": "Legacy of the Void Terran Edition",
-    "version": "1.1",
+    "version": "1.2",
     "asset": "Legacy of the Void Terran Edition.png",
     "maps": [
       {
         "name": "LauncherLOTVTE.SC2Map",
-        "version": "1.1",
-        "sha256": "8be98b54b91d6277514e6de179ddc959639d7bfb1cfc15c25efe247670f849ee",
+        "version": "1.2",
+        "sha256": "5b6bd5abc61d2c09fb3a81a72c3929b7e1497ad85417aede5de0d373e3de53a5",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LauncherLOTVTE.SC2Map"
       },
       {
@@ -976,152 +976,152 @@
       },
       {
         "name": "LOTVTE1.SC2Map",
-        "version": "1.1",
-        "sha256": "989e01f6b35f79e944eab886e4e5d833f770c4711fdbc1d90b23fdbb9bc949f6",
+        "version": "1.2",
+        "sha256": "3bb99ec2987bb8208961a921c562903e277a455af92394eb30c649817a14d66a",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE1.SC2Map"
       },
       {
         "name": "LOTVTE10.SC2Map",
-        "version": "1.1",
-        "sha256": "add7fdb6445e6451d1f5a28ce136a13c845c516a194b3c0b0f8a0e9623d51dce",
+        "version": "1.2",
+        "sha256": "ab97e45e6623bfec0c97a7739d604bb1957b830896848658e15a22f48207c2da",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE10.SC2Map"
       },
       {
         "name": "LOTVTE11.SC2Map",
-        "version": "1.1",
-        "sha256": "13e56aef3db844da68ebbdf5f512ffa9b8c488fdb330116187f172e6f64bd8c7",
+        "version": "1.2",
+        "sha256": "1a7df85f2c98cf270e11bdf9c36c71302660007ca23fd5b599ac08412182ce8d",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE11.SC2Map"
       },
       {
         "name": "LOTVTE12.SC2Map",
-        "version": "1.1",
-        "sha256": "cb5610bf31398dc38c61f49cc0ef82cdc83be97b4d4e30ebb703af92398888b6",
+        "version": "1.2",
+        "sha256": "6b8b32f8c14492e6c552fc2ff6f3ab6bd8906f985f11b503a96e1972e065721a",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE12.SC2Map"
       },
       {
         "name": "LOTVTE13.SC2Map",
-        "version": "1.1",
-        "sha256": "47eb073c3a0b00aeb0d3afcba67a796089f81ce070e090600ce6c476ea055afd",
+        "version": "1.2",
+        "sha256": "096e0287646c5bf99b40b9f441d41d7bafd1fbede5805676e25fb480a10e5442",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE13.SC2Map"
       },
       {
         "name": "LOTVTE14.SC2Map",
-        "version": "1.1",
-        "sha256": "b5e77147a5d7e4e4bdac457e1cd5cbc104a3d8adc621888bcce2d7f0ccc55d95",
+        "version": "1.2",
+        "sha256": "6fbdb20cbfbc5c5d7ebbf87093e234e0d30b4c25ed3921d1401d365897aa9b7d",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE14.SC2Map"
       },
       {
         "name": "LOTVTE15.SC2Map",
-        "version": "1.1",
-        "sha256": "5402d9b89e50d80a08ee764aa2f6aa75ccd02e7ce9476a0bff7ddf66c1b24567",
+        "version": "1.2",
+        "sha256": "e8d2b3be6160f5484852da3c4203b64895817b69ea17ce0c1566cb4264fb3614",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE15.SC2Map"
       },
       {
         "name": "LOTVTE16.SC2Map",
-        "version": "1.1",
-        "sha256": "b924a3e7ef1cf8288f65eaec0e3e5834145810c64fcf34ceb833d36772627aec",
+        "version": "1.2",
+        "sha256": "ac6d8b8809fcb4d1117cbc5ceb9496d0cc7c3d1cf95efbde5438e8705d88551c",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE16.SC2Map"
       },
       {
         "name": "LOTVTE17.SC2Map",
-        "version": "1.1",
-        "sha256": "25fad86602955b21a2f543257c908596d6abd7a01f285d1dd866c99840c70481",
+        "version": "1.2",
+        "sha256": "c81be0e0dee26a3993ae4f98b68973bb27b1a8a08e7cb87ddc9fd6883cffaadd",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE17.SC2Map"
       },
       {
         "name": "LOTVTE18.SC2Map",
-        "version": "1.1",
-        "sha256": "7c0d0d85b69d16ed2b493d33077b1d0c33a5cd5c732e9c559f6f44a478285cc7",
+        "version": "1.2",
+        "sha256": "a572bb302ea48fe709c8b6f5570ef92f5f15b39c0bfa5c9f37aa3589395bd072",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE18.SC2Map"
       },
       {
         "name": "LOTVTE19.SC2Map",
-        "version": "1.1",
-        "sha256": "4fe04d0b074fe3ea20fee0872dff543d8eee98138a73b7d2038593c42a067f1c",
+        "version": "1.2",
+        "sha256": "5f9cca4ba2b8263388b9fd801e23321dcfe48edc9fd8809754b04f658ee7bdd6",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE19.SC2Map"
       },
       {
         "name": "LOTVTE2.SC2Map",
-        "version": "1.1",
-        "sha256": "afb6cd90345cae88d1c0c2906a655b106ab350e05b5d391aaaba5d87373d42ef",
+        "version": "1.2",
+        "sha256": "d1f70425fc42ad2330e0921f788ce095bb038403d5e7baf80607325bd8281a26",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE2.SC2Map"
       },
       {
         "name": "LOTVTE20.SC2Map",
-        "version": "1.1",
-        "sha256": "720bea0971541a99d5287fc9b7d9ed3e8c3dba5693f6f19b5598699c8eb2ac69",
+        "version": "1.2",
+        "sha256": "66e95d133211eb83fd193d4b504c96d193365b0fa2b7c0d473f50b0d8c7a3fd8",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE20.SC2Map"
       },
       {
         "name": "LOTVTE21.SC2Map",
-        "version": "1.1",
-        "sha256": "ffbbba49c666f2d29c989b10e3d905872f9c8b447b8979f8ad9841b9295a35d8",
+        "version": "1.2",
+        "sha256": "e07fe14866d2181fab2a5e74f52af5607754155fb2a41efd0d867171864be538",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE21.SC2Map"
       },
       {
         "name": "LOTVTE22.SC2Map",
-        "version": "1.1",
-        "sha256": "6314670af7f8d429ca7d787f85af1fc65ea37238576d4d06c53fc81b7b1fcd40",
+        "version": "1.2",
+        "sha256": "810b3aa96b3ee4e3ca93dbc27b9db660c15a18733573e6b87ed4b8916278d81f",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE22.SC2Map"
       },
       {
         "name": "LOTVTE23.SC2Map",
-        "version": "1.1",
-        "sha256": "3f02fdfd522db15ac0bfe33fbe6da563c7ac8459e1f37713822d4cbc2cca69b5",
+        "version": "1.2",
+        "sha256": "c39fecfea0588e1784be1025b6d45622a8e2d1cd3cd4a0d7d38b318b1cc1559c",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE23.SC2Map"
       },
       {
         "name": "LOTVTE24.SC2Map",
-        "version": "1.1",
-        "sha256": "ba129559db0d6423df1a1c5c398e8f174613b60bb3befa11c192e45a17c4cc9c",
+        "version": "1.2",
+        "sha256": "bc0000dd97814928c366aa887472f9bd36f5716a0a90cbe9b8b88499ec0eb6c4",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE24.SC2Map"
       },
       {
         "name": "LOTVTE25.SC2Map",
-        "version": "1.1",
-        "sha256": "b5f181000dc84790c9538c98830e24923fb46718fb87506a36ff430c8ed2314a",
+        "version": "1.2",
+        "sha256": "afcb3622f1cff38fd310e26526f23f3dd8a28b67a90f87a952b944af22295b1a",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE25.SC2Map"
       },
       {
         "name": "LOTVTE3.SC2Map",
-        "version": "1.1",
-        "sha256": "cfe5c7e7430b4de0e4b85c73dbc4fdf1d137f1dbd57948ff2d0596bc34edf0ba",
+        "version": "1.2",
+        "sha256": "3d76b88c424868a2942af6781cb7f01d28e9c67fbb2991a08f8b81d0ca1cd48e",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE3.SC2Map"
       },
       {
         "name": "LOTVTE4.SC2Map",
-        "version": "1.1",
-        "sha256": "33fba8742e58add16c1dad777e7b2e1eed4aa0ae230df804bbea902f0b44cefb",
+        "version": "1.2",
+        "sha256": "21e75b8f53d18957404047b12ad89fa5de782cc4fbb3ae576e89a53b61558a0f",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE4.SC2Map"
       },
       {
         "name": "LOTVTE5.SC2Map",
-        "version": "1.1",
-        "sha256": "585c3c85207b1a9446ea7759f076281b9f973584b92c180cf940d3944b452973",
+        "version": "1.2",
+        "sha256": "86be382b22431a12b1f3e596d30eb79417e3fc984952d368cf4d07fff628aba4",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE5.SC2Map"
       },
       {
         "name": "LOTVTE6.SC2Map",
-        "version": "1.1",
-        "sha256": "3545173df05a4c5f531611d6310a997e74d5a69f5159e62303dcae4742d75599",
+        "version": "1.2",
+        "sha256": "c3fffe14e79c515273e6c51fb0a20fde9215237e00b1cc088f37c990d28025a6",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE6.SC2Map"
       },
       {
         "name": "LOTVTE7.SC2Map",
-        "version": "1.1",
-        "sha256": "eaf2301c371c1cccd6764d4632983c9c8bedb47d31dc5066379fa723e3149e9f",
+        "version": "1.2",
+        "sha256": "bb9c672d6f76e1ff06079fbfebe6785e8615114d6a985dccd881fc0a22f7817f",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE7.SC2Map"
       },
       {
         "name": "LOTVTE8.SC2Map",
-        "version": "1.1",
-        "sha256": "cf718258b4dbe26366e017280bcd57b45eb929307aa5880407441ba2071629ac",
+        "version": "1.2",
+        "sha256": "f3dbc91c9cac37eef7b6e6c9d428544bba46f7b804ecf340360201415c814cc2",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE8.SC2Map"
       },
       {
         "name": "LOTVTE9.SC2Map",
-        "version": "1.1",
-        "sha256": "e3dff60a6161192f1c789793a3f69b1c174da94884666bda879f0de65f6d8d06",
+        "version": "1.2",
+        "sha256": "4b52ee4f3c35030f91c4da4f755d7431c0fcb205b3950019e698792f56dfc4fa",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE9.SC2Map"
       }
     ],
