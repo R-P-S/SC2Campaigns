@@ -739,13 +739,13 @@
   },
   {
     "title": "Heart of the Swarm Terran Edition",
-    "version": "1.1",
+    "version": "1.2",
     "asset": "Heart of the Swarm Terran Edition.png",
     "maps": [
       {
         "name": "LauncherHOTSTE.SC2Map",
-        "version": "1.1",
-        "sha256": "c84cbabd50e1dbd1cfe6f9ce7a9d0370e0590119784d40da926f532d10e763a3",
+        "version": "1.2",
+        "sha256": "c1befffc7c1b0751d7f14257e4f4efabaf24f826ff12456ee5b50ccd1a280743",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/LauncherHOTSTE.SC2Map"
       },
       {
@@ -756,122 +756,122 @@
       },
       {
         "name": "HOTSTE1.SC2Map",
-        "version": "1.1",
-        "sha256": "460edd6d602a9fffa689ef292801f821a855ea0cf0c7f41921013f169db2c56b",
+        "version": "1.2",
+        "sha256": "4e3051dd35f12f25a75c9919a11344d5b62e7993975710022821f0340ad31763",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/HOTSTE1.SC2Map"
       },
       {
         "name": "HOTSTE10.SC2Map",
-        "version": "1.1",
-        "sha256": "66278231890f871697c69f5d2fc6986d9271a7fabd2a3458186326bb3f3000a2",
+        "version": "1.2",
+        "sha256": "eae9a1931c508a80f535a6bb2ddec0e83a5915b02815960f732d13cf594dbf70",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/HOTSTE10.SC2Map"
       },
       {
         "name": "HOTSTE11.SC2Map",
-        "version": "1.1",
-        "sha256": "66be99044f9182f9ec1fcac41a48d72e16d9e15776f5bed0d07715a4207eaed1",
+        "version": "1.2",
+        "sha256": "408d9fdd63acf2ed98dff2ef3254ce6c563441fdf4fb5ebcb1e24a4cf32b7b95",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/HOTSTE11.SC2Map"
       },
       {
         "name": "HOTSTE12.SC2Map",
-        "version": "1.1",
-        "sha256": "a82cca341d50aa2cfbcf6dbd31a5d6255293bec6c864f90bd425a5c206ca662b",
+        "version": "1.2",
+        "sha256": "9c6e6ea9b0125d97ac1055b997a34131b8bcfb0d3232ff66d75f5fbf8cafc303",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/HOTSTE12.SC2Map"
       },
       {
         "name": "HOTSTE13.SC2Map",
-        "version": "1.1",
-        "sha256": "a014de8bbd256665535018af1014d0e4b2f3b5a3e1c31c7916960b93fe55d627",
+        "version": "1.2",
+        "sha256": "aae49d0ec8cc93932a1ae2166f317c529f9adc3b1a32249363f031a8c97a9da8",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/HOTSTE13.SC2Map"
       },
       {
         "name": "HOTSTE14.SC2Map",
-        "version": "1.1",
-        "sha256": "874f17fb224204f225ccc15faef20d271476526c7a34456a84b6e285d7722fe3",
+        "version": "1.2",
+        "sha256": "5a239d69434cf8b9195be453344b8a8a956772b394939d9b55d19ead16525327",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/HOTSTE14.SC2Map"
       },
       {
         "name": "HOTSTE15.SC2Map",
-        "version": "1.1",
-        "sha256": "5eb9e1a9fb400e61b289a2c0703a937b501d65316b53357eefbbdb3b708d7df7",
+        "version": "1.2",
+        "sha256": "a75d716af8614d815d183b40aa1864fde60f8e8fad9d1f5c1e2638a28bd5ffaa",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/HOTSTE15.SC2Map"
       },
       {
         "name": "HOTSTE16.SC2Map",
-        "version": "1.1",
-        "sha256": "5f4ad37b191b32a4a16a13d0ce7fea55e46368a907a35f5306a23c4fad237177",
+        "version": "1.2",
+        "sha256": "c1bf021efffbd9adddb9ff48ef1180470ebb9b19cdbdced990c9393f7602261a",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/HOTSTE16.SC2Map"
       },
       {
         "name": "HOTSTE17.SC2Map",
-        "version": "1.1",
-        "sha256": "f1ad5f190d43d5fa5fa4b07cc115a36d1db2808d3fda179e5eb1618660d72153",
+        "version": "1.2",
+        "sha256": "f80f99af22eb51f45eb9b9792b516076247e2ac279af7596b52379d441873ceb",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/HOTSTE17.SC2Map"
       },
       {
         "name": "HOTSTE18.SC2Map",
-        "version": "1.1",
-        "sha256": "caf5b6db0ac398a8faa7db5f8694afc5c9e92e3869cc195df604ed436ec24081",
+        "version": "1.2",
+        "sha256": "ddee6addd342d61a482d4cb4482d7ab176d8cae5bbd0354620cd304087e384b0",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/HOTSTE18.SC2Map"
       },
       {
         "name": "HOTSTE19.SC2Map",
-        "version": "1.1",
-        "sha256": "2e53f28149a8e7b486ca498948f9538b45b67525f48fd5fd5247cfe90e38a659",
+        "version": "1.2",
+        "sha256": "962a49665456e0322d8af91d858493c7e4110c2a3d36697403ad3f574b452050",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/HOTSTE19.SC2Map"
       },
       {
         "name": "HOTSTE2.SC2Map",
-        "version": "1.1",
-        "sha256": "25ff118f303f2f87cd7c699bda7433f4586f73d3a66bb12367fd2092cff4c094",
+        "version": "1.2",
+        "sha256": "35db267d411ae130bfb80db9de920a1d8cc35a6770a043800d4030bbb76edb88",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/HOTSTE2.SC2Map"
       },
       {
         "name": "HOTSTE20.SC2Map",
-        "version": "1.1",
-        "sha256": "beea3101964f1f841d1ea6bbdfc9184aec1fceacc532dd001d73ff6e934b0dca",
+        "version": "1.2",
+        "sha256": "5a9eb713e431bbfc6ceb3982056ed0a9d4a588e428772754931edcd2f8d21d05",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/HOTSTE20.SC2Map"
       },
       {
         "name": "HOTSTE3.SC2Map",
-        "version": "1.1",
-        "sha256": "98a835bba3502de23a0ab738712dbe32d029fb128413c76d405b7b8ebad5610d",
+        "version": "1.2",
+        "sha256": "f2b057ef7d4124a31c5ffa28c58dc376aab293f6fb96e1c547dd2513f2632e83",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/HOTSTE3.SC2Map"
       },
       {
         "name": "HOTSTE4.SC2Map",
-        "version": "1.1",
-        "sha256": "bffb8e3f891cd8283d829c10a84cb157dbbfb6561bfdb51beea49a1506adeed1",
+        "version": "1.2",
+        "sha256": "94e2e3cb1d42e627588a2733d36bc9eb17f8d7ba4c719b087486de0a0ed885df",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/HOTSTE4.SC2Map"
       },
       {
         "name": "HOTSTE5.SC2Map",
-        "version": "1.1",
-        "sha256": "25abd53d427029e3b58446015a4ed5b8567303de0df86d4c8ff839f31a35feda",
+        "version": "1.2",
+        "sha256": "4edad879f3dd4c3a9a605058136df5e1c4d5435c14af47cd7b7a46f6a4f898e9",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/HOTSTE5.SC2Map"
       },
       {
         "name": "HOTSTE6.SC2Map",
-        "version": "1.1",
-        "sha256": "c8e95c816ff089ff296618e2a5f8501b18cf8a887a60c038d3aa8356e622b981",
+        "version": "1.2",
+        "sha256": "c2b894e9ba96a147572787d0a7e29a4c89134cf468b63f2359493881f45c5c49",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/HOTSTE6.SC2Map"
       },
       {
         "name": "HOTSTE7.SC2Map",
-        "version": "1.1",
-        "sha256": "16e18ee5ae99ee55f572b3242265a0a3dc9f238d62972c6d9d1150bb35aa922e",
+        "version": "1.2",
+        "sha256": "5b4729ca0647589bfdaa214ec8c2c4033c558b6cfc7fcb3d61e7a70ec9f7cf3b",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/HOTSTE7.SC2Map"
       },
       {
         "name": "HOTSTE8.SC2Map",
-        "version": "1.1",
-        "sha256": "ed2f87b2f5a4552217e64cbb08f5632319d2eb8b1acca6771220b04c6465da0f",
+        "version": "1.2",
+        "sha256": "d5d5375e6d6229aa91cc9326465eea80afa47444eb3eace54218d6082227bda6",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/HOTSTE8.SC2Map"
       },
       {
         "name": "HOTSTE9.SC2Map",
-        "version": "1.1",
-        "sha256": "c3fafc7113145a449e7e58813feb3a9b913ab8e05f0c2416757b681aa15e133f",
+        "version": "1.2",
+        "sha256": "5dcf253768125e9b08ceee92dc1ab70ade7a6cf331cccec43c99048c15f61348",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/HOTSTE9.SC2Map"
       }
     ],
