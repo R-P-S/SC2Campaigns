@@ -1380,13 +1380,13 @@
   },
   {
     "title": "Wings of Liberty Protoss Edition",
-    "version": "1.1",
+    "version": "1.2",
     "asset": "Wings of Liberty Protoss Edition.png",
     "maps": [
       {
         "name": "LauncherWOLPE.SC2Map",
-        "version": "1.1",
-        "sha256": "967234830a5b84b659bcfaa626db190340a66b7f36bf4e5320a26f81235d16e3",
+        "version": "1.2",
+        "sha256": "8f27779f417021f13f684080203ca54fa3a9e4e824bd133671d091755e0d5c0d",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/LauncherWOLPE.SC2Map"
       },
       {
@@ -1409,194 +1409,194 @@
       },
       {
         "name": "WOLPE1.SC2Map",
-        "version": "1.1",
-        "sha256": "c8f6bdcd0c5772c64a61988e5bd6c15e89629be9f56927d8357ecb277261193d",
+        "version": "1.2",
+        "sha256": "9f15627dc72498a1e2e7cbcc6a0d32f5b5d7064055c721a9a56ab6724614336e",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE1.SC2Map"
       },
       {
         "name": "WOLPE10.SC2Map",
-        "version": "1.1",
-        "sha256": "b97caaf2b05edb282f42b23cb6e9fe60986a6fab58a6246ba97f6a485474c8a1",
+        "version": "1.2",
+        "sha256": "f294ffe9ccd48287df38d163c5d6c024ec9f38fd5c6d90b8dcb35cf564d06528",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE10.SC2Map"
       },
       {
         "name": "WOLPE11.SC2Map",
-        "version": "1.1",
-        "sha256": "8fef72c152ebb5048c49253f2df4f726d9911e7fefde6190d36af1b82fc39874",
+        "version": "1.2",
+        "sha256": "7ecbbd40e3ca67c14d457dae5593ede4b66da46bf4e8eb9873459c9e8bfe7b63",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE11.SC2Map"
       },
       {
         "name": "WOLPE12.SC2Map",
-        "version": "1.1",
-        "sha256": "b558394b4053f64ec0db3d67b31cbb1363e8530f58008c861c4c89b9649c0456",
+        "version": "1.2",
+        "sha256": "9225c59fb54991dbe4a09eb2ce07bc7ecd30250ff046e2d29e192ee8f311d3a1",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE12.SC2Map"
       },
       {
         "name": "WOLPE13.SC2Map",
-        "version": "1.1",
-        "sha256": "f4ccd24ccdcd02a3e40b47e681b34da287b49ea836b603acf47fb16fb6d7fb3a",
+        "version": "1.2",
+        "sha256": "f24a05be2cf8eb0b3ca47d43780a8bf2a1a5b09a4fcbf4ccf69ec40e02048c12",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE13.SC2Map"
       },
       {
         "name": "WOLPE14.SC2Map",
-        "version": "1.1",
-        "sha256": "43664529af9ed16768df197b3026a30de5d3dfeb1e3ab3310179587a9f187c4f",
+        "version": "1.2",
+        "sha256": "0868e5507c9e1be1a9eea1d3455a52395d64aa5a1972e5098e32bf24fa92f7e1",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE14.SC2Map"
       },
       {
         "name": "WOLPE15.SC2Map",
-        "version": "1.1",
-        "sha256": "0bf55c49f4032557f7baa2f5fa86a6a6b50a2272c970c485deaa189ad9997971",
+        "version": "1.2",
+        "sha256": "9986dbbd5a3f0d9897d5f45d5cb07d131d7e716e42aa2fd2fbdd3cf03cb60e39",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE15.SC2Map"
       },
       {
         "name": "WOLPE16.SC2Map",
-        "version": "1.1",
-        "sha256": "ee863e4338259a082e4c2d120c534ec9fcdc16fd2e4503ec8b31818b6ac8304f",
+        "version": "1.2",
+        "sha256": "6f8948018d321352763eebcf952e40c8f8445adb3ecfa68f8577f88d8d23172b",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE16.SC2Map"
       },
       {
         "name": "WOLPE17.SC2Map",
-        "version": "1.1",
-        "sha256": "d897d69fbbfe51bb16fa461a85c3d0a21682347f31db023178b4cedbfe3cc679",
+        "version": "1.2",
+        "sha256": "08a6356cb8a55d453646e1e4d8fe605c11b12d6aafd16cdce1df518f693b0f0a",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE17.SC2Map"
       },
       {
         "name": "WOLPE18.SC2Map",
-        "version": "1.1",
-        "sha256": "f66fcafa1f691ea516b6c6c1e672387a91088109b6c4ec193980827d24542f10",
+        "version": "1.2",
+        "sha256": "9b841bc2b81b240377c035a8b0d2f41752b61203f3455d4310e9357cbb09ca51",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE18.SC2Map"
       },
       {
         "name": "WOLPE19.SC2Map",
-        "version": "1.1",
-        "sha256": "7bdec6181c8a246d7ed2fc863e17f0fafcff7391d652a302b3cff64ffb8164c7",
+        "version": "1.2",
+        "sha256": "0a81796a43f5f0a512485dadf9cf32256f84ac450787d87ca15a6e7de3339aed",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE19.SC2Map"
       },
       {
         "name": "WOLPE2.SC2Map",
-        "version": "1.1",
-        "sha256": "95c7976b7f7c3ab15b4dc3e09f1c420938be8a0ea056dfb3461e98a7bf2477c0",
+        "version": "1.2",
+        "sha256": "3c7989ab7aaff5718f54cafc9eaf7b4a8049ce8b4a2c09e6b9d8d275f727c421",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE2.SC2Map"
       },
       {
         "name": "WOLPE20.SC2Map",
-        "version": "1.1",
-        "sha256": "8a520d8062690ae8ea7a36114aaeb1fec155288f4b85d898b707caf7b0de22a9",
+        "version": "1.2",
+        "sha256": "8c98327d7f9c82ef876e7358cecfcba7c24d1222761d17a604dd2b40c4bbacdc",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE20.SC2Map"
       },
       {
         "name": "WOLPE21.SC2Map",
-        "version": "1.1",
-        "sha256": "e3525d1710f21547a9db64906af3275c22779e7376437a30fc0bf413d7fa9892",
+        "version": "1.2",
+        "sha256": "492f703b96295df99b495261d19adea4a03813f23031c979a48cfa4eefe413ef",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE21.SC2Map"
       },
       {
         "name": "WOLPE22.SC2Map",
-        "version": "1.1",
-        "sha256": "24e20307654eaad73fdddf09c3c703519f48856acdf59e48edbff399b90e0a14",
+        "version": "1.2",
+        "sha256": "62f7814ed894b0bce2425d50253a904879054a64952d24e3b5a24094c1ef801d",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE22.SC2Map"
       },
       {
         "name": "WOLPE23.SC2Map",
-        "version": "1.1",
-        "sha256": "1df38cfa1a505b1cb6c1b27cd62afca31c999bb7d1aefd6a314344b8ba4ed903",
+        "version": "1.2",
+        "sha256": "2772c40bfac9246cbb91a5bd94d47ea946c8863a33c82f8028fe200ad986989a",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE23.SC2Map"
       },
       {
         "name": "WOLPE24.SC2Map",
-        "version": "1.1",
-        "sha256": "10b395ffc514fbe962c3cdb19f56cfd1fcbbe83cf063b1dc6cb704b44167a18b",
+        "version": "1.2",
+        "sha256": "b8a1be4c559723147afc4d7e17cc749581a898b475f834e7a0dfe936c565c9a4",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE24.SC2Map"
       },
       {
         "name": "WOLPE25.SC2Map",
-        "version": "1.1",
-        "sha256": "10635959e049cdbb9a776344b7edef83aeb505e5ecfa07e46555e148894e6d40",
+        "version": "1.2",
+        "sha256": "2d5c596882ffd38398ab1dd86dfeed697d6ba03587f342089445015553b4eac4",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE25.SC2Map"
       },
       {
         "name": "WOLPE26.SC2Map",
-        "version": "1.1",
-        "sha256": "3146c7c2ff1a1693f9495af139746422c2115ea333f3b78fc29e8b3aaf75b1dd",
+        "version": "1.2",
+        "sha256": "005b82611244b668f5e33b1fb64eefbcdbf582601234defe081d538ecd39babc",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE26.SC2Map"
       },
       {
         "name": "WOLPE27.SC2Map",
-        "version": "1.1",
-        "sha256": "fc10b2813f9127c5f6d5d0148bba6635b28233e445a08ae5c3e50dac69085868",
+        "version": "1.2",
+        "sha256": "6d8058531fbe124e92e29f56d82c3f404ce87b44b56c992a82bc6a8b5f91beb6",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE27.SC2Map"
       },
       {
         "name": "WOLPE28.SC2Map",
-        "version": "1.1",
-        "sha256": "748ba079ea99ae71e30ba398769256dff76fddf9549cf23c8fd64cf8823f84da",
+        "version": "1.2",
+        "sha256": "f23b2bce0a2e51b5cf6217190c56fa864e29e04c98db1456292c3fcb82793844",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE28.SC2Map"
       },
       {
         "name": "WOLPE29.SC2Map",
-        "version": "1.1",
-        "sha256": "e5dd9dd0d29d941e28c759645d592a2d3913c3d9a1c175e8b9e642e9f9e517c1",
+        "version": "1.2",
+        "sha256": "a5e33ffbe95dc00a8213b9f6e669656ac62c6dbef9f65d376bcb3e3343130eda",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE29.SC2Map"
       },
       {
         "name": "WOLPE3.SC2Map",
-        "version": "1.1",
-        "sha256": "7f80bc289e15da6346be2cfdab897d233a666ed90fbe79f4453b3110b5319321",
+        "version": "1.2",
+        "sha256": "9b4fa3e30aba4687a6d8ef7281f0bfc6f9095f766aa54a33984fc939c91bef84",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE3.SC2Map"
       },
       {
         "name": "WOLPE30.SC2Map",
-        "version": "1.1",
-        "sha256": "d063b7c5ce213853211627f290a7f504815187be741ab51948ab8cba89000d50",
+        "version": "1.2",
+        "sha256": "7c24c83aaf3249630cdfaf87217fdaf239f3717b1e8fdf1401ff0d2f17f35e32",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE30.SC2Map"
       },
       {
         "name": "WOLPE31.SC2Map",
-        "version": "1.1",
-        "sha256": "bf9092f778e01699c07221741e65f5b239d92dc4a884ad33d8bbbe7022bf1d21",
+        "version": "1.2",
+        "sha256": "01b7983ae5a67088f30ada4e81a0475b4818eb8839503d7af3eec02c938564ac",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE31.SC2Map"
       },
       {
         "name": "WOLPE32.SC2Map",
-        "version": "1.1",
-        "sha256": "99cf53bf16936384f0d1a16879b3437e4938d385eeb3639ce9915d0600f8c58b",
+        "version": "1.2",
+        "sha256": "06920423feae4521e8b61a02e401b15e44f12c6a6291b09295cc6c0c2ceccd32",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE32.SC2Map"
       },
       {
         "name": "WOLPE4.SC2Map",
-        "version": "1.1",
-        "sha256": "78eca896aa2a1201bf34b5f6c092be267863aa85ca41e70521849c7420b652b5",
+        "version": "1.2",
+        "sha256": "8e621c627195986db1aaff666a0887cbd18b5965d486a587496f183e0f4d5c0f",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE4.SC2Map"
       },
       {
         "name": "WOLPE5.SC2Map",
-        "version": "1.1",
-        "sha256": "b4e78fefbfb49b8ea786ae69f3bfa5f10da62e7ee00fd8104d96d6c536cd4c4f",
+        "version": "1.2",
+        "sha256": "3284df25b3e9e8b96cd100a4e184c267ba4e3b43f01295eb96959a6ab431886a",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE5.SC2Map"
       },
       {
         "name": "WOLPE6.SC2Map",
-        "version": "1.1",
-        "sha256": "eb5d86fd33e2fd5a3379b6b95839879e93f67955856cf71f1446f67100f62572",
+        "version": "1.2",
+        "sha256": "dad0ecc0866110d5d784295efd411623fd7127da6e2630a6afd87f9281dea339",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE6.SC2Map"
       },
       {
         "name": "WOLPE7.SC2Map",
-        "version": "1.1",
-        "sha256": "856afc1762565957eef83f5c23a284ddd5c132b175f84d6393b76cb196810096",
+        "version": "1.2",
+        "sha256": "812e1aaa2ccf6345e8bd841039e17e157042191442e0a015017626397730a63c",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE7.SC2Map"
       },
       {
         "name": "WOLPE8.SC2Map",
-        "version": "1.1",
-        "sha256": "83e93ba54027ec2dfbcabe9de45de68553a82f085bb0bdec71a9111b24528df3",
+        "version": "1.2",
+        "sha256": "371680e5afaeda0c91986481b0339078c7a769141f207d69f21bd974aef8c417",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE8.SC2Map"
       },
       {
         "name": "WOLPE9.SC2Map",
-        "version": "1.1",
-        "sha256": "b1a9de2a8f357ad1d261141ca83a459b162066e1076270c3978f49010c4803ce",
+        "version": "1.2",
+        "sha256": "b3154f9da5dc69d5c7431e016af09f878493d2524c9bc5c315ae3a6379c891c7",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE9.SC2Map"
       }
     ],
@@ -1604,13 +1604,13 @@
   },
   {
     "title": "Wings of Liberty Zerg Edition",
-    "version": "1.1",
+    "version": "1.2",
     "asset": "Wings of Liberty Zerg Edition.png",
     "maps": [
       {
         "name": "LauncherWOLZE.SC2Map",
-        "version": "1.1",
-        "sha256": "5e766a2e688b76b8201ed6d0bf69d3bebc156b8086fca2b45f04638f134052a9",
+        "version": "1.2",
+        "sha256": "d52bab7b6f23165592cfd0acbb2783a0b0243ae03cbb61c22519b6e1e0498778",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/LauncherWOLZE.SC2Map"
       },
       {
@@ -1627,176 +1627,176 @@
       },
       {
         "name": "WOLZE1.SC2Map",
-        "version": "1.1",
-        "sha256": "576e4e94febcf521d6aabd07f638b892c1e29f2eb16d228a7c3166053b1aa480",
+        "version": "1.2",
+        "sha256": "d197e4f42f2ec4bbbaafa9f2d0b9c97031c37bafb872feccdbc43d60a55bc582",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE1.SC2Map"
       },
       {
         "name": "WOLZE10.SC2Map",
-        "version": "1.1",
-        "sha256": "b1fed9652eaeeb0ead50c407786dd7b3b27379d8f8d0b2d2f271d82602ebb72e",
+        "version": "1.2",
+        "sha256": "7c5011205b132ee684141df7a0f5b64a8c8e9bb49dfc8ef04ae8f0d9c3183f44",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE10.SC2Map"
       },
       {
         "name": "WOLZE11.SC2Map",
-        "version": "1.1",
-        "sha256": "70f98929c4c8fa69daf8d36994615a4e7b4c9fa61f408779ec9e980cd8b0adc3",
+        "version": "1.2",
+        "sha256": "236d1322782be1df795d0d6291ddbc5d62fc1adfe23c8c502346681d63d4ec87",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE11.SC2Map"
       },
       {
         "name": "WOLZE12.SC2Map",
-        "version": "1.1",
-        "sha256": "0fc6aa4dc655e4e086110f3e937d8524b5854066de42f654ff01759a05407c88",
+        "version": "1.2",
+        "sha256": "78390edc88cdeaa4b4ac9a8d5164576f714e0cdb501dd77539ea8a5f77222edf",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE12.SC2Map"
       },
       {
         "name": "WOLZE13.SC2Map",
-        "version": "1.1",
-        "sha256": "603ac7052dad1051362c5e0c328d7a6f6f595007ddf5968d305b7f11964c5a54",
+        "version": "1.2",
+        "sha256": "6f6a18a3a758d0c16af606ce6fbd6d79f565d226060145a5e9fccea512792eba",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE13.SC2Map"
       },
       {
         "name": "WOLZE14.SC2Map",
-        "version": "1.1",
-        "sha256": "9a31d4922411fc5eed1ed6164877074cd7a86e6168a0f02f3d5153f194667f00",
+        "version": "1.2",
+        "sha256": "52ddf701b329f3b9a5a6610bf56096661b0edb01f519187429ac0b4dedb4a37b",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE14.SC2Map"
       },
       {
         "name": "WOLZE15.SC2Map",
-        "version": "1.1",
-        "sha256": "1b3ba5f1308d3bd10cf8ccb096edb13fc1350edbe4375e1beb230cb7106ded95",
+        "version": "1.2",
+        "sha256": "dcd1fb9cb942ea253f126e3c89a50151bdb627c7a59870952fba4b470e4ef387",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE15.SC2Map"
       },
       {
         "name": "WOLZE16.SC2Map",
-        "version": "1.1",
-        "sha256": "f2185fd4cb8c2452e5090f681c36362d87c087e36b5d65d35739e24a7cb7ac42",
+        "version": "1.2",
+        "sha256": "b8513bf8bcaedad25b67f07a683d855428bf69e8a4d3f07de147a16404b3ecc0",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE16.SC2Map"
       },
       {
         "name": "WOLZE17.SC2Map",
-        "version": "1.1",
-        "sha256": "e16785fc818da78d3e2d0a42407d631583ba0955e884024995c5e563fc1c0b93",
+        "version": "1.2",
+        "sha256": "716835948bae9f0c3db2eebc7e34452264d8def50f9b5aadb8ee304e036b3428",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE17.SC2Map"
       },
       {
         "name": "WOLZE18.SC2Map",
-        "version": "1.1",
-        "sha256": "0db953a5590da85b585f535f3ae64fb34b128d97894a36d2f9bac75feda38624",
+        "version": "1.2",
+        "sha256": "a6333da6719962f2d094057b7cadfef0d9c9387bff898ccce98e9e5e4551aaa3",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE18.SC2Map"
       },
       {
         "name": "WOLZE19.SC2Map",
-        "version": "1.1",
-        "sha256": "4e7bf68189de4ea8882d62f20608d215285a88e2a45e3a3a865f2ff5ca8b4408",
+        "version": "1.2",
+        "sha256": "eae518e1914fe67a5a608d1d5e75ddf88faae16246a5aa90303f80619c9e7186",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE19.SC2Map"
       },
       {
         "name": "WOLZE2.SC2Map",
-        "version": "1.1",
-        "sha256": "00d4632146697c9e82d68dc949440e9b5c8d534e6094783bfa11f3683d539a73",
+        "version": "1.2",
+        "sha256": "31e752b09e076574c07ea5f3473847c9dc3ace660482b21b3557ea423f2eb7b5",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE2.SC2Map"
       },
       {
         "name": "WOLZE20.SC2Map",
-        "version": "1.1",
-        "sha256": "6cba11235949fcbbd815e1ed19123e4c577b5874ae60e493f81424c105b29605",
+        "version": "1.2",
+        "sha256": "ef267634a55f101f3d4dbea10bcb790940978813fc023f35bfdcde0f55c50a15",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE20.SC2Map"
       },
       {
         "name": "WOLZE21.SC2Map",
-        "version": "1.1",
-        "sha256": "f536757f48312ef51e1787a8f9524c8bb9f74decfa6211e44a606a01f0971d38",
+        "version": "1.2",
+        "sha256": "768077f4c24c722b79cb47a8f7d5ac4744497ca55c458b20b2210a81399572a2",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE21.SC2Map"
       },
       {
         "name": "WOLZE22.SC2Map",
-        "version": "1.1",
-        "sha256": "244726fb2f131513cc7393561418e8785380e40f130f6c7e2e11168565ad4956",
+        "version": "1.2",
+        "sha256": "a38dd2dfc09eabb0d45e4fe8b0e5d4a1187c9687ef10af27ea7a929e35bf5591",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE22.SC2Map"
       },
       {
         "name": "WOLZE23.SC2Map",
-        "version": "1.1",
-        "sha256": "a938b779b251a027f96b082100fc247443ef48d55b867e0d20be6f17e89594e8",
+        "version": "1.2",
+        "sha256": "1aac18e702eb976fc5215ba5b0ccee77ce8f5a87479ec8c9f402b0b44404c1be",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE23.SC2Map"
       },
       {
         "name": "WOLZE24.SC2Map",
-        "version": "1.1",
-        "sha256": "6540995c8ba57af17db022ea6a02ef0c254131d219dc384349f7590ec98f5a9d",
+        "version": "1.2",
+        "sha256": "f3d8fc0407941f7ada4d9d134f5f24daa6111b73895d4fc95a78c98aa32f350f",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE24.SC2Map"
       },
       {
         "name": "WOLZE25.SC2Map",
-        "version": "1.1",
-        "sha256": "4fb7f34f9403c2800a48ab921e86c02f7a8997c1f277a3fde6347cc51f16fb84",
+        "version": "1.2",
+        "sha256": "5687d26db1c8da349a85e5b850053d4f28979386f5c831d644975a1cc123f32c",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE25.SC2Map"
       },
       {
         "name": "WOLZE26.SC2Map",
-        "version": "1.1",
-        "sha256": "5aa671939ccde3553b3e4964aa78191705c29e52909812a5f2b18d3f3852dd55",
+        "version": "1.2",
+        "sha256": "ad6528084d0cb702fba4f28663be6726f5031e7ce798633495476051476ca0b0",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE26.SC2Map"
       },
       {
         "name": "WOLZE27.SC2Map",
-        "version": "1.1",
-        "sha256": "78bdef91416b254a7612478ca5240aaf38319b9989acf7af7bd2ac3ad7767a71",
+        "version": "1.2",
+        "sha256": "e6888e47a05c70426e2593cf632f379755c5affa5abf57884afabecef9dd84f0",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE27.SC2Map"
       },
       {
         "name": "WOLZE28.SC2Map",
-        "version": "1.1",
-        "sha256": "08988a784f6d772b37b9cfccb41cd32cf0d4b6abc8f254bd80ab875f962df1f3",
+        "version": "1.2",
+        "sha256": "da4ed4697aaf66e879ff31ee7a374b56efd6669017f2b52275140c5b0c6abd0e",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE28.SC2Map"
       },
       {
         "name": "WOLZE29.SC2Map",
-        "version": "1.1",
-        "sha256": "9662912ae3f55d98b98fe7cffd935a6fb4a50efd62a6074097f19cb1a8138249",
+        "version": "1.2",
+        "sha256": "01982b60ca4fe5984720b72407ee63e0eaeb36bdf7e875f1057d6fc9d75832a7",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE29.SC2Map"
       },
       {
         "name": "WOLZE3.SC2Map",
-        "version": "1.1",
-        "sha256": "6678f95f17f76bad900faab15a4ef947546cac7c57045975533951a1c41f080d",
+        "version": "1.2",
+        "sha256": "e0a09137ef58d80c7152a8acdd6356719762d49108a47151913bdd8f70b188f2",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE3.SC2Map"
       },
       {
         "name": "WOLZE4.SC2Map",
-        "version": "1.1",
-        "sha256": "c1120b522cb7109b6bdd109d19da44e3130640f3e01aecab1d147ecd35cec914",
+        "version": "1.2",
+        "sha256": "7620f099ea5fc909e62dcca1b08a616c2f03fa2e628f86f817cd563aa3830ae1",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE4.SC2Map"
       },
       {
         "name": "WOLZE5.SC2Map",
-        "version": "1.1",
-        "sha256": "d4d9178e1eda112f871eac4c2d0a52b129f9b41d101f79e4c2244d393e125c26",
+        "version": "1.2",
+        "sha256": "fb8273b1d1028ad55354e8f8cd1a5a75c68a42b6bedda69efa85954c638411f4",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE5.SC2Map"
       },
       {
         "name": "WOLZE6.SC2Map",
-        "version": "1.1",
-        "sha256": "c1844adaf03a7763554b86078535bdd2033cdd5c7f77c1d674c8f1cf0029b8b1",
+        "version": "1.2",
+        "sha256": "c6ee1d1b0ebff73a446db616e9c28c086f95fa0f1818d003b5ff95976501526c",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE6.SC2Map"
       },
       {
         "name": "WOLZE7.SC2Map",
-        "version": "1.1",
-        "sha256": "dc18276f35855a77dccc80bd4866f25eaafd01bda8c0f57c68d002daa1b5c35a",
+        "version": "1.2",
+        "sha256": "9a6a2fb83c2038baa7e2e7a57b188d7b2f97d4febff25d03d33d8a1be62a6ed4",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE7.SC2Map"
       },
       {
         "name": "WOLZE8.SC2Map",
-        "version": "1.1",
-        "sha256": "3d242523b342483673fab76f5b9faf64830061e7398dd7665b8efb56b9f496a9",
+        "version": "1.2",
+        "sha256": "c806b4e3ba4fa043a289849c99aea4562a3f6ac2e6ff1ce6602a055b5a0adff1",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE8.SC2Map"
       },
       {
         "name": "WOLZE9.SC2Map",
-        "version": "1.1",
-        "sha256": "584d132be33d9487ca7e3e9816a7624dc03ef099a2761e550ae73449b52904c3",
+        "version": "1.2",
+        "sha256": "b636701f4365dc1817c671c31b4f42a86add9411102dd1ee4032989531462c36",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE9.SC2Map"
       }
     ],
