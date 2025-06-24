@@ -135,13 +135,13 @@
   },
   {
     "title": "Azeroth Reborn",
-    "version": "1.6",
+    "version": "1.7",
     "asset": "Azeroth Reborn.png",
     "maps": [
       {
         "name": "ARLauncher.SC2Map",
-        "version": "1.6",
-        "sha256": "8b5d90e57f0d5bd9e3510f5ded4bf96508fc198e1ad700d2a8ca4992292d4143",
+        "version": "1.7",
+        "sha256": "2350b92b1541ca3267fb89961e37c954a0056c68164956b35c28c0e8eb33bb37",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/ARLauncher.SC2Map"
       },
       {
