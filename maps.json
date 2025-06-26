@@ -1,7 +1,7 @@
 [
   {
     "title": "Azeroth Legends",
-    "version": "1.4",
+    "version": "1.5",
     "asset": "Azeroth Legends.png",
     "maps": [
       {
@@ -78,8 +78,8 @@
       },
       {
         "name": "WC3MOD.SC2Mod",
-        "version": "1.1",
-        "sha256": "72b31fcb5918bb14ac47c6df79ee78421d7f71537e2b4265b0d13cb27b3387ef",
+        "version": "1.2",
+        "sha256": "6ade6c8af9855d0a774ada15431ca3a44ade0d4d7b5610e4fee8e8d7c6808f37",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/mods/WC3MOD.SC2Mod"
       },
       {
