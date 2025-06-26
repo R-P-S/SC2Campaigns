@@ -605,7 +605,7 @@
   },
   {
     "title": "Heart of the Swarm Protoss Edition",
-    "version": "1.2",
+    "version": "1.3",
     "asset": "Heart of the Swarm Protoss Edition.png",
     "maps": [
       {
@@ -616,8 +616,8 @@
       },
       {
         "name": "[Mod] HOTSPE.SC2Mod",
-        "version": "1.1",
-        "sha256": "217a1c8d6c25f6d4e001e9d0c426cd3b6ffc343609aa19ce21448a215f58323d",
+        "version": "1.2",
+        "sha256": "223befecbe231b4b9948fd72d0ddc057ece93612d286a77229bd61dd60c83bd1",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/mods/%5BMod%5D%20HOTSPE.SC2Mod"
       },
       {
@@ -745,7 +745,7 @@
   },
   {
     "title": "Heart of the Swarm Terran Edition",
-    "version": "1.2",
+    "version": "1.3",
     "asset": "Heart of the Swarm Terran Edition.png",
     "maps": [
       {
@@ -756,8 +756,8 @@
       },
       {
         "name": "[Mod] HOTSTE.SC2Mod",
-        "version": "1.1",
-        "sha256": "f6bd0f269eb3615593ee4b54f309698c865b9a0a53939470a253657e415c923c",
+        "version": "1.2",
+        "sha256": "64798e4f3bd88376da3da0c1c46ff8a3631a8751f8b5f88f3ba41d38e5633e5e",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/mods/%5BMod%5D%20HOTSTE.SC2Mod"
       },
       {
@@ -885,7 +885,7 @@
   },
   {
     "title": "Kerrigan Covert Ops",
-    "version": "1.3",
+    "version": "1.4",
     "asset": "Kerrigan Covert Ops.png",
     "maps": [
       {
@@ -896,8 +896,8 @@
       },
       {
         "name": "[Mod] Kerrigan Covert Ops.SC2Mod",
-        "version": "1.1",
-        "sha256": "a71f2f471918730be0f2d11a686b82a8179b82f4c63061254a172ef9e9a2cdc0",
+        "version": "1.2",
+        "sha256": "fd3f18a0476b0875637a76528a6f0b5f6836b6edb076ced45196a6c51df6c3d7",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Kerrigan%20Covert%20Ops/mods/%5BMod%5D%20Kerrigan%20Covert%20Ops.SC2Mod"
       },
       {
@@ -959,7 +959,7 @@
   },
   {
     "title": "Legacy of the Void Terran Edition",
-    "version": "1.2",
+    "version": "1.3",
     "asset": "Legacy of the Void Terran Edition.png",
     "maps": [
       {
@@ -970,14 +970,14 @@
       },
       {
         "name": "[Mod] LOTV Prologue TE.SC2Mod",
-        "version": "1.1",
-        "sha256": "d88e1833f77df3976559e7cd978870b74edc7f90ab952d55e9a2e25ff61760de",
+        "version": "1.2",
+        "sha256": "f895c3fd1964e9720fb4ec3790a503bceaad43784a07c13cbdb27663b0b7a23a",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/mods/%5BMod%5D%20LOTV%20Prologue%20TE.SC2Mod"
       },
       {
         "name": "[Mod] LOTVTE-TEpilogue.SC2Mod",
-        "version": "1.1",
-        "sha256": "5dd0a61a006f78c52f0db40aa254b070c95769c6e8be2d7057f9774f9aecde4e",
+        "version": "1.2",
+        "sha256": "a4a6c3ed8e5ab6a88452cce3629c60fdf908aa8ccc0cf442350f52c1475a9c47",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/mods/%5BMod%5D%20LOTVTE-TEpilogue.SC2Mod"
       },
       {
@@ -1135,7 +1135,7 @@
   },
   {
     "title": "Legacy of the Void Zerg Edition",
-    "version": "1.2",
+    "version": "1.3",
     "asset": "Legacy of the Void Zerg Edition.png",
     "maps": [
       {
@@ -1146,8 +1146,8 @@
       },
       {
         "name": "[Mod] LOTVZE.SC2Mod",
-        "version": "1.1",
-        "sha256": "46d0c79d6ce3fad7fc2228c007198489d181c280e1b26aad26efac5cbc872f67",
+        "version": "1.2",
+        "sha256": "db65a123511d43f7ceb9507d3026bd3c4a817bebe9144213e54b041940b7107a",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/mods/%5BMod%5D%20LOTVZE.SC2Mod"
       },
       {
@@ -1312,7 +1312,7 @@
   },
   {
     "title": "Protoss Covert Ops",
-    "version": "1.3",
+    "version": "1.4",
     "asset": "Protoss Covert Ops.png",
     "maps": [
       {
@@ -1323,8 +1323,8 @@
       },
       {
         "name": "[Mod] Protoss Covert Ops.SC2Mod",
-        "version": "1.1",
-        "sha256": "8badf928f1756e4814ba331fd7b916baf3b23cee0042b8cc070534ac5ea2603a",
+        "version": "1.2",
+        "sha256": "475020acaa0662deaff9ddef0a43695bb0a1bbe152db40950253f1e0ce8a30e3",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Protoss%20Covert%20Ops/mods/%5BMod%5D%20Protoss%20Covert%20Ops.SC2Mod"
       },
       {
@@ -1386,7 +1386,7 @@
   },
   {
     "title": "Wings of Liberty Protoss Edition",
-    "version": "1.2",
+    "version": "1.3",
     "asset": "Wings of Liberty Protoss Edition.png",
     "maps": [
       {
@@ -1397,20 +1397,20 @@
       },
       {
         "name": "[Mod] WOLPE.SC2Mod",
-        "version": "1.1",
-        "sha256": "7906120e59675b44864507c0701680e3753a9cb6bb5af418d64c01dc889d0a68",
+        "version": "1.2",
+        "sha256": "c0e8fc69bbce5fb6505fc4a19a91bb321f9c651a9e0c2ac862c3397e466cfe5f",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/mods/%5BMod%5D%20WOLPE.SC2Mod"
       },
       {
         "name": "[Mod] WOLTE.SC2Mod",
-        "version": "1.1",
-        "sha256": "dd162fa37994decedc08a4a3bc31ab02e69c43cc64c2ee1db871e2dfed1aac62",
+        "version": "1.2",
+        "sha256": "87c2e22730e45a465de785e49a0fb076ac4d472b6a4ddd0329913a59a90d50a7",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/mods/%5BMod%5D%20WOLTE.SC2Mod"
       },
       {
         "name": "[Mod] ZEpilogue-PEpilogue.SC2Mod",
-        "version": "1.1",
-        "sha256": "5cc91dc2c7a1c05858531b78d6ce7d7ace6be1bed22baa6abb96c2ad85f4a7d6",
+        "version": "1.2",
+        "sha256": "f3ea365380f074388846bf5d210c93314b9c5ae78a77951eb4ee0f6fb9de315f",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/mods/%5BMod%5D%20ZEpilogue-PEpilogue.SC2Mod"
       },
       {
@@ -1610,7 +1610,7 @@
   },
   {
     "title": "Wings of Liberty Zerg Edition",
-    "version": "1.2",
+    "version": "1.3",
     "asset": "Wings of Liberty Zerg Edition.png",
     "maps": [
       {
@@ -1621,14 +1621,14 @@
       },
       {
         "name": "[Mod] WOLZE - Infested Vodka.SC2Mod",
-        "version": "1.1",
-        "sha256": "a292e2d470f7a15e1fbfe884fdfa4d81e2f8eb1eacbab1f8383ba535954bbb22",
+        "version": "1.2",
+        "sha256": "ac7a3c17758a97dce78098c845ca77531a67ccaacfe6cd01180dece69350a5b2",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/mods/%5BMod%5D%20WOLZE%20-%20Infested%20Vodka.SC2Mod"
       },
       {
         "name": "[Mod] WOLZE.SC2Mod",
-        "version": "1.1",
-        "sha256": "08757c99512e65e597c9bb43055b89bde822ab43b8a2dbd6c2710971f5ff6546",
+        "version": "1.2",
+        "sha256": "3245ac79370cc3e95d1edcff5c1c6abdc9f5ac3bc766307c0d0acbbd91aecde8",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/mods/%5BMod%5D%20WOLZE.SC2Mod"
       },
       {
