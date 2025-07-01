@@ -1,7 +1,7 @@
 [
   {
     "title": "Azeroth Legends",
-    "version": "1.14",
+    "version": "1.15",
     "asset": "Azeroth Legends.png",
     "maps": [
       {
@@ -78,8 +78,8 @@
       },
       {
         "name": "WC3MOD.SC2Mod",
-        "version": "1.12",
-        "sha256": "f93fcef683a3c6dd5ae666254c85cad4cc26c279a86d9c669d1f255c9f4139f3",
+        "version": "1.13",
+        "sha256": "d0c85d0404cb905048bc8eb4f31ce82f5006b7c2ed19ecd92a930f397d765b60",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/mods/WC3MOD.SC2Mod"
       },
       {
@@ -141,7 +141,7 @@
   },
   {
     "title": "Azeroth Reborn",
-    "version": "1.36",
+    "version": "1.37",
     "asset": "Azeroth Reborn.png",
     "maps": [
       {
@@ -452,8 +452,8 @@
       },
       {
         "name": "prologue01.SC2Map",
-        "version": "1.3",
-        "sha256": "04cb3989bb2cc57a56515f5110bfc82fdb8c9e0dc3201c5a79adb1295d9fa9d1",
+        "version": "1.4",
+        "sha256": "dcb066cfe5441c1ea519a22fc9daaf39431cade9da65dc1f415759126cc266bd",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/prologue01.SC2Map"
       },
       {
@@ -542,8 +542,8 @@
       },
       {
         "name": "WC3MOD.SC2Mod",
-        "version": "1.12",
-        "sha256": "f93fcef683a3c6dd5ae666254c85cad4cc26c279a86d9c669d1f255c9f4139f3",
+        "version": "1.13",
+        "sha256": "d0c85d0404cb905048bc8eb4f31ce82f5006b7c2ed19ecd92a930f397d765b60",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/mods/WC3MOD.SC2Mod"
       },
       {
