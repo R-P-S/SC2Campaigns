@@ -885,7 +885,7 @@
   },
   {
     "title": "Kerrigan Covert Ops",
-    "version": "1.6",
+    "version": "1.7",
     "asset": "Kerrigan Covert Ops.png",
     "maps": [
       {
@@ -920,14 +920,14 @@
       },
       {
         "name": "KCO4.SC2Map",
-        "version": "1.4",
-        "sha256": "ddf38495761b3308f0e1f8850734981310cf83db51ffff23e61a937284b2ba06",
+        "version": "1.5",
+        "sha256": "684f4752133e6cf5f43ef8ffd57d59ff39701da13924a8c7c2b92fea12d64c6d",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Kerrigan%20Covert%20Ops/KCO4.SC2Map"
       },
       {
         "name": "KCO5.SC2Map",
-        "version": "1.4",
-        "sha256": "4efdeef546cb9ad31805d2aaca726e507cb2c0d902130b2ac1906e337bfd8def",
+        "version": "1.5",
+        "sha256": "4cab077813d6635d7d9658c4e71d8d72d0a252fee9c7a3fd9b3a8ede6a9516b3",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Kerrigan%20Covert%20Ops/KCO5.SC2Map"
       },
       {
@@ -938,8 +938,8 @@
       },
       {
         "name": "KCO7.SC2Map",
-        "version": "1.4",
-        "sha256": "af73616e78b819dc9f2ad714072feb466acc824f73cb57cec8c360cd55c479ae",
+        "version": "1.5",
+        "sha256": "aced238b326c10e3e96b20935e43051f186538b10fbef0e8ee679b00187087d1",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Kerrigan%20Covert%20Ops/KCO7.SC2Map"
       },
       {
@@ -950,8 +950,8 @@
       },
       {
         "name": "KCO9.SC2Map",
-        "version": "1.4",
-        "sha256": "a744f5cb11cf1d30838827f3c17f9771cc1878a1a4a936c5f8dd929b70a8c1b8",
+        "version": "1.5",
+        "sha256": "6367f686a766edeb8db5759b981110d452b1bbf608d3bd3404229de6dafb4baa",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Kerrigan%20Covert%20Ops/KCO9.SC2Map"
       }
     ],
@@ -959,7 +959,7 @@
   },
   {
     "title": "Legacy of the Void Terran Edition",
-    "version": "1.5",
+    "version": "1.6",
     "asset": "Legacy of the Void Terran Edition.png",
     "maps": [
       {
@@ -1090,8 +1090,8 @@
       },
       {
         "name": "LOTVTE3.SC2Map",
-        "version": "1.4",
-        "sha256": "3e087df57fbb0d08a15dc0b76df4b3d36c47cfea28bd9c3e9a95d91c6a091c8c",
+        "version": "1.5",
+        "sha256": "66a1557889d5c9f92612198df8e31e22b45f9c00b032fa86a9d2064ee64405b2",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Terran%20Edition/LOTVTE3.SC2Map"
       },
       {
@@ -1135,7 +1135,7 @@
   },
   {
     "title": "Legacy of the Void Zerg Edition",
-    "version": "1.4",
+    "version": "1.5",
     "asset": "Legacy of the Void Zerg Edition.png",
     "maps": [
       {
@@ -1267,8 +1267,8 @@
       },
       {
         "name": "LOTVZE3.SC2Map",
-        "version": "1.2",
-        "sha256": "5e12b2471a4b7e151eda98dbb6dbc5bef13693f4b8f8fc21ba9bbe58709aea48",
+        "version": "1.3",
+        "sha256": "e5efbdfbb590c59465533db3287363e5e1caa6c558c298fc522715bb336f0963",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/LOTVZE3.SC2Map"
       },
       {
@@ -1312,7 +1312,7 @@
   },
   {
     "title": "Protoss Covert Ops",
-    "version": "1.6",
+    "version": "1.7",
     "asset": "Protoss Covert Ops.png",
     "maps": [
       {
@@ -1347,14 +1347,14 @@
       },
       {
         "name": "PCO4.SC2Map",
-        "version": "1.3",
-        "sha256": "e3136b3656c469571b5f261b0861a565ae110b93059a47d77622314590d9ce2c",
+        "version": "1.4",
+        "sha256": "0fe96d60323994f8fe7e9fcecdab8155ce8a82f90c1adcb07b33e06f59cf65ac",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Protoss%20Covert%20Ops/PCO4.SC2Map"
       },
       {
         "name": "PCO5.SC2Map",
-        "version": "1.3",
-        "sha256": "84de802e978f17818b5aa725117e4fef1148e954d28fe2d402777c9060de24ad",
+        "version": "1.4",
+        "sha256": "2a176daa08ab60a5473f6383bc029acb0743c2540f29c76507081c7bd74f3cb1",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Protoss%20Covert%20Ops/PCO5.SC2Map"
       },
       {
@@ -1365,8 +1365,8 @@
       },
       {
         "name": "PCO7.SC2Map",
-        "version": "1.3",
-        "sha256": "ae4a6a8aff176014bcdcf23aba95b28aa146c75013b1471d3822e39728b5b800",
+        "version": "1.4",
+        "sha256": "6c1ac28e3f2be5b77be10f65be96abd50917e5711019a8b467bd4415d65b10a0",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Protoss%20Covert%20Ops/PCO7.SC2Map"
       },
       {
@@ -1377,8 +1377,8 @@
       },
       {
         "name": "PCO9.SC2Map",
-        "version": "1.3",
-        "sha256": "9bf1c2665c705eb4291c9d0bc49f954661b82d07b86029b972713cbd17344c4b",
+        "version": "1.4",
+        "sha256": "6d2ac5714d90a0af8dcc153238239d394c65173b893e157317df5fdc9602b206",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Protoss%20Covert%20Ops/PCO9.SC2Map"
       }
     ],
@@ -1386,7 +1386,7 @@
   },
   {
     "title": "Wings of Liberty Protoss Edition",
-    "version": "1.5",
+    "version": "1.6",
     "asset": "Wings of Liberty Protoss Edition.png",
     "maps": [
       {
@@ -1571,8 +1571,8 @@
       },
       {
         "name": "WOLPE4.SC2Map",
-        "version": "1.3",
-        "sha256": "162e85e441586c4b5bcbf6eecc4cf2d194ffbac47e6f4f1b52a70a1a76219dc1",
+        "version": "1.4",
+        "sha256": "63dfcb6b08c5d5ca61b8c5746485d29db340c517d32f0a04daf011f9cc6d23b0",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Protoss%20Edition/WOLPE4.SC2Map"
       },
       {
@@ -1610,7 +1610,7 @@
   },
   {
     "title": "Wings of Liberty Zerg Edition",
-    "version": "1.4",
+    "version": "1.5",
     "asset": "Wings of Liberty Zerg Edition.png",
     "maps": [
       {
@@ -1771,14 +1771,14 @@
       },
       {
         "name": "WOLZE4.SC2Map",
-        "version": "1.3",
-        "sha256": "06275c019bdfbacb04ba24312484032bb3b83bcc5e3d3fd602c13e41969bc897",
+        "version": "1.4",
+        "sha256": "13fb51cfff8cb4ca9133b97bae8d6024e3e2253fa6099fbd810f08cbefd506b2",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE4.SC2Map"
       },
       {
         "name": "WOLZE5.SC2Map",
-        "version": "1.3",
-        "sha256": "121d3ba97be9e776d0a78295f5cdf722f076fd55f3160458deb839a6e02b2b35",
+        "version": "1.4",
+        "sha256": "1e505e8538868954265d00c78c5b50aff5695e0a9bb2c00d48e4d8b1e8ea4f2a",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE5.SC2Map"
       },
       {
