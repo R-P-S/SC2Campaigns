@@ -20,16 +20,16 @@ jobs:
         lfs: false
 
     # --------------------------------------------------------------
-    # 2.  Regenerate maps.json
-    # --------------------------------------------------------------
-    - name: Regenerate maps.json
-      run: python .github/scripts/update_maps_json.py
-
-    # --------------------------------------------------------------
-    # 3.  Sync shared mods across campaign folders
+    # 2.  Sync shared mods across campaign folders
     # --------------------------------------------------------------
     - name: Sync shared assets
       run: python .github/scripts/sync_shared_assets.py
+
+    # --------------------------------------------------------------
+    # 3.  Regenerate maps.json
+    # --------------------------------------------------------------
+    - name: Regenerate maps.json
+      run: python .github/scripts/update_maps_json.py
 
     # --------------------------------------------------------------
     # 4.  Collect filenames that have "release_asset": true
