@@ -26,8 +26,13 @@ jobs:
       run: python .github/scripts/update_maps_json.py
 
     # --------------------------------------------------------------
-    # 3.  Collect filenames that have "release_asset": true
-    #     (still useful for future auditing / logging)
+    # 3.  Sync shared mods across campaign folders
+    # --------------------------------------------------------------
+    - name: Sync shared assets
+      run: python .github/scripts/sync_shared_assets.py
+
+    # --------------------------------------------------------------
+    # 4.  Collect filenames that have "release_asset": true
     # --------------------------------------------------------------
     - id: list
       run: |
@@ -43,7 +48,7 @@ jobs:
         PY
 
     # --------------------------------------------------------------
-    # 4.  (Disabled) Create / update the release that would hold assets
+    # 5.  (Disabled) Create / update the release that would hold assets
     # --------------------------------------------------------------
     # - uses: softprops/action-gh-release@v1
     #   if: steps.list.outputs.files != ''
@@ -55,7 +60,7 @@ jobs:
     #     prerelease: false
 
     # --------------------------------------------------------------
-    # 5.  (Disabled) Upload each asset if still present in the repo
+    # 6.  (Disabled) Upload each asset if still present in the repo
     # --------------------------------------------------------------
     # - name: Upload assets
     #   if: steps.list.outputs.files != ''
@@ -74,12 +79,13 @@ jobs:
     #     done
 
     # --------------------------------------------------------------
-    # 6.  Commit the updated maps.json (release URLs, versions, etc.)
+    # 7.  Commit the updated maps.json (release URLs, versions, etc.)
     # --------------------------------------------------------------
     - name: Commit manifest
       run: |
         git config user.name  github-actions
         git config user.email noreply@github.com
-        git add maps.json
-        git commit -m "ci: update maps.json" || echo "no change"
+        git config --global --add safe.directory "$GITHUB_WORKSPACE"
+        git add -A maps.json campaigns 
+        git diff --cached --quiet && echo "nothing to commit" || git commit -m "ci: update maps.json & sync shared mods"
         git push
