@@ -80,7 +80,8 @@
         "name": "WC3MOD.SC2Mod",
         "version": "1.19",
         "sha256": "8e7bf69cf2806e5369fbe3860d55f9f641e83b231b5036904357f5663140f3ed",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/mods/WC3MOD.SC2Mod"
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/mods/WC3MOD.SC2Mod",
+        "shared_asset": true
       },
       {
         "version": "1.1",
@@ -100,13 +101,15 @@
         "name": "WC3MOD_ASSETS_3.SC2Mod",
         "version": "1.1",
         "sha256": "4082a12abc73cef4e83aae2d003b0b54fe3d2ecd91d227a4a4a14a7a40766e3e",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/mods/WC3MOD_ASSETS_3.SC2Mod"
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/mods/WC3MOD_ASSETS_3.SC2Mod",
+        "shared_asset": true
       },
       {
         "name": "WC3MOD_ASSETS_4.SC2Mod",
         "version": "1.1",
         "sha256": "09554a3a87bcb4d264324df54ba5e8f60e19964a663953dc329031ab6cc1718e",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/mods/WC3MOD_ASSETS_4.SC2Mod"
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/mods/WC3MOD_ASSETS_4.SC2Mod",
+        "shared_asset": true
       },
       {
         "version": "1.1",
@@ -544,7 +547,8 @@
         "name": "WC3MOD.SC2Mod",
         "version": "1.19",
         "sha256": "8e7bf69cf2806e5369fbe3860d55f9f641e83b231b5036904357f5663140f3ed",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/mods/WC3MOD.SC2Mod"
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/mods/WC3MOD.SC2Mod",
+        "shared_asset": true
       },
       {
         "version": "1.1",
@@ -564,13 +568,15 @@
         "name": "WC3MOD_ASSETS_3.SC2Mod",
         "version": "1.1",
         "sha256": "4082a12abc73cef4e83aae2d003b0b54fe3d2ecd91d227a4a4a14a7a40766e3e",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/mods/WC3MOD_ASSETS_3.SC2Mod"
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/mods/WC3MOD_ASSETS_3.SC2Mod",
+        "shared_asset": true
       },
       {
         "name": "WC3MOD_ASSETS_4.SC2Mod",
         "version": "1.1",
         "sha256": "09554a3a87bcb4d264324df54ba5e8f60e19964a663953dc329031ab6cc1718e",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/mods/WC3MOD_ASSETS_4.SC2Mod"
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/mods/WC3MOD_ASSETS_4.SC2Mod",
+        "shared_asset": true
       },
       {
         "version": "1.1",
