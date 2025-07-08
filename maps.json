@@ -144,7 +144,7 @@
   },
   {
     "title": "Azeroth Reborn",
-    "version": "1.54",
+    "version": "1.55",
     "asset": "Azeroth Reborn.png",
     "maps": [
       {
@@ -545,8 +545,8 @@
       },
       {
         "name": "WC3MOD.SC2Mod",
-        "version": "1.19",
-        "sha256": "8e7bf69cf2806e5369fbe3860d55f9f641e83b231b5036904357f5663140f3ed",
+        "version": "1.20",
+        "sha256": "d635cec25c8b2df6e95f41182947a0258276835199fa053260959198775b02cc",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/mods/WC3MOD.SC2Mod",
         "shared_asset": true
       },
