@@ -1,7 +1,7 @@
 [
   {
     "title": "Azeroth Legends",
-    "version": "1.26",
+    "version": "1.27",
     "asset": "Azeroth Legends.png",
     "maps": [
       {
@@ -78,8 +78,8 @@
       },
       {
         "name": "WC3MOD.SC2Mod",
-        "version": "1.22",
-        "sha256": "52729ddb286eb802d7c6ed31e4b725becd93edad0c53c833c606b953346ada1c",
+        "version": "1.23",
+        "sha256": "341b30daa72308f683409e523a45f6f0d7d9e6168336835e2d6b645c104068fe",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/mods/WC3MOD.SC2Mod",
         "shared_asset": true
       },
@@ -144,7 +144,7 @@
   },
   {
     "title": "Azeroth Reborn",
-    "version": "1.58",
+    "version": "1.59",
     "asset": "Azeroth Reborn.png",
     "maps": [
       {
@@ -239,8 +239,8 @@
       },
       {
         "name": "humanx03.SC2Map",
-        "version": "1.6",
-        "sha256": "22f3a469ffadab08d08be3abf06943e21ab8dd92332e8272a208a19dbdcbf38b",
+        "version": "1.7",
+        "sha256": "7ae652098af5b36355cc53ba37fdfb31844d7d1a96dde69e945d5f270ca49b85",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/humanx03.SC2Map"
       },
       {
@@ -257,8 +257,8 @@
       },
       {
         "name": "humanx04.SC2Map",
-        "version": "1.3",
-        "sha256": "0fb94892be9e2e8be974445408a8eedccd6e4d872b1a8480b8e1623b786349f1",
+        "version": "1.4",
+        "sha256": "fe581f491e1d556ec32446333805883e6c57ec398698f7583699c1273b88db3b",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/humanx04.SC2Map"
       },
       {
@@ -281,8 +281,8 @@
       },
       {
         "name": "humanx06finale.SC2Map",
-        "version": "1.6",
-        "sha256": "b56d53ca661533f45f42d2eb896c937e03eda20a678fec0aaf29e4d9691300b0",
+        "version": "1.7",
+        "sha256": "9ed8b31e889dc548601ad7c83baa47b9463052fc2dfb858a0faa9757e4f858c7",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/humanx06finale.SC2Map"
       },
       {
@@ -545,8 +545,8 @@
       },
       {
         "name": "WC3MOD.SC2Mod",
-        "version": "1.22",
-        "sha256": "52729ddb286eb802d7c6ed31e4b725becd93edad0c53c833c606b953346ada1c",
+        "version": "1.23",
+        "sha256": "341b30daa72308f683409e523a45f6f0d7d9e6168336835e2d6b645c104068fe",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/mods/WC3MOD.SC2Mod",
         "shared_asset": true
       },
