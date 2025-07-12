@@ -655,7 +655,7 @@
   },
   {
     "title": "Deliverance",
-    "version": "1.1",
+    "version": "1.2",
     "asset": "Deliverance.png",
     "maps": [
       {
@@ -696,8 +696,8 @@
       },
       {
         "name": "ModDeliverance.SC2Mod",
-        "version": "1.1",
-        "sha256": "67129f7e5dc5b92c15f2ebe1f5414e28bb69c97cf3453810937b2c2449c95200",
+        "version": "1.2",
+        "sha256": "39c38004f4bed1d6aa0c9c3eb4c8d6bb5ad54f2e1f4cd1d80a6bd20374611125",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Deliverance/mods/ModDeliverance.SC2Mod"
       }
     ],
