@@ -5,10 +5,10 @@
     "asset": "Azeroth Battlegrounds.png",
     "maps": [
       {
-        "name": "(Battlegrounds).SC2Map",
+        "name": "Battlegrounds.SC2Map",
         "version": "1.1",
         "sha256": "8c608785adaa081dc3cd4c33617d9f3f386a7d1c55d5c293356b24cf774b2f1b",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Battlegrounds/%28Battlegrounds%29.SC2Map"
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Battlegrounds/Battlegrounds.SC2Map"
       }
     ],
     "folder": "azerothbattlegrounds"
@@ -1460,10 +1460,10 @@
     "asset": "WarChasers.png",
     "maps": [
       {
-        "name": "(WarChasers).SC2Map",
+        "name": "WarChasers.SC2Map",
         "version": "1.1",
         "sha256": "415576cedb8f9a10b370bdde94bdacb8e646bc0cb7c809e60ab2b8095e21308a",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/WarChasers/%28WarChasers%29.SC2Map"
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/WarChasers/WarChasers.SC2Map"
       }
     ],
     "folder": "warchasers"
