@@ -1,6 +1,7 @@
 #sync_shared_assets
 
 from pathlib import Path
+from collections import Counter 
 import hashlib, json, shutil, subprocess, sys
 
 ROOT   = Path(__file__).resolve().parents[2]
@@ -18,12 +19,22 @@ if not MANIF.is_file():
     sys.exit("maps.json missing – run update_maps_json.py first")
 
 manifest = json.loads(MANIF.read_text())
-shared_names = {
+
+# Count how many times every flagged filename appears
+cnt = Counter(
     m["name"]
     for camp in manifest
     for m in camp["maps"]
-    if m.get("shared_asset")
-}
+    if m.get("shared_asset")      
+)
+
+# Keep only those that are referenced by ≥ 2 campaigns
+shared_names = {name for name, n in cnt.items() if n > 1}
+
+# log shared asset error
+loners = [name for name, n in cnt.items() if n == 1]
+for n in loners:
+    print(f"⚠️  {n} is marked shared_asset but only appears once")
 
 # -----------------------------------------------------------------
 # locate every on-disk copy
