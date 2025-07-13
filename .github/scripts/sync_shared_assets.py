@@ -2,8 +2,10 @@
 
 from pathlib import Path
 from collections import Counter 
-import hashlib, json, shutil, subprocess, sys
+import hashlib, json, shutil, subprocess, sys, os
 
+BEFORE = os.getenv("BEFORE") 
+AFTER  = os.getenv("AFTER")
 ROOT   = Path(__file__).resolve().parents[2]
 CAMPS  = ROOT / "campaigns"
 MANIF  = ROOT / "maps.json"
@@ -48,16 +50,15 @@ for path in CAMPS.rglob("*"):
 # for each shared asset choose *one* source copy
 # -----------------------------------------------------------------
 def modified_in_this_push(p: Path) -> bool:
+    if not BEFORE or not AFTER: 
+        return False
     try:
-        base = subprocess.check_output(
-            ["git", "merge-base", "HEAD", "origin/main"], text=True
-        ).strip()
         out = subprocess.check_output(
-            ["git", "diff", "--name-only", base, "HEAD", "--", str(p)],
-            text=True
+            ["git", "diff", "--name-only", BEFORE, AFTER, "--", str(p)],
+            text=True,
         )
         return bool(out.strip())
-    except Exception:
+    except subprocess.CalledProcessError:
         return False
 
 for name, paths in copies.items():

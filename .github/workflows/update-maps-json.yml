@@ -19,6 +19,15 @@ jobs:
       with:
         lfs: false
 
+    
+    # --------------------------------------------------------------
+    # 1b.  Before/after SHAs
+    # --------------------------------------------------------------
+    - name: Export before/after SHAs
+      run: |
+        echo "BEFORE=${{ github.event.before }}" >> $GITHUB_ENV
+        echo "AFTER=${{ github.sha }}"           >> $GITHUB_ENV
+
     # --------------------------------------------------------------
     # 2.  Sync shared mods across campaign folders
     # --------------------------------------------------------------
