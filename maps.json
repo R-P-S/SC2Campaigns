@@ -761,7 +761,7 @@
   },
   {
     "title": "Heart of the Swarm Protoss Edition",
-    "version": "1.4",
+    "version": "1.5",
     "asset": "Heart of the Swarm Protoss Edition.png",
     "maps": [
       {
@@ -772,8 +772,8 @@
       },
       {
         "name": "[Mod] HOTSPE.SC2Mod",
-        "version": "1.2",
-        "sha256": "223befecbe231b4b9948fd72d0ddc057ece93612d286a77229bd61dd60c83bd1",
+        "version": "1.3",
+        "sha256": "98f7fe78c4bf5fec01d6ba5333a07b6a36fba77153f84528224e0e15cd528ea4",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/mods/%5BMod%5D%20HOTSPE.SC2Mod"
       },
       {
@@ -901,7 +901,7 @@
   },
   {
     "title": "Heart of the Swarm Terran Edition",
-    "version": "1.4",
+    "version": "1.5",
     "asset": "Heart of the Swarm Terran Edition.png",
     "maps": [
       {
@@ -912,8 +912,8 @@
       },
       {
         "name": "[Mod] HOTSTE.SC2Mod",
-        "version": "1.2",
-        "sha256": "64798e4f3bd88376da3da0c1c46ff8a3631a8751f8b5f88f3ba41d38e5633e5e",
+        "version": "1.3",
+        "sha256": "859c647cbdb484b01d8d82f005a3ba4df7f0d60de0f02055be82256bf6235a1b",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/mods/%5BMod%5D%20HOTSTE.SC2Mod"
       },
       {
@@ -1468,7 +1468,7 @@
   },
   {
     "title": "Protoss Covert Ops",
-    "version": "1.7",
+    "version": "1.8",
     "asset": "Protoss Covert Ops.png",
     "maps": [
       {
@@ -1479,8 +1479,8 @@
       },
       {
         "name": "[Mod] Protoss Covert Ops.SC2Mod",
-        "version": "1.2",
-        "sha256": "475020acaa0662deaff9ddef0a43695bb0a1bbe152db40950253f1e0ce8a30e3",
+        "version": "1.3",
+        "sha256": "9b02b3b5da93df3dedbcbe95257bd641ec2a80fd350239201af22b1811122d41",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Protoss%20Covert%20Ops/mods/%5BMod%5D%20Protoss%20Covert%20Ops.SC2Mod"
       },
       {
