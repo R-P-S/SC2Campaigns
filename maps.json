@@ -1857,7 +1857,7 @@
   },
   {
     "title": "Wings of Liberty Zerg Edition",
-    "version": "1.6",
+    "version": "1.7",
     "asset": "Wings of Liberty Zerg Edition.png",
     "maps": [
       {
@@ -2042,14 +2042,14 @@
       },
       {
         "name": "WOLZE8.SC2Map",
-        "version": "1.3",
-        "sha256": "48c8c529aaec6753f2e85e66a31670229c0ac10e2fb440a9179bb88b841920b5",
+        "version": "1.4",
+        "sha256": "04bab69244cb8a4406f278c1e904f146c8eb6f569abcbabfe1133de876138860",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE8.SC2Map"
       },
       {
         "name": "WOLZE9.SC2Map",
-        "version": "1.3",
-        "sha256": "57a360e2e044c51d9b81a38d0288facacb9509885cff3622736d15237e211d9b",
+        "version": "1.4",
+        "sha256": "952304e32ff68625d9a911d1c19250cb2749bc191bc9b788e2e4a3b073e2cef1",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Wings%20of%20Liberty%20Zerg%20Edition/WOLZE9.SC2Map"
       }
     ],
