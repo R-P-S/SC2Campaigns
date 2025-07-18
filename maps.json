@@ -1291,7 +1291,7 @@
   },
   {
     "title": "Legacy of the Void Zerg Edition",
-    "version": "1.7",
+    "version": "1.8",
     "asset": "Legacy of the Void Zerg Edition.png",
     "maps": [
       {
@@ -1302,8 +1302,8 @@
       },
       {
         "name": "[Mod] LOTVZE.SC2Mod",
-        "version": "1.4",
-        "sha256": "3b9bc3dc1df0e7b286dd471c6e61b524b6b72f4a58d723609e46dc9823edbf3d",
+        "version": "1.5",
+        "sha256": "1d13847219c0600dfbb23d6dc63f0fe578521cca1fb895ffaff6d0ae8f33c035",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Legacy%20of%20the%20Void%20Zerg%20Edition/mods/%5BMod%5D%20LOTVZE.SC2Mod"
       },
       {
