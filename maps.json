@@ -747,7 +747,8 @@
         "name": "WC3MOD.SC2Mod",
         "version": "1.1",
         "sha256": "ae51f2a18ed14bd90f8219d8fffbba3c5716ee6867b15ca26ecb1d10badcb2fa",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reswapped/mods/WC3MOD.SC2Mod"
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reswapped/mods/WC3MOD.SC2Mod",
+        "shared_asset": true
       },
       {
         "version": "1.1",
