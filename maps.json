@@ -1,7 +1,7 @@
 [
   {
     "title": "Azeroth Battlegrounds",
-    "version": "1.14",
+    "version": "1.15",
     "asset": "Azeroth Battlegrounds.png",
     "maps": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "WC3_CustomData.SC2Mod",
-        "version": "1.5",
-        "sha256": "41028a191b403ab7ac6583c4413e7a9ed94023e7a226b9ac79f7b97404f946fe",
+        "version": "1.6",
+        "sha256": "fc688f7ca5dcbba50f2623fc546b90c33a98137a5be728c23f8587158904fcef",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Battlegrounds/mods/WC3_CustomData.SC2Mod",
         "shared_asset": true
       },
@@ -92,7 +92,7 @@
   },
   {
     "title": "Azeroth Legends",
-    "version": "1.39",
+    "version": "1.40",
     "asset": "Azeroth Legends.png",
     "maps": [
       {
@@ -103,56 +103,56 @@
       },
       {
         "name": "Undead01.SC2Map",
-        "version": "1.3",
-        "sha256": "377caf5e0f5542d02c0de14209df50fb062c87b13fac9366f022a8435492a709",
+        "version": "1.4",
+        "sha256": "384388f2af6d5a32645aa5d8c423d6a75922664d293c908114119e95f19c87ce",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/Undead01.SC2Map"
       },
       {
         "name": "Undead02.SC2Map",
-        "version": "1.3",
-        "sha256": "d7a27d2571bb74f516473c1954ac361a71722283bf2b0106d997d2f0a24da812",
+        "version": "1.4",
+        "sha256": "5928187f5031a25a339f7b9cd71fd903b25987d80bc1224ac05ecacc0b572ac5",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/Undead02.SC2Map"
       },
       {
         "name": "Undead03.SC2Map",
-        "version": "1.3",
-        "sha256": "803293c1d4cfd155c5913d7094a5e1aae0c6999a0e901b1ef93fcc2d58f4bb71",
+        "version": "1.4",
+        "sha256": "10d1b9d1f51b0cda2c2bdb087768e1dddefa494938e175e83d53cc080a2eea76",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/Undead03.SC2Map"
       },
       {
         "name": "Undead04.SC2Map",
-        "version": "1.4",
-        "sha256": "468484d81c49f27642275ed7602d521d8dc210777af37a7232e79deac7b81c87",
+        "version": "1.5",
+        "sha256": "4e0fbc22ce90c8cbed767a2c9cbfbb14db7cda38f25f59a9879b095804c53caa",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/Undead04.SC2Map"
       },
       {
         "name": "Undead05.SC2Map",
-        "version": "1.3",
-        "sha256": "d79717f6c1e9df269c84fd72086e5944afebe9a13507d0419ae2e2d842159baf",
+        "version": "1.4",
+        "sha256": "a2cba429071d3d86f7f7cc845268ac0521092a26e12c668494cad8ee120390ca",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/Undead05.SC2Map"
       },
       {
         "name": "Undead06.SC2Map",
-        "version": "1.3",
-        "sha256": "b956d75cf70324b3690343dfae0595d5383180937313cff690b6182cfa8ebce1",
+        "version": "1.4",
+        "sha256": "5350abeea63ee3a40a7f1699430ad53f91c4f5c34c9d74c38f967c36de7263a0",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/Undead06.SC2Map"
       },
       {
         "name": "Undead07.SC2Map",
-        "version": "1.3",
-        "sha256": "1fd57d8c95db2438c7cb7258eb079898decb0d1b324aafcafabd6b15b2533464",
+        "version": "1.4",
+        "sha256": "40426dd225e4cf9a3cc81e85c538f8eb509fb413bec74fdcc40f2bcb8838e1ae",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/Undead07.SC2Map"
       },
       {
         "name": "Undead08.SC2Map",
-        "version": "1.3",
-        "sha256": "4f58a6abca52196b77adcb3822a3175110b06307535e942b5a477d42e84fbd44",
+        "version": "1.4",
+        "sha256": "15a80e9ec55dc50f0317c21189205de581da13188c8bf9958240578f7381d02d",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/Undead08.SC2Map"
       },
       {
         "name": "Undead09.SC2Map",
-        "version": "1.4",
-        "sha256": "e135ce6746bf17375728b39e546d3b222981024b0ade6dd1ac73a06b42532c4e",
+        "version": "1.5",
+        "sha256": "d295b783be84cc339c7e35273f5f8e0dfe9c4e6b9a3bb81c85c1ccf33643d11c",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/Undead09.SC2Map"
       },
       {
@@ -164,8 +164,8 @@
       },
       {
         "name": "WC3_CustomData.SC2Mod",
-        "version": "1.6",
-        "sha256": "41028a191b403ab7ac6583c4413e7a9ed94023e7a226b9ac79f7b97404f946fe",
+        "version": "1.7",
+        "sha256": "fc688f7ca5dcbba50f2623fc546b90c33a98137a5be728c23f8587158904fcef",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/mods/WC3_CustomData.SC2Mod",
         "shared_asset": true
       },
@@ -1649,7 +1649,7 @@
   },
   {
     "title": "WarChasers",
-    "version": "1.13",
+    "version": "1.14",
     "asset": "WarChasers.png",
     "maps": [
       {
@@ -1667,8 +1667,8 @@
       },
       {
         "name": "WC3_CustomData.SC2Mod",
-        "version": "1.5",
-        "sha256": "41028a191b403ab7ac6583c4413e7a9ed94023e7a226b9ac79f7b97404f946fe",
+        "version": "1.6",
+        "sha256": "fc688f7ca5dcbba50f2623fc546b90c33a98137a5be728c23f8587158904fcef",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/WarChasers/mods/WC3_CustomData.SC2Mod",
         "shared_asset": true
       },
