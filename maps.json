@@ -703,6 +703,68 @@
     "folder": "azerothreborn"
   },
   {
+    "title": "Azeroth Reswapped",
+    "version": "1.1",
+    "asset": "Azeroth Reswapped.png",
+    "maps": [
+      {
+        "name": "RSLauncher.SC2Map",
+        "version": "1.1",
+        "sha256": "21673996d7bbd3a00662084cdf15cbc84f4c1b989188a4b2383f8ad986d09185",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reswapped/RSLauncher.SC2Map"
+      },
+      {
+        "name": "prologue01_RS.SC2Map",
+        "version": "1.1",
+        "sha256": "ac1961353f5c65a7f4421a5a53638edfd1cf326610cbd7566a66ad94a55ceb55",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reswapped/prologue01_RS.SC2Map"
+      },
+      {
+        "name": "prologue02_RS.SC2Map",
+        "version": "1.1",
+        "sha256": "c5264cb744d387e4e64291007bcd06bba72b532304a11e9549739809cdff027b",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reswapped/prologue02_RS.SC2Map"
+      },
+      {
+        "name": "prologue03_RS.SC2Map",
+        "version": "1.1",
+        "sha256": "b93ad1e2f3ee9e40fdf888e963bb8d1768dc8732383178d8d8af1f0615bea8b6",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reswapped/prologue03_RS.SC2Map"
+      },
+      {
+        "name": "prologue04_RS.SC2Map",
+        "version": "1.1",
+        "sha256": "b685c52c3ffcd094539a7f0e32e630bd8b6a638b8731adcd2f75cab0fb1100d0",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reswapped/prologue04_RS.SC2Map"
+      },
+      {
+        "name": "prologue05_RS.SC2Map",
+        "version": "1.1",
+        "sha256": "e6258367ea2726c177154362d9d36e9ba2f5412782c1ddf2f782ce912a0eb3f9",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reswapped/prologue05_RS.SC2Map"
+      },
+      {
+        "name": "WC3MOD.SC2Mod",
+        "version": "1.1",
+        "sha256": "ae51f2a18ed14bd90f8219d8fffbba3c5716ee6867b15ca26ecb1d10badcb2fa",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reswapped/mods/WC3MOD.SC2Mod"
+      },
+      {
+        "name": "WC3MOD_ASSETS_3.SC2Mod",
+        "version": "1.1",
+        "sha256": "4082a12abc73cef4e83aae2d003b0b54fe3d2ecd91d227a4a4a14a7a40766e3e",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reswapped/mods/WC3MOD_ASSETS_3.SC2Mod"
+      },
+      {
+        "name": "WC3MOD_ASSETS_4.SC2Mod",
+        "version": "1.1",
+        "sha256": "09554a3a87bcb4d264324df54ba5e8f60e19964a663953dc329031ab6cc1718e",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reswapped/mods/WC3MOD_ASSETS_4.SC2Mod"
+      }
+    ],
+    "folder": "azerothreswapped"
+  },
+  {
     "title": "Deliverance",
     "version": "1.7",
     "asset": "Deliverance.png",
