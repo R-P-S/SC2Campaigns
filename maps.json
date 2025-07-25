@@ -92,7 +92,7 @@
   },
   {
     "title": "Azeroth Legends",
-    "version": "1.52",
+    "version": "1.53",
     "asset": "Azeroth Legends.png",
     "maps": [
       {
@@ -145,8 +145,8 @@
       },
       {
         "name": "Undead08.SC2Map",
-        "version": "1.5",
-        "sha256": "54b93d20e9a1ac827c72d2f7e49f739cef5a0aea8c21d53f8c15224e53f690ff",
+        "version": "1.6",
+        "sha256": "4de058bb35766446e9aa1cb4156f7a8f287a392e49fb716cb79f1a244647a4df",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/Undead08.SC2Map"
       },
       {
