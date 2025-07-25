@@ -1,7 +1,7 @@
 [
   {
     "title": "Azeroth Battlegrounds",
-    "version": "1.29",
+    "version": "1.30",
     "asset": "Azeroth Battlegrounds.png",
     "maps": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "WC3_CustomData.SC2Mod",
-        "version": "1.11",
-        "sha256": "6be69160d0492c1664118404ff717a04dba12e5e14d878769295886799e0b482",
+        "version": "1.12",
+        "sha256": "0b586b18c96887bb5bccbf673c3512ce294b3cd08b30b6bd16a021e5fd822118",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Battlegrounds/mods/WC3_CustomData.SC2Mod",
         "shared_asset": true
       },
@@ -92,7 +92,7 @@
   },
   {
     "title": "Azeroth Legends",
-    "version": "1.55",
+    "version": "1.56",
     "asset": "Azeroth Legends.png",
     "maps": [
       {
@@ -164,8 +164,8 @@
       },
       {
         "name": "WC3_CustomData.SC2Mod",
-        "version": "1.12",
-        "sha256": "6be69160d0492c1664118404ff717a04dba12e5e14d878769295886799e0b482",
+        "version": "1.13",
+        "sha256": "0b586b18c96887bb5bccbf673c3512ce294b3cd08b30b6bd16a021e5fd822118",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/mods/WC3_CustomData.SC2Mod",
         "shared_asset": true
       },
@@ -1649,7 +1649,7 @@
   },
   {
     "title": "WarChasers",
-    "version": "1.28",
+    "version": "1.29",
     "asset": "WarChasers.png",
     "maps": [
       {
@@ -1667,8 +1667,8 @@
       },
       {
         "name": "WC3_CustomData.SC2Mod",
-        "version": "1.11",
-        "sha256": "6be69160d0492c1664118404ff717a04dba12e5e14d878769295886799e0b482",
+        "version": "1.12",
+        "sha256": "0b586b18c96887bb5bccbf673c3512ce294b3cd08b30b6bd16a021e5fd822118",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/WarChasers/mods/WC3_CustomData.SC2Mod",
         "shared_asset": true
       },
