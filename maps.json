@@ -868,7 +868,7 @@
   },
   {
     "title": "Heart of the Swarm Protoss Edition",
-    "version": "1.6",
+    "version": "1.7",
     "asset": "Heart of the Swarm Protoss Edition.png",
     "maps": [
       {
@@ -933,8 +933,8 @@
       },
       {
         "name": "HOTSPE17.SC2Map",
-        "version": "1.3",
-        "sha256": "f9718d9baa1443af2db02749db384771bbd51a3ce80a524b5c909b4924faa23f",
+        "version": "1.4",
+        "sha256": "69fa85d7b619559d10f1d6065436c8e8d9a25f2fff09fa75c6bd08d26e082a65",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Protoss%20Edition/HOTSPE17.SC2Map"
       },
       {
@@ -1008,7 +1008,7 @@
   },
   {
     "title": "Heart of the Swarm Terran Edition",
-    "version": "1.7",
+    "version": "1.8",
     "asset": "Heart of the Swarm Terran Edition.png",
     "maps": [
       {
@@ -1073,8 +1073,8 @@
       },
       {
         "name": "HOTSTE17.SC2Map",
-        "version": "1.4",
-        "sha256": "ac818a1291dd121f037ca3625325ef76cfe0e7e3f51aa9aca10957b577a2a346",
+        "version": "1.5",
+        "sha256": "83ad489e0e6953642564b63cc0ac9f7d1ac7b615630ba69022a23795d7b0bafd",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Heart%20of%20the%20Swarm%20Terran%20Edition/HOTSTE17.SC2Map"
       },
       {
