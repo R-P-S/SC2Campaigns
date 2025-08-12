@@ -1,7 +1,7 @@
 [
   {
     "title": "Azeroth Battlegrounds",
-    "version": "1.36",
+    "version": "1.37",
     "asset": "Azeroth Battlegrounds.png",
     "maps": [
       {
@@ -26,8 +26,8 @@
       },
       {
         "name": "WC3MOD.SC2Mod",
-        "version": "1.22",
-        "sha256": "7c831bc6efb9bd27ebd9604d1c718e9168fc796d612dee8b872c84d98113b36b",
+        "version": "1.23",
+        "sha256": "2b78399a5062852a5a2fcc270527bf50bc1d0f5cfcac17284bd41cd136a8c032",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Battlegrounds/mods/WC3MOD.SC2Mod",
         "shared_asset": true
       },
@@ -92,7 +92,7 @@
   },
   {
     "title": "Azeroth Legends",
-    "version": "1.62",
+    "version": "1.63",
     "asset": "Azeroth Legends.png",
     "maps": [
       {
@@ -171,8 +171,8 @@
       },
       {
         "name": "WC3MOD.SC2Mod",
-        "version": "1.44",
-        "sha256": "7c831bc6efb9bd27ebd9604d1c718e9168fc796d612dee8b872c84d98113b36b",
+        "version": "1.45",
+        "sha256": "2b78399a5062852a5a2fcc270527bf50bc1d0f5cfcac17284bd41cd136a8c032",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/mods/WC3MOD.SC2Mod",
         "shared_asset": true
       },
@@ -237,7 +237,7 @@
   },
   {
     "title": "Azeroth Reborn",
-    "version": "1.94",
+    "version": "1.95",
     "asset": "Azeroth Reborn.png",
     "maps": [
       {
@@ -368,8 +368,8 @@
       },
       {
         "name": "humanx06.SC2Map",
-        "version": "1.8",
-        "sha256": "792cac05d33aac5835f7e2518b4937f31e593e1ad037ee90605d2d964db8a750",
+        "version": "1.9",
+        "sha256": "c9908f135c945edbb1bccd334fba81f649d9b0292acca0b857463b1e760f9097",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/humanx06.SC2Map"
       },
       {
@@ -638,8 +638,8 @@
       },
       {
         "name": "WC3MOD.SC2Mod",
-        "version": "1.44",
-        "sha256": "7c831bc6efb9bd27ebd9604d1c718e9168fc796d612dee8b872c84d98113b36b",
+        "version": "1.45",
+        "sha256": "2b78399a5062852a5a2fcc270527bf50bc1d0f5cfcac17284bd41cd136a8c032",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/mods/WC3MOD.SC2Mod",
         "shared_asset": true
       },
@@ -704,7 +704,7 @@
   },
   {
     "title": "Azeroth Reswapped",
-    "version": "1.15",
+    "version": "1.16",
     "asset": "Azeroth Reswapped.png",
     "maps": [
       {
@@ -745,8 +745,8 @@
       },
       {
         "name": "WC3MOD.SC2Mod",
-        "version": "1.15",
-        "sha256": "7c831bc6efb9bd27ebd9604d1c718e9168fc796d612dee8b872c84d98113b36b",
+        "version": "1.16",
+        "sha256": "2b78399a5062852a5a2fcc270527bf50bc1d0f5cfcac17284bd41cd136a8c032",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reswapped/mods/WC3MOD.SC2Mod",
         "shared_asset": true
       },
@@ -1649,7 +1649,7 @@
   },
   {
     "title": "WarChasers",
-    "version": "1.35",
+    "version": "1.36",
     "asset": "WarChasers.png",
     "maps": [
       {
@@ -1674,8 +1674,8 @@
       },
       {
         "name": "WC3MOD.SC2Mod",
-        "version": "1.22",
-        "sha256": "7c831bc6efb9bd27ebd9604d1c718e9168fc796d612dee8b872c84d98113b36b",
+        "version": "1.23",
+        "sha256": "2b78399a5062852a5a2fcc270527bf50bc1d0f5cfcac17284bd41cd136a8c032",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/WarChasers/mods/WC3MOD.SC2Mod",
         "shared_asset": true
       },
