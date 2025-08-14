@@ -29,10 +29,16 @@ RAW_BASE = f"https://raw.githubusercontent.com/{owner_repo()}/main/"
 
 # ── helpers ────────────────────────────────────────────────────────
 VER_RE = re.compile(r"^(?P<maj>\d+)\.(?P<min>\d+)$")
-def bump_minor(ver: str | None) -> str:
+MAX_MINOR = 99
+def bump_minor(ver: str | None, *, rollover: int = MAX_MINOR) -> str:
     m = VER_RE.match(ver or "") or VER_RE.match("1.0")
     maj, mn = map(int, m.groups())
-    return f"{maj}.{mn+1}"
+    mn += 1
+    if mn > rollover:
+        bump = mn // (rollover + 1)
+        maj += bump
+        mn  = mn % (rollover + 1)
+    return f"{maj}.{mn}"
 
 def sha256(p: Path) -> str:
     h = hashlib.sha256()
