@@ -1648,166 +1648,138 @@
     "folder": "protosscovertops"
   },
   {
-    "title": "UEDFL",
+    "title": "UED First Light",
     "version": "1.1",
-    "asset": "UEDFL.png",
+    "asset": "UED First Light.png",
     "maps": [
       {
         "name": "UEDFL_Launcher.SC2Map",
         "version": "1.1",
         "sha256": "b3bd2faf17b5fcaccd4ec178a0dc946a3eb7896f1c87570d11d53b9b37184f6b",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/UEDFL_Launcher.SC2Map"
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UED%20First%20Light/UEDFL_Launcher.SC2Map"
       },
       {
         "name": "UEDFL_Achievements.SC2Mod",
         "version": "1.1",
         "sha256": "a6652109958ef7b64f9e0cdb67b37dca8f6ec7d93c55885880a79abc0455bbaa",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/mods/UEDFL_Achievements.SC2Mod"
-      },
-      {
-        "version": "1.1",
-        "sha256": "7876cf9879803a99690ed5a0f59aca2eef197b3e2c6025229fd181d75031fbb4",
-        "name": "UEDFL_Assets.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/ued-assets/UEDFL_Assets.SC2Mod",
-        "release_asset": true
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UED%20First%20Light/mods/UEDFL_Achievements.SC2Mod"
       },
       {
         "name": "UEDFL_Campaign.SC2Mod",
         "version": "1.1",
         "sha256": "998a975b47321de3023b3f97044512db573653a411bea540db6e0dfebaf83d9a",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/mods/UEDFL_Campaign.SC2Mod"
-      },
-      {
-        "version": "1.1",
-        "sha256": "0ca4410970dace170ef6045a21d1c3ede67aac1b28fecaed78059219f94822dc",
-        "name": "UEDFL_CampaignAssets.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/ued-assets/UEDFL_CampaignAssets.SC2Mod",
-        "release_asset": true
-      },
-      {
-        "version": "1.1",
-        "sha256": "f0566bbf0bdf02e17bc042c47d84499d6f56901ce6c66791b0565c53f080e6ce",
-        "name": "UEDFL_CampaignAssets_2.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/ued-assets/UEDFL_CampaignAssets_2.SC2Mod",
-        "release_asset": true
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UED%20First%20Light/mods/UEDFL_Campaign.SC2Mod"
       },
       {
         "name": "UEDFL_Data.SC2Mod",
         "version": "1.1",
         "sha256": "dd8693d237e4e47455ba9437e4002d240cf874417a8ee5ca20357c0b9eb88ba5",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/mods/UEDFL_Data.SC2Mod"
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UED%20First%20Light/mods/UEDFL_Data.SC2Mod"
       },
       {
         "name": "UEDFL_EP01M00_Routhe.SC2Map",
         "version": "1.1",
         "sha256": "584880edaceacaa5dd1a942338b7c9cb5442114d57156a0d38f84c1719777a9c",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/UEDFL_EP01M00_Routhe.SC2Map"
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UED%20First%20Light/UEDFL_EP01M00_Routhe.SC2Map"
       },
       {
         "name": "UEDFL_EP01M01_EndofInnocence.SC2Map",
         "version": "1.1",
         "sha256": "6f8546c24761cbddd043fa59121cd0560967e1a2c4f9533a299a969c04d78239",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/UEDFL_EP01M01_EndofInnocence.SC2Map"
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UED%20First%20Light/UEDFL_EP01M01_EndofInnocence.SC2Map"
       },
       {
         "name": "UEDFL_EP01M02_1091Echo.SC2Map",
         "version": "1.1",
         "sha256": "820a4b8e8146036cd9f86c68a5d19db492444b77b1f9f42d84edb39d63e1504c",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/UEDFL_EP01M02_1091Echo.SC2Map"
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UED%20First%20Light/UEDFL_EP01M02_1091Echo.SC2Map"
       },
       {
         "name": "UEDFL_EP01M03_REDCON1.SC2Map",
         "version": "1.1",
         "sha256": "ecfbcd178fd6e141101a8bdec523957edd4355cb1842eb0f755fffd234e52854",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/UEDFL_EP01M03_REDCON1.SC2Map"
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UED%20First%20Light/UEDFL_EP01M03_REDCON1.SC2Map"
       },
       {
         "name": "UEDFL_EP01M04_OperationDeepClean.SC2Map",
         "version": "1.1",
         "sha256": "7c2f8692b0cc8e7b128f58594b1ee8c01b4d6f13e9b68819e5971443d8c3ebb0",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/UEDFL_EP01M04_OperationDeepClean.SC2Map"
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UED%20First%20Light/UEDFL_EP01M04_OperationDeepClean.SC2Map"
       },
       {
         "name": "UEDFL_EP01M05_Outpost497.SC2Map",
         "version": "1.1",
         "sha256": "bd911869a2139894ded75df86745a6711460440bf7ebfcf7dc49f6a3ec10c012",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/UEDFL_EP01M05_Outpost497.SC2Map"
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UED%20First%20Light/UEDFL_EP01M05_Outpost497.SC2Map"
       },
       {
         "name": "UEDFL_EP01M06_CleanandSweep.SC2Map",
         "version": "1.1",
         "sha256": "bd84ea6449679c893b59ea7382a6a7903346b0f960fe2e1d31596012e751ec1e",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/UEDFL_EP01M06_CleanandSweep.SC2Map"
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UED%20First%20Light/UEDFL_EP01M06_CleanandSweep.SC2Map"
       },
       {
         "name": "UEDFL_EP01M07_PaybackTime.SC2Map",
         "version": "1.1",
         "sha256": "b3fa3e32148daa769eec6623621019e37c12e5e74d432f0c31071e8af3bd5bed",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/UEDFL_EP01M07_PaybackTime.SC2Map"
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UED%20First%20Light/UEDFL_EP01M07_PaybackTime.SC2Map"
       },
       {
         "name": "UEDFL_EP01M08_OutrunningtheNight.SC2Map",
         "version": "1.1",
         "sha256": "8501b2d6598a84173cd2ac44aa2440dc737976a391f30af057019b5a4a02082d",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/UEDFL_EP01M08_OutrunningtheNight.SC2Map"
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UED%20First%20Light/UEDFL_EP01M08_OutrunningtheNight.SC2Map"
       },
       {
         "name": "UEDFL_EP01M09_PyrrhicVictory.SC2Map",
         "version": "1.1",
         "sha256": "a0ac601155e1f66532564f0435f011b4376d8584d396cdf1bcce28c04a2e0f56",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/UEDFL_EP01M09_PyrrhicVictory.SC2Map"
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UED%20First%20Light/UEDFL_EP01M09_PyrrhicVictory.SC2Map"
       },
       {
         "name": "UEDFL_EP01M10_Longshot.SC2Map",
         "version": "1.1",
         "sha256": "96709ec4f060544d8c8c0dc33eec2ae58f6a94bda93d64c1f971d9be0f5b6c2f",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/UEDFL_EP01M10_Longshot.SC2Map"
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UED%20First%20Light/UEDFL_EP01M10_Longshot.SC2Map"
       },
       {
         "name": "UEDFL_EP01M11_VIP.SC2Map",
         "version": "1.1",
         "sha256": "9c6548bb5e76eabaa636f6315348af61ea805aee7669d9c13e386178fca5e8ed",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/UEDFL_EP01M11_VIP.SC2Map"
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UED%20First%20Light/UEDFL_EP01M11_VIP.SC2Map"
       },
       {
         "name": "UEDFL_EP01M12_August.SC2Map",
         "version": "1.1",
         "sha256": "2061920774c8102bfbdbcaa9e5d54b515fd00dde013e277a938622190f618ba9",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/UEDFL_EP01M12_August.SC2Map"
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UED%20First%20Light/UEDFL_EP01M12_August.SC2Map"
       },
       {
         "name": "UEDFL_EP01M13_TheGatekeepers.SC2Map",
         "version": "1.1",
         "sha256": "903006af1ef889a0335e40491b143dd1962f23d4fa4e82d566b6bf7bcbd649d8",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/UEDFL_EP01M13_TheGatekeepers.SC2Map"
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UED%20First%20Light/UEDFL_EP01M13_TheGatekeepers.SC2Map"
       },
       {
         "name": "UEDFL_EP01M14_AbandonHope.SC2Map",
         "version": "1.1",
         "sha256": "3dd58557794e2d2bb102abcb16dfed67419ae2c5cb12a43dc82a0b98cfe20db4",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/UEDFL_EP01M14_AbandonHope.SC2Map"
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UED%20First%20Light/UEDFL_EP01M14_AbandonHope.SC2Map"
       },
       {
         "name": "UEDFL_EP01M15_WithAWhimper.SC2Map",
         "version": "1.1",
         "sha256": "367c3cfa080df9ffa85a0bed6e756a9f8a3bce0244cd57aa3e486e56e5359ea8",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/UEDFL_EP01M15_WithAWhimper.SC2Map"
-      },
-      {
-        "version": "1.1",
-        "sha256": "f8dec595bfacd3fbc27a5896f547fe880fbf4fe6bc6127e550250cf46cf14236",
-        "name": "UEDFL_SCEvoAssets.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/ued-assets/UEDFL_SCEvoAssets.SC2Mod",
-        "release_asset": true
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UED%20First%20Light/UEDFL_EP01M15_WithAWhimper.SC2Map"
       },
       {
         "name": "UEDFL_SCEvoCore.SC2Mod",
         "version": "1.1",
         "sha256": "f3d4ba201cfb1254fc89cdebb7b5f54203b200df3a934aa61dba38db0d517759",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/mods/UEDFL_SCEvoCore.SC2Mod"
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UED%20First%20Light/mods/UEDFL_SCEvoCore.SC2Mod"
       }
     ],
-    "folder": "uedfl"
+    "folder": "uedfirstlight"
   },
   {
     "title": "WarChasers",
