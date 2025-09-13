@@ -1777,6 +1777,34 @@
         "version": "1.1",
         "sha256": "f3d4ba201cfb1254fc89cdebb7b5f54203b200df3a934aa61dba38db0d517759",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/mods/UEDFL_SCEvoCore.SC2Mod"
+      },
+      {
+      "version": "1.1",
+      "sha256": "7876cf9879803a99690ed5a0f59aca2eef197b3e2c6025229fd181d75031fbb4",
+      "name": "UEDFL_Assets.SC2Mod",
+      "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/ued-assets/UEDFL_Assets.SC2Mod",
+      "release_asset": true
+      },
+      {
+      "version": "1.1",
+      "sha256": "0ca4410970dace170ef6045a21d1c3ede67aac1b28fecaed78059219f94822dc",
+      "name": "UEDFL_CampaignAssets.SC2Mod",
+      "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/ued-assets/UEDFL_CampaignAssets.SC2Mod",
+      "release_asset": true
+      },
+      {
+      "version": "1.1",
+      "sha256": "f0566bbf0bdf02e17bc042c47d84499d6f56901ce6c66791b0565c53f080e6ce",
+      "name": "UEDFL_CampaignAssets_2.SC2Mod",
+      "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/ued-assets/UEDFL_CampaignAssets_2.SC2Mod",
+      "release_asset": true
+      },
+      {
+      "version": "1.1",
+      "sha256": "f8dec595bfacd3fbc27a5896f547fe880fbf4fe6bc6127e550250cf46cf14236",
+      "name": "UEDFL_SCEvoAssets.SC2Mod",
+      "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/ued-assets/UEDFL_SCEvoAssets.SC2Mod",
+      "release_asset": true
       }
     ],
     "folder": "uedfl"
