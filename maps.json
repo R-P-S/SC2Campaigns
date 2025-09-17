@@ -818,43 +818,50 @@
         "name": "[DeliveranceLauncher].SC2Map",
         "version": "1.1",
         "sha256": "76047a27c9307ab90d81b583f0323a865b297cb8e71d6214983be3a55e9e0882",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Deliverance/%5BDeliveranceLauncher%5D.SC2Map"
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Deliverance/%5BDeliveranceLauncher%5D.SC2Map",
+        "release_asset": true
       },
       {
         "name": "Deliverance1.SC2Map",
         "version": "1.1",
         "sha256": "566cdf239e139095c566cd26a9ddad0162a890c83e521d8a23c51253997406a5",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Deliverance/Deliverance1.SC2Map"
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Deliverance/Deliverance1.SC2Map",
+        "release_asset": true
       },
       {
         "name": "Deliverance2.SC2Map",
         "version": "1.1",
         "sha256": "9b42b27c3f9aebb98ebe36cab039ac4bb9d07673cb929561f184eab6d527ccb9",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Deliverance/Deliverance2.SC2Map"
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Deliverance/Deliverance2.SC2Map",
+        "release_asset": true
       },
       {
         "name": "Deliverance3.SC2Map",
         "version": "1.1",
         "sha256": "62216fd8ba88a27963c754c6e82ef2e5da27515e166d9073a4a2157e39bca0a5",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Deliverance/Deliverance3.SC2Map"
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Deliverance/Deliverance3.SC2Map",
+        "release_asset": true
       },
       {
         "name": "Deliverance4.SC2Map",
         "version": "1.1",
         "sha256": "2d02c78dcb3aa5e9ca25059ab081f9efbb2d0e1d5f00ebfad1fd478ffb759920",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Deliverance/Deliverance4.SC2Map"
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Deliverance/Deliverance4.SC2Map",
+        "release_asset": true
       },
       {
         "name": "Deliverance5.SC2Map",
         "version": "1.1",
         "sha256": "1101367d8266b77f4027481c40a73867e5c82531884616958016b05d102f071f",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Deliverance/Deliverance5.SC2Map"
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Deliverance/Deliverance5.SC2Map",
+        "release_asset": true
       },
       {
         "name": "ModDeliverance.SC2Mod",
         "version": "1.5",
         "sha256": "26f735d7817547a51d7a12b90ccc21a6a2d2cf1e6149e588ff0e19ea1015eb0c",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Deliverance/mods/ModDeliverance.SC2Mod"
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Deliverance/mods/ModDeliverance.SC2Mod",
+        "release_asset": true
       },
       {
         "name": "ModDeliverance_Assets.SC2Mod",
