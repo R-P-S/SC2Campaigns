@@ -1649,13 +1649,13 @@
   },
   {
     "title": "UEDFL",
-    "version": "1.4",
+    "version": "1.5",
     "asset": "UEDFL.png",
     "maps": [
       {
         "name": "UEDFL_Launcher.SC2Map",
-        "version": "1.4",
-        "sha256": "daee079331ff5b41da2f0d46802bd35fbbb16fbfb65f1d5a76cca0525b89be48",
+        "version": "1.5",
+        "sha256": "e89945b9bd2fed2c5982f9626812192b44373c9b1a6fc2fe42ac17401fb16042",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/UEDFL_Launcher.SC2Map"
       },
       {
@@ -1673,8 +1673,8 @@
       },
       {
         "name": "UEDFL_Campaign.SC2Mod",
-        "version": "1.4",
-        "sha256": "587d28af1f906d49fa540944031a6ec4b6d5c2d9128a92dd70a4d8c1b39b2eb8",
+        "version": "1.5",
+        "sha256": "80d0f6054ecdaf7e58e5acd0d316dc2d7c164c8c4c6b4fb3f6fe56ec3cbadc8c",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/mods/UEDFL_Campaign.SC2Mod"
       },
       {
@@ -1795,80 +1795,80 @@
       },
       {
         "name": "UEDFL_EP01M16_ThePastNeverSleeps.SC2Map",
-        "version": "1.2",
-        "sha256": "7ad73368ddbc56be557bd11930ab93544877e5ca6243cc0e5594e850c5db4c71",
+        "version": "1.3",
+        "sha256": "4505bfbbf95c775aec6d26998b33aba2e56f7f47833f91ee4442bddd3a805ef1",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/UEDFL_EP01M16_ThePastNeverSleeps.SC2Map"
       },
       {
         "name": "UEDFL_EP01M17_TapestryOfLies.SC2Map",
-        "version": "1.2",
-        "sha256": "71daad6363a85c8d61af006216d0f2929e018cde24cdb5509bd453ccc12525a1",
+        "version": "1.3",
+        "sha256": "4a9a4b19d2f718d63c44cc22f6563981ab1104489ba814d6934beb3c715ca6ba",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/UEDFL_EP01M17_TapestryOfLies.SC2Map"
       },
       {
         "name": "UEDFL_EP01M18_BeforeMaarThereWasZhakul.SC2Map",
-        "version": "1.2",
-        "sha256": "af45a773e134460109aca1209c411aa54e955f9d8e5aad33d1b087122e12781e",
+        "version": "1.3",
+        "sha256": "124bbbf8caf65d7c96b439b6013f31d3945596a71ebc8104715cd5ec87845b0d",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/UEDFL_EP01M18_BeforeMaarThereWasZhakul.SC2Map"
       },
       {
         "name": "UEDFL_EP01M19_TheFallOfTarsus.SC2Map",
-        "version": "1.2",
-        "sha256": "01435b18e6ce18ae8ddb6311a7638be5ede5b277498b08e06428b4e19e81b63c",
+        "version": "1.3",
+        "sha256": "85e6762930feb718dfcd9b4dbb4c4ad976bdec407cbf3308ca9f6f69daeebae9",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/UEDFL_EP01M19_TheFallOfTarsus.SC2Map"
       },
       {
         "name": "UEDFL_EP01M20_Pandemonium.SC2Map",
-        "version": "1.2",
-        "sha256": "eca92687110c2adc252b72e0f9d776d8fcf61c821ef5e9ce37abf905b7593dce",
+        "version": "1.3",
+        "sha256": "490788cad545d0dc53da3fedfc9716b4c386b31f620ee3e5cbca28e97d508515",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/UEDFL_EP01M20_Pandemonium.SC2Map"
       },
       {
         "name": "UEDFL_EP01M21_Providence.SC2Map",
-        "version": "1.2",
-        "sha256": "ee1a518ff3d5ef8cb7f99e590c89c736b66447f23622b2925a4e2852a627a805",
+        "version": "1.3",
+        "sha256": "b42124f95bd60904469176a1a1ee71b9cce0f31686120932fef9629ca4de6f1d",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/UEDFL_EP01M21_Providence.SC2Map"
       },
       {
         "name": "UEDFL_EP01M22_Deliverance.SC2Map",
-        "version": "1.2",
-        "sha256": "feffb3f37fccd6a993ed5056ec2f78000521e6b3d07e41e812af969edd5052ff",
+        "version": "1.3",
+        "sha256": "97f3e715759604e3dd55fd0e2a399c780bbfaa49e6ea79b939b5dcbc11e92a6c",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/UEDFL_EP01M22_Deliverance.SC2Map"
       },
       {
         "name": "UEDFL_EP01M23_AMinuteToMidnight.SC2Map",
-        "version": "1.2",
-        "sha256": "3aee8212143b4da212a3bcb27dbf0dbd2663f6b83b6be9edf5bd8648397f9c90",
+        "version": "1.3",
+        "sha256": "dd08ddd89e674246130cd082f1ffd22f5c24f03b0ba2c70c774c0deca5a0ed56",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/UEDFL_EP01M23_AMinuteToMidnight.SC2Map"
       },
       {
         "name": "UEDFL_EP01M24_MirrorsToTheSoul.SC2Map",
-        "version": "1.2",
-        "sha256": "41a3507cb7f877841b2d00e91de918a6ceae9c72b868d51ead71c66d534ddfda",
+        "version": "1.3",
+        "sha256": "12bf9c04d0a37ebc0137c60e79d927eab08b4ac98b001e0674b0ecc158e7f6ff",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/UEDFL_EP01M24_MirrorsToTheSoul.SC2Map"
       },
       {
         "name": "UEDFL_EP01M25_TheFlashBeforeDusk.SC2Map",
-        "version": "1.2",
-        "sha256": "293def71018db455fb6a83ba8b4d1914f974b79147249b3769244a47e81a215b",
+        "version": "1.3",
+        "sha256": "aa57c85987082de747680507c20e1f4178bcad85a22402af896374acb6def4da",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/UEDFL_EP01M25_TheFlashBeforeDusk.SC2Map"
       },
       {
         "name": "UEDFL_EP01M26_PlansInsidePlans.SC2Map",
-        "version": "1.2",
-        "sha256": "d575805bd06ce4996d91d0c18f9b72f050ed7420d89e4cb2af8db81d7737512b",
+        "version": "1.3",
+        "sha256": "ca50202b411ec2986b106fc07a8958f16306223d85e53125e0d15e80605ec107",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/UEDFL_EP01M26_PlansInsidePlans.SC2Map"
       },
       {
         "name": "UEDFL_EP01M27_Strings.SC2Map",
-        "version": "1.2",
-        "sha256": "cb7705c200be2910882254699e9e605b64f34e3b91fae703b73bf98d57a372f7",
+        "version": "1.3",
+        "sha256": "f9e7f5376411cedd60b64261d9e82a8c7396e5ebe6d019d4d16e439a11aae408",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/UEDFL_EP01M27_Strings.SC2Map"
       },
       {
         "name": "UEDFL_EP01M28_Ouroboros.SC2Map",
-        "version": "1.2",
-        "sha256": "f1b903ebc84c37d49c0dc2a2341322195b312675e0000c6e1d36559eef89b60f",
+        "version": "1.3",
+        "sha256": "30615f7d6e144f1646f65222899b21eaf2058acf19118f50a82c39b74467dd3b",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/UEDFL_EP01M28_Ouroboros.SC2Map"
       },
       {
