@@ -1666,7 +1666,7 @@
       },
       {
         "version": "1.1",
-        "sha256": "8d40970c9e438ae06066ac26e05f8eaec9a295ca3acb41ee358bff6f0f078a7b",
+        "sha256": "972fecad707e3acc83edf8b2d8abab4ab13e22889b415e8fc232ee76257615f9",
         "name": "UEDFL_Assets.SC2Mod",
         "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/ued-assets/UEDFL_Assets.SC2Mod",
         "release_asset": true
