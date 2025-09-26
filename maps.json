@@ -1649,7 +1649,7 @@
   },
   {
     "title": "UEDFL",
-    "version": "1.10",
+    "version": "1.11",
     "asset": "UEDFL.png",
     "maps": [
       {
@@ -1820,8 +1820,8 @@
       },
       {
         "name": "UEDFL_EP01M19_TheFallOfTarsus.SC2Map",
-        "version": "1.7",
-        "sha256": "7a7de817d47c781f9ae9a24aee6a97ed3fdb8a8a14278027a49e2dfa6c58e81c",
+        "version": "1.8",
+        "sha256": "1b56121a546042282b3d1eee397708fcef522f719dc7c6981d3e6cdb7c0f68b8",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/UEDFL_EP01M19_TheFallOfTarsus.SC2Map"
       },
       {
@@ -1838,8 +1838,8 @@
       },
       {
         "name": "UEDFL_EP01M22_Deliverance.SC2Map",
-        "version": "1.6",
-        "sha256": "909a2a723161b78d530c5e3740bae897ab589e98ac4e7d28e8d97dde56520065",
+        "version": "1.7",
+        "sha256": "fbf9d073a55b9eaca152473e80a0026e7c8f71941cbf7e8836f00254f5fcb499",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/UEDFL_EP01M22_Deliverance.SC2Map"
       },
       {
@@ -1856,14 +1856,14 @@
       },
       {
         "name": "UEDFL_EP01M25_TheFlashBeforeDusk.SC2Map",
-        "version": "1.7",
-        "sha256": "8093e77e2160d59a7344528011a94bcdb3856f7cd6bb251c352006861d2e1243",
+        "version": "1.8",
+        "sha256": "2f8115970ff61777580303acf718f6ee3b0b0c292ddc7c276250e3966259d91e",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/UEDFL_EP01M25_TheFlashBeforeDusk.SC2Map"
       },
       {
         "name": "UEDFL_EP01M26_PlansInsidePlans.SC2Map",
-        "version": "1.7",
-        "sha256": "fe44478eab784b40ca498b42d58ab9d86896e303fc161e24b867a654487676b3",
+        "version": "1.8",
+        "sha256": "4ce30786db03e6b16dee8af297c2dcad5e95737b4672114c4202a931c9cc7744",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/UEDFL_EP01M26_PlansInsidePlans.SC2Map"
       },
       {
