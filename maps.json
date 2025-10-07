@@ -1649,13 +1649,13 @@
   },
   {
     "title": "UEDFL",
-    "version": "1.13",
+    "version": "1.14",
     "asset": "UEDFL.png",
     "maps": [
       {
         "name": "UEDFL_Launcher.SC2Map",
-        "version": "1.12",
-        "sha256": "2789e4d46c50497d101ddcb95201948d904cb6039f765477b9b3c28bac43c922",
+        "version": "1.13",
+        "sha256": "1124dd2ef5115c9f8593457b2358f0b7b9785ddb921f7a927ffab6625aa9928b",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/UEDFL_Launcher.SC2Map"
       },
       {
@@ -1673,8 +1673,8 @@
       },
       {
         "name": "UEDFL_Campaign.SC2Mod",
-        "version": "1.12",
-        "sha256": "4b631801388ae19e712bf2dda2dd314d5519d7503a441f0e55938b4f2bc34543",
+        "version": "1.13",
+        "sha256": "bc1f3a1a0433a455bab19156c6b6cf9fe9c6ef8496990d32a685b29248de54ca",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/mods/UEDFL_Campaign.SC2Mod"
       },
       {
@@ -1718,8 +1718,8 @@
       },
       {
         "name": "UEDFL_EP01M02_1091Echo.SC2Map",
-        "version": "1.5",
-        "sha256": "8bfa8ece48cc1c2399dc9e439a59f0ad7d4baaafe40512ad5382a022460861b1",
+        "version": "1.6",
+        "sha256": "6270f6d316dae90888d3a021ca8f8701d6bf2533014d87a5432b68083a1dcdd4",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/UEDFL_EP01M02_1091Echo.SC2Map"
       },
       {
@@ -1754,8 +1754,8 @@
       },
       {
         "name": "UEDFL_EP01M08_OutrunningtheNight.SC2Map",
-        "version": "1.4",
-        "sha256": "35075f4572aa26e233f9285ef57ea372bdca1fd5ac10b0de43cb5d0958b0e230",
+        "version": "1.5",
+        "sha256": "33fabccf852a2f589317ef168375159d8d0b967ed98c00a6f945714e37166f47",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/UEDFL_EP01M08_OutrunningtheNight.SC2Map"
       },
       {
@@ -1850,8 +1850,8 @@
       },
       {
         "name": "UEDFL_EP01M24_MirrorsToTheSoul.SC2Map",
-        "version": "1.8",
-        "sha256": "19c6728eb59b5dbab58417df1f968324345883a179a4b92d0fa2e3af97d569d7",
+        "version": "1.9",
+        "sha256": "1fa67ee1d937ec5f2488cfd7b77343f5823cc97baecf301ea4b58ce1df51fbc8",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/UEDFL/UEDFL_EP01M24_MirrorsToTheSoul.SC2Map"
       },
       {
