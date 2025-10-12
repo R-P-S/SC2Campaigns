@@ -92,7 +92,7 @@
   },
   {
     "title": "Azeroth Legends",
-    "version": "1.72",
+    "version": "1.73",
     "asset": "Azeroth Legends.png",
     "maps": [
       {
@@ -121,8 +121,8 @@
       },
       {
         "name": "Human04.SC2Map",
-        "version": "1.1",
-        "sha256": "0ee41f38792e9ff9a8efedde7cf2b1a14e5d5c7bb93824572c9aca849bf2fde5",
+        "version": "1.2",
+        "sha256": "fabf30a7ed74734967de4aa5f0491afcf78876d9b0d176cc1ea44887eefe2ce4",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/Human04.SC2Map"
       },
       {
