@@ -92,13 +92,13 @@
   },
   {
     "title": "Azeroth Legends",
-    "version": "1.71",
+    "version": "1.72",
     "asset": "Azeroth Legends.png",
     "maps": [
       {
         "name": "ALLauncher.SC2Map",
-        "version": "1.6",
-        "sha256": "276a9fa324e36a910465417481378f91cf23c27dfa3128153b270fbd40f181ef",
+        "version": "1.7",
+        "sha256": "e1f10c48be61febd2243f20743efded1976177ed0b17d1ea9b7cdbe89509f3d1",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/ALLauncher.SC2Map"
       },
       {
