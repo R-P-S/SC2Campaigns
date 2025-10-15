@@ -1,7 +1,7 @@
 [
   {
     "title": "Azeroth Battlegrounds",
-    "version": "1.51",
+    "version": "1.52",
     "asset": "Azeroth Battlegrounds.png",
     "maps": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "name": "WC3_CustomData.SC2Mod",
-        "version": "1.21",
-        "sha256": "52723cc8cde463d07aacbac4c34fd5c604212212351a466df7d348e98077f803",
+        "version": "1.22",
+        "sha256": "3aa722bf804eec73306a20319182459ed61f5ebbeb43277944b38c58c8c10860",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Battlegrounds/mods/WC3_CustomData.SC2Mod",
         "shared_asset": true
       },
@@ -92,7 +92,7 @@
   },
   {
     "title": "Azeroth Legends",
-    "version": "1.78",
+    "version": "1.79",
     "asset": "Azeroth Legends.png",
     "maps": [
       {
@@ -109,8 +109,8 @@
       },
       {
         "name": "Human02.SC2Map",
-        "version": "1.1",
-        "sha256": "3263f9a1b7427d38bbed89547f858b80791e9520d605eb9cb29c45a29bc04c50",
+        "version": "1.2",
+        "sha256": "76ccd6a8969f8f8a9300f1a362f370a0367143e79b3d9896df69352fa75c9f83",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/Human02.SC2Map"
       },
       {
@@ -218,8 +218,8 @@
       },
       {
         "name": "WC3_CustomData.SC2Mod",
-        "version": "1.22",
-        "sha256": "52723cc8cde463d07aacbac4c34fd5c604212212351a466df7d348e98077f803",
+        "version": "1.23",
+        "sha256": "3aa722bf804eec73306a20319182459ed61f5ebbeb43277944b38c58c8c10860",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/mods/WC3_CustomData.SC2Mod",
         "shared_asset": true
       },
@@ -1950,7 +1950,7 @@
   },
   {
     "title": "WarChasers",
-    "version": "1.49",
+    "version": "1.50",
     "asset": "WarChasers.png",
     "maps": [
       {
@@ -1968,8 +1968,8 @@
       },
       {
         "name": "WC3_CustomData.SC2Mod",
-        "version": "1.21",
-        "sha256": "52723cc8cde463d07aacbac4c34fd5c604212212351a466df7d348e98077f803",
+        "version": "1.22",
+        "sha256": "3aa722bf804eec73306a20319182459ed61f5ebbeb43277944b38c58c8c10860",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/WarChasers/mods/WC3_CustomData.SC2Mod",
         "shared_asset": true
       },
