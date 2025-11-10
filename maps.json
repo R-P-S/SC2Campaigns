@@ -348,14 +348,14 @@
         "name": "WC3MOD_ASSETS_3.SC2Mod",
         "version": "1.2",
         "sha256": "11c876fc38a07e43d6c22d763356f7007011a37b26535c0606da52d67daf0bd3",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reswapped/mods/WC3MOD_ASSETS_3.SC2Mod",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Mysteries/mods/WC3MOD_ASSETS_3.SC2Mod",
         "shared_asset": true
       },
       {
         "name": "WC3MOD_ASSETS_4.SC2Mod",
         "version": "1.1",
         "sha256": "09554a3a87bcb4d264324df54ba5e8f60e19964a663953dc329031ab6cc1718e",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reswapped/mods/WC3MOD_ASSETS_4.SC2Mod",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Mysteries/mods/WC3MOD_ASSETS_4.SC2Mod",
         "shared_asset": true
       },
       {
@@ -386,7 +386,7 @@
         "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_MOVIES_4.SC2Mod",
         "release_asset": true
       }
-	  ],
+    ],
     "folder": "azerothmysteries"
   },
   {
