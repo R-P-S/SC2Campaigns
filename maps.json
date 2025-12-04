@@ -316,13 +316,15 @@
         "name": "WC3_CustomAssets.SC2Mod",
         "version": "1.2",
         "sha256": "c0bd89ddeebd9f5fbb788cdb41360bb6a43cc458ef5ba62d9885ac690528caeb",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Mysteries/mods/WC3_CustomAssets.SC2Mod"
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Mysteries/mods/WC3_CustomAssets.SC2Mod",
+        "shared_asset": true
       },
       {
         "name": "WC3_CustomData.SC2Mod",
         "version": "1.2",
         "sha256": "bd1f658c0961745d820e96e3a2cd1cce9719cb1c6ea3d1a3dad59a5167808411",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Mysteries/mods/WC3_CustomData.SC2Mod"
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Mysteries/mods/WC3_CustomData.SC2Mod",
+        "shared_asset": true
       },
       {
         "name": "WC3MOD.SC2Mod",
