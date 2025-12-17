@@ -409,7 +409,7 @@
   },
   {
     "title": "Azeroth Mysteries",
-    "version": "1.16",
+    "version": "1.17",
     "asset": "Azeroth Mysteries.png",
     "maps": [
       {
@@ -420,8 +420,8 @@
       },
       {
         "name": "Mysteries_Archipelago.SC2Map",
-        "version": "1.4",
-        "sha256": "49ee36931901f34f8905a3eb5734a9a84b372b1a8f05a681f9e93f1d723d4f34",
+        "version": "1.5",
+        "sha256": "5c607200cc11c45cbe0ae2a59191f1ea7b871aedf6755c6c1e2221fa3078cf90",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Mysteries/Mysteries_Archipelago.SC2Map"
       },
       {
