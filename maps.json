@@ -1,13 +1,13 @@
 [
   {
     "title": "Azeroth Battlegrounds",
-    "version": "1.96",
+    "version": "1.97",
     "asset": "Azeroth Battlegrounds.png",
     "maps": [
       {
         "name": "Battlegrounds.SC2Map",
-        "version": "1.9",
-        "sha256": "e6f26bd6aaf3f4d23f7d3fc311e787906dfbdee6725e3c3be51d7b9de54d029e",
+        "version": "1.10",
+        "sha256": "66836c24ce2203de3fe87ad7fee437663ca186d4b976ba4456575da9420244f3",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Battlegrounds/Battlegrounds.SC2Map"
       },
       {
