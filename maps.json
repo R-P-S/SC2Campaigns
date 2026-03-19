@@ -92,7 +92,7 @@
   },
   {
     "title": "Azeroth Gods",
-    "version": "1.32",
+    "version": "1.33",
     "asset": "Azeroth Gods.png",
     "maps": [
       {
@@ -109,8 +109,8 @@
       },
       {
         "name": "Gods_City.SC2Map",
-        "version": "1.2",
-        "sha256": "f4b12c5ed4fb0840647582a24f71f02c40a01f468759f84f973a67fa7578f188",
+        "version": "1.3",
+        "sha256": "61e34f1600528c4f7599d395986a4a3460b7c37a37264c13ce3425ab8eebed2e",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Gods/Gods_City.SC2Map"
       },
       {
