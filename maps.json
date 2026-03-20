@@ -199,7 +199,7 @@
   },
   {
     "title": "Azeroth Legends",
-    "version": "2.40",
+    "version": "2.41",
     "asset": "Azeroth Legends.png",
     "maps": [
       {
@@ -240,8 +240,8 @@
       },
       {
         "name": "Human06.SC2Map",
-        "version": "1.1",
-        "sha256": "aacc33aafa3b886a2d05c495c9197388420d97c803d3bcb40791674c62fc5c81",
+        "version": "1.2",
+        "sha256": "50eecec9a5dc1b877574d275d1834e62524759d86c8cf6a95beb382418584a00",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/Human06.SC2Map"
       },
       {
@@ -270,8 +270,8 @@
       },
       {
         "name": "Undead02.SC2Map",
-        "version": "1.5",
-        "sha256": "1d32b7ad2ee9c735799acda582132e1f77512291c25fe3db556af438dd7cc5ff",
+        "version": "1.6",
+        "sha256": "a03854cee72f1eb32835dc69b9ce62406061602ba884c7671eac5a12a3ea7362",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/Undead02.SC2Map"
       },
       {
