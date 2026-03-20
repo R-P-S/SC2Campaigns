@@ -11,6 +11,13 @@
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Battlegrounds/Battlegrounds.SC2Map"
       },
       {
+        "version": "1.0",
+        "sha256": "sha256:sha256:687a785accbdb29003b01e238ccc03912f0bceb9351fff40488e58b505372169",
+        "name": "WC3_CustomAssets.SC2Mod",
+        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_1.SC2Mod",
+        "release_asset": true
+      },
+      {
         "name": "WC3_CustomData.SC2Mod",
         "version": "1.53",
         "sha256": "637a34a08b18fce8eee023700d5cde33a9c58b0b15457508f3c1888607872b1e",
@@ -23,13 +30,6 @@
         "sha256": "d0008e96bd6fa410b601cb09124be835e2e3093e18fc5ec7d681503fc50189d8",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Battlegrounds/mods/WC3MOD.SC2Mod",
         "shared_asset": true
-      },
-      {
-        "version": "1.0",
-        "sha256": "sha256:sha256:687a785accbdb29003b01e238ccc03912f0bceb9351fff40488e58b505372169",
-        "name": "WC3_CustomAssets.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_1.SC2Mod",
-        "release_asset": true
       },
       {
         "version": "1.1",
@@ -132,6 +132,13 @@
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Gods/Gods_Winter.SC2Map"
       },
       {
+        "version": "1.0",
+        "sha256": "sha256:sha256:687a785accbdb29003b01e238ccc03912f0bceb9351fff40488e58b505372169",
+        "name": "WC3_CustomAssets.SC2Mod",
+        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_1.SC2Mod",
+        "release_asset": true
+      },
+      {
         "name": "WC3_CustomData.SC2Mod",
         "version": "1.23",
         "sha256": "637a34a08b18fce8eee023700d5cde33a9c58b0b15457508f3c1888607872b1e",
@@ -144,13 +151,6 @@
         "sha256": "d0008e96bd6fa410b601cb09124be835e2e3093e18fc5ec7d681503fc50189d8",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Gods/mods/WC3MOD.SC2Mod",
         "shared_asset": true
-      },
-      {
-        "version": "1.0",
-        "sha256": "sha256:sha256:687a785accbdb29003b01e238ccc03912f0bceb9351fff40488e58b505372169",
-        "name": "WC3_CustomAssets.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_1.SC2Mod",
-        "release_asset": true
       },
       {
         "version": "1.1",
@@ -331,6 +331,13 @@
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/Undead09.SC2Map"
       },
       {
+        "version": "1.0",
+        "sha256": "sha256:sha256:687a785accbdb29003b01e238ccc03912f0bceb9351fff40488e58b505372169",
+        "name": "WC3_CustomAssets.SC2Mod",
+        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_1.SC2Mod",
+        "release_asset": true
+      },
+      {
         "name": "WC3_CustomData.SC2Mod",
         "version": "1.54",
         "sha256": "637a34a08b18fce8eee023700d5cde33a9c58b0b15457508f3c1888607872b1e",
@@ -343,13 +350,6 @@
         "sha256": "d0008e96bd6fa410b601cb09124be835e2e3093e18fc5ec7d681503fc50189d8",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/mods/WC3MOD.SC2Mod",
         "shared_asset": true
-      },
-      {
-        "version": "1.0",
-        "sha256": "sha256:sha256:687a785accbdb29003b01e238ccc03912f0bceb9351fff40488e58b505372169",
-        "name": "WC3_CustomAssets.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_1.SC2Mod",
-        "release_asset": true
       },
       {
         "version": "1.1",
@@ -428,6 +428,13 @@
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Mysteries/Mysteries_Archipelago.SC2Map"
       },
       {
+        "version": "1.0",
+        "sha256": "sha256:sha256:687a785accbdb29003b01e238ccc03912f0bceb9351fff40488e58b505372169",
+        "name": "WC3_CustomAssets.SC2Mod",
+        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_1.SC2Mod",
+        "release_asset": true
+      },
+      {
         "name": "WC3_CustomData.SC2Mod",
         "version": "1.25",
         "sha256": "637a34a08b18fce8eee023700d5cde33a9c58b0b15457508f3c1888607872b1e",
@@ -440,13 +447,6 @@
         "sha256": "d0008e96bd6fa410b601cb09124be835e2e3093e18fc5ec7d681503fc50189d8",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Mysteries/mods/WC3MOD.SC2Mod",
         "shared_asset": true
-      },
-      {
-        "version": "1.0",
-        "sha256": "sha256:sha256:687a785accbdb29003b01e238ccc03912f0bceb9351fff40488e58b505372169",
-        "name": "WC3_CustomAssets.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_1.SC2Mod",
-        "release_asset": true
       },
       {
         "version": "1.1",
@@ -2256,6 +2256,13 @@
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/WarChasers/WarChasers.SC2Map"
       },
       {
+        "version": "1.0",
+        "sha256": "sha256:sha256:687a785accbdb29003b01e238ccc03912f0bceb9351fff40488e58b505372169",
+        "name": "WC3_CustomAssets.SC2Mod",
+        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_1.SC2Mod",
+        "release_asset": true
+      },
+      {
         "name": "WC3_CustomData.SC2Mod",
         "version": "1.53",
         "sha256": "637a34a08b18fce8eee023700d5cde33a9c58b0b15457508f3c1888607872b1e",
@@ -2268,13 +2275,6 @@
         "sha256": "d0008e96bd6fa410b601cb09124be835e2e3093e18fc5ec7d681503fc50189d8",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/WarChasers/mods/WC3MOD.SC2Mod",
         "shared_asset": true
-      },
-      {
-        "version": "1.0",
-        "sha256": "sha256:sha256:687a785accbdb29003b01e238ccc03912f0bceb9351fff40488e58b505372169",
-        "name": "WC3_CustomAssets.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_1.SC2Mod",
-        "release_asset": true
       },
       {
         "version": "1.1",
