@@ -1050,7 +1050,7 @@
   },
   {
     "title": "Azeroth Reswapped",
-    "version": "1.79",
+    "version": "1.80",
     "asset": "Azeroth Reswapped.png",
     "maps": [
       {
@@ -1085,8 +1085,8 @@
       },
       {
         "name": "prologue05_RS.SC2Map",
-        "version": "1.5",
-        "sha256": "509f430dc70d575de83518aa8237d9be1f5013d4fa05609afb67f5811073beba",
+        "version": "1.6",
+        "sha256": "9c7869b21af46739ef46ef2ee3b49b1265de38709f24902734c1601de2ed8500",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reswapped/prologue05_RS.SC2Map"
       },
       {
