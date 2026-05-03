@@ -505,7 +505,7 @@
   },
   {
     "title": "Azeroth Reborn",
-    "version": "2.90",
+    "version": "2.91",
     "asset": "Azeroth Reborn.png",
     "maps": [
       {
@@ -744,14 +744,14 @@
       },
       {
         "name": "nightelfx07.SC2Map",
-        "version": "1.7",
-        "sha256": "0c4a8c93437b6fdc5da537f45fba236ff2fa4d060013463cd5a21162af3c697d",
+        "version": "1.8",
+        "sha256": "d44025a78e9d236ea0d2406192702852a967e778e98953edd4c01b1c2b20b12d",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/nightelfx07.SC2Map"
       },
       {
         "name": "nightelfx08.SC2Map",
-        "version": "1.6",
-        "sha256": "788413cc9617ee3c93de3c63d5f53bf6d90c87cbbd91e9b8c6faf3acc7acdea6",
+        "version": "1.7",
+        "sha256": "a7b3e9fb88711c0007ed87be3935ec8bfc3c39eff3e32412b8f06cf0374ca590",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/nightelfx08.SC2Map"
       },
       {
