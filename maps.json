@@ -505,7 +505,7 @@
   },
   {
     "title": "Azeroth Reborn",
-    "version": "2.91",
+    "version": "2.92",
     "asset": "Azeroth Reborn.png",
     "maps": [
       {
@@ -516,8 +516,8 @@
       },
       {
         "name": "human01.SC2Map",
-        "version": "1.8",
-        "sha256": "8c54aa08853f05807ec5074a6bfca48084452fd39d33d8491317e3e9df770b4f",
+        "version": "1.9",
+        "sha256": "1fee31d1e73b3001a72f88648570ae838dd0dd4e03cf2fcfd413668bc1f1c7dd",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/human01.SC2Map"
       },
       {
@@ -540,8 +540,8 @@
       },
       {
         "name": "human04.SC2Map",
-        "version": "1.7",
-        "sha256": "cb05cdfac699da1be340acae4803b7d811b3a5036e58d13e72478f141dec8924",
+        "version": "1.8",
+        "sha256": "560c85b9f56343dd7fa389215c64ce1eabe3d1cb9356df95da7c87cae3be1bfb",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/human04.SC2Map"
       },
       {
@@ -582,8 +582,8 @@
       },
       {
         "name": "human09.SC2Map",
-        "version": "1.6",
-        "sha256": "8082f68e4f2ed1278cd02db3aa02019fff2b7a1e941f24582d6869a4c2e9a5b0",
+        "version": "1.7",
+        "sha256": "6ff488f64b1ad2e8bed4bdecdb85e096d1f896261134368dbe4ac9a296ee1126",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/human09.SC2Map"
       },
       {
