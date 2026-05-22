@@ -505,7 +505,7 @@
   },
   {
     "title": "Azeroth Reborn",
-    "version": "3.0",
+    "version": "3.1",
     "asset": "Azeroth Reborn.png",
     "maps": [
       {
@@ -636,8 +636,8 @@
       },
       {
         "name": "humanx06.SC2Map",
-        "version": "1.13",
-        "sha256": "21553d71fb8383104d69a2c3f8405d8d0fa425b38749bd77bae986eb8eca1623",
+        "version": "1.14",
+        "sha256": "1a5c0025526b6cd930ef8046365b17159821885bedad978237108a80f95d0302",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/humanx06.SC2Map"
       },
       {
