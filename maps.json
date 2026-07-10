@@ -505,7 +505,7 @@
   },
   {
     "title": "Azeroth Reborn",
-    "version": "3.20",
+    "version": "3.21",
     "asset": "Azeroth Reborn.png",
     "maps": [
       {
@@ -660,8 +660,8 @@
       },
       {
         "name": "nightelf03.SC2Map",
-        "version": "1.7",
-        "sha256": "0aa490602020313d27ec25b37a24bf103589258953d9ea543cde85ba453c239c",
+        "version": "1.8",
+        "sha256": "484b22eae0d31a5c3377802e697d165671f3c8250852fe84d09256f79c1334bd",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/nightelf03.SC2Map"
       },
       {
