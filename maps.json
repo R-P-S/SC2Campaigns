@@ -211,7 +211,7 @@
   },
   {
     "title": "Azeroth Legends",
-    "version": "2.71",
+    "version": "2.72",
     "asset": "Azeroth Legends.png",
     "maps": [
       {
@@ -318,8 +318,8 @@
       },
       {
         "name": "Undead08.SC2Map",
-        "version": "1.7",
-        "sha256": "4f4e28dc3c5371d752d9149f30c8258d33dfc23ddcdfcbfaa00c345026f4197e",
+        "version": "1.8",
+        "sha256": "ebec2e2ed4d238617fd09442fc13a9e351f2108e38019492ca648f5feab1c3cf",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/Undead08.SC2Map"
       },
       {
@@ -505,7 +505,7 @@
   },
   {
     "title": "Azeroth Reborn",
-    "version": "3.21",
+    "version": "3.22",
     "asset": "Azeroth Reborn.png",
     "maps": [
       {
@@ -528,20 +528,20 @@
       },
       {
         "name": "human02interlude.SC2Map",
-        "version": "1.7",
-        "sha256": "cb101d357477aa2b0cb667cd7d0e51514f51da82b5fb748e67bf9e142b7790b9",
+        "version": "1.8",
+        "sha256": "e742c31a1e2a5a68e71b8f98770c53628e0e31323828d8b2e4627f6a1c454193",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/human02interlude.SC2Map"
       },
       {
         "name": "human03.SC2Map",
-        "version": "1.10",
-        "sha256": "2e89b6a9d382101dac9f0297eb98b868495458af8f9d908b4368eb5830c931b5",
+        "version": "1.11",
+        "sha256": "1f29ac7a626df39e76101269bd1fb60d0d35e6a2fe33ebdce8a417ce644c94b7",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/human03.SC2Map"
       },
       {
         "name": "human04.SC2Map",
-        "version": "1.9",
-        "sha256": "70a9a4c34dc0652316f2ef077860181326d4b1d45264cedb397358b61454c628",
+        "version": "1.10",
+        "sha256": "c85add9bd862353a848aeeb30875c9bea1ab97711961a8ec23f1997334bc5518",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/human04.SC2Map"
       },
       {
@@ -552,8 +552,8 @@
       },
       {
         "name": "human05interlude.SC2Map",
-        "version": "1.6",
-        "sha256": "1a3f75001693517dc69e2c469b700f6fdb61767577a518206707fd9c70b1284e",
+        "version": "1.7",
+        "sha256": "3244ec83245623f853d1ecbe01e0066dfdba37cc2360548c29423b4335325787",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/human05interlude.SC2Map"
       },
       {
@@ -564,8 +564,8 @@
       },
       {
         "name": "human06interlude.SC2Map",
-        "version": "1.7",
-        "sha256": "5ad75747e7add25315516bc08754d347cd2e9ab9de153fc4fdb56b5186cc490f",
+        "version": "1.8",
+        "sha256": "274656ee4c68bc7e94695949e012e036b3eaa482c0377023a9adb08cb14bac82",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/human06interlude.SC2Map"
       },
       {
@@ -582,14 +582,14 @@
       },
       {
         "name": "human09.SC2Map",
-        "version": "1.8",
-        "sha256": "f315b38a1ae53e192a98b9c04ce311f7ee5f94a38b3f897c6296c4a03e682bb8",
+        "version": "1.9",
+        "sha256": "a4993d8808443ae50ba97e8442bc06ee79c315f5080e32336f796425dd3d84ef",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/human09.SC2Map"
       },
       {
         "name": "humanx01.SC2Map",
-        "version": "1.12",
-        "sha256": "296d7b49e596b442d3d7801c8f8147923c128e4e5946373e10bea2769da55c9e",
+        "version": "1.13",
+        "sha256": "7e0d92b1d35328c5dbfdb3d6e729073cba4d7adac61e6453d42e9b3be3138658",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/humanx01.SC2Map"
       },
       {
@@ -600,32 +600,32 @@
       },
       {
         "name": "humanx03.SC2Map",
-        "version": "1.14",
-        "sha256": "785fc746be0f482656d84cbfcb37942c4f18e52321a093369d34577df3a020fb",
+        "version": "1.15",
+        "sha256": "8561616d66557236fdcac10a761ac9ad280859bae9f5db35a98abefe0987ae9f",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/humanx03.SC2Map"
       },
       {
         "name": "humanx03interlude.SC2Map",
-        "version": "1.6",
-        "sha256": "d4c3607f979de39af07e6a264738fcd46c9917b2078bece7b3f005dfee92e008",
+        "version": "1.7",
+        "sha256": "a2299d2c6e83ea5b286fd3c7827a46ed9b1f80408593bb4fb167e410a7c8ecd4",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/humanx03interlude.SC2Map"
       },
       {
         "name": "humanx03secret.SC2Map",
-        "version": "1.10",
-        "sha256": "215312519cf890b69f6ee0e2cb9f3bb746654cefe6f3cbaf67226eea0862a4ef",
+        "version": "1.11",
+        "sha256": "64af926dcab0d05a6c2322203446a829974682316c4e41955110997d3c49821d",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/humanx03secret.SC2Map"
       },
       {
         "name": "humanx04.SC2Map",
-        "version": "1.7",
-        "sha256": "57090a0866830f08e982819636cbd4a3a8534328f52df730d2698e70fa54d64b",
+        "version": "1.8",
+        "sha256": "dbb6eeab3d3f38732232c403f7cf5ef685e361bf79be072e0b312ddac0944e58",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/humanx04.SC2Map"
       },
       {
         "name": "humanx04interlude.SC2Map",
-        "version": "1.6",
-        "sha256": "5eeb08b0ff4b1fc1967bbcea90aaf393fe14df8c5d5f4f1a248433ade1683993",
+        "version": "1.7",
+        "sha256": "d3e05dcd9d45cdde9346efc328bc1f3d11f480f0c306bb2a92b0dcfc7c38667c",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/humanx04interlude.SC2Map"
       },
       {
@@ -636,8 +636,8 @@
       },
       {
         "name": "humanx06.SC2Map",
-        "version": "1.15",
-        "sha256": "be8dc94b7b34248814a055ba45466a3f1ea358e60ebd62af0835283b13a9a3b5",
+        "version": "1.16",
+        "sha256": "9b8c2d0eaed28fd876b9f04c679fd22c99c93a5a631fd05c064f0ac6c87be35a",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/humanx06.SC2Map"
       },
       {
@@ -654,8 +654,8 @@
       },
       {
         "name": "nightelf02.SC2Map",
-        "version": "1.7",
-        "sha256": "7f2fb9e69fd24ba2e8de08dfe8701488de85111347c400fcba2aa5d94c31c8ca",
+        "version": "1.8",
+        "sha256": "1d746df59a30e962ea474f63e5cace80deb72615e9b422545d6d803d60bad975",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/nightelf02.SC2Map"
       },
       {
@@ -666,38 +666,38 @@
       },
       {
         "name": "nightelf04.SC2Map",
-        "version": "1.8",
-        "sha256": "6c3a8dbe8838d35b6b81cb5967fc8f5f5bb219f3a04bc7ae89a9a8ba1f88ee91",
+        "version": "1.9",
+        "sha256": "2dac07ddca3d8e57211170a750a2164259408beb4c58b9cd1adf5a821801d88d",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/nightelf04.SC2Map"
       },
       {
         "name": "nightelf05.SC2Map",
-        "version": "1.8",
-        "sha256": "6f706d7fdbe72d4d4c77e7c75d576b1d8487a0e9774cb4085cb952ebbd176af9",
+        "version": "1.9",
+        "sha256": "3c5621996543ac84e6089e0e767e8e55ed326bdc430e8cf52e3ca337efd2a56f",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/nightelf05.SC2Map"
       },
       {
         "name": "nightelf06.SC2Map",
-        "version": "1.7",
-        "sha256": "8e447a158bbb4032fa629fbdfdb2472fa7b0d813e80b6e5a545d34421cd3559d",
+        "version": "1.8",
+        "sha256": "61dd5dc9fd9612a7ccc4d4c2a385c7826d43003c8d69f40444f4ec5745781ba4",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/nightelf06.SC2Map"
       },
       {
         "name": "nightelf06interlude.SC2Map",
-        "version": "1.7",
-        "sha256": "680b4ead68cb5634359d033deb4092de71803661c4ce1465322ea952f15e972f",
+        "version": "1.8",
+        "sha256": "56e6fb5d7d592d79aad9e7e4c62a63efeb8de79bc6036514d93b93104845ed67",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/nightelf06interlude.SC2Map"
       },
       {
         "name": "nightelf07.SC2Map",
-        "version": "1.9",
-        "sha256": "0e29862167b83f952a457bc83fa0f88a6dd554c1a6b2bc8bbe75c0406cd6e12b",
+        "version": "1.10",
+        "sha256": "42ea803d36654d6b402f38a5dd14ec571bd780b9b6375be569803e59fb36bbc8",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/nightelf07.SC2Map"
       },
       {
         "name": "nightelfx01.SC2Map",
-        "version": "1.8",
-        "sha256": "9f16d1c7d45a51f49a6f9f7c84c4fc529ccae9d98941118d1592e5c46d92ba8a",
+        "version": "1.9",
+        "sha256": "49bef3dd86cea4be203d91788e8b09b80848dc774bebb5680e66fd44355308d6",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/nightelfx01.SC2Map"
       },
       {
@@ -708,8 +708,8 @@
       },
       {
         "name": "nightelfx03.SC2Map",
-        "version": "1.12",
-        "sha256": "91d348ddc5499c9b307f6bac1690e1f704ec910f3d89a6d45dfc7e84df581536",
+        "version": "1.13",
+        "sha256": "be4fbaf40469e7f1892a1d983391ca60932ecb9b623dbeaaf1a99fb3c229e9e1",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/nightelfx03.SC2Map"
       },
       {
@@ -720,8 +720,8 @@
       },
       {
         "name": "nightelfx04interlude.SC2Map",
-        "version": "1.6",
-        "sha256": "882a1e8a3c257015bd230256c8112c24ad5f141e90d068ab981ccdd007a08196",
+        "version": "1.7",
+        "sha256": "9e72a66a65296e9a3285b0dca615786d224cf183fa0ed87e96425de119ad8978",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/nightelfx04interlude.SC2Map"
       },
       {
@@ -738,8 +738,8 @@
       },
       {
         "name": "nightelfx06interlude.SC2Map",
-        "version": "1.7",
-        "sha256": "11b4b8397069d7c402d65076d2668668d85406ec3179527e604e88c4497cb76b",
+        "version": "1.8",
+        "sha256": "4bd962c8753428bea50aab2c04d94e064ec9197d017df21e5f99d8cee879e70b",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/nightelfx06interlude.SC2Map"
       },
       {
@@ -768,8 +768,8 @@
       },
       {
         "name": "orc02interlude.SC2Map",
-        "version": "1.7",
-        "sha256": "d479777c35d4b00fc1119fe7797368645ba4e2d5e53dcc4cf4b7c165a5a1fedd",
+        "version": "1.8",
+        "sha256": "0dc46651ef7dd428821adf42e554e2c68bfa00986062e53d278afbc4b487146f",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/orc02interlude.SC2Map"
       },
       {
@@ -780,20 +780,20 @@
       },
       {
         "name": "orc04.SC2Map",
-        "version": "1.6",
-        "sha256": "161b598fe041d4eea4533449fffeba22cccf0e9cc329976a8162afe12fdc36e7",
+        "version": "1.7",
+        "sha256": "e0fca04abacabd0a2a3d540b2bd66847cdaac675b050c768b5d00853dbfe6462",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/orc04.SC2Map"
       },
       {
         "name": "orc04interlude.SC2Map",
-        "version": "1.7",
-        "sha256": "f757bd24628271180daf63989e26490cc0f536763f5b545ab055b2971e5522a4",
+        "version": "1.8",
+        "sha256": "3817c8c74b0d1cc3e9cccaf0e7e047992b4429c32d7734b3321feb5ffb6d476b",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/orc04interlude.SC2Map"
       },
       {
         "name": "orc05.SC2Map",
-        "version": "1.7",
-        "sha256": "e35993a368357d939650949e264f05897d662f6fdd9c3b851ad9e14732ef61fe",
+        "version": "1.8",
+        "sha256": "8a6d8ea90ac800ba561647044cbe8fd3fc0efd41202fcd5791d90523253fe8e1",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/orc05.SC2Map"
       },
       {
@@ -804,14 +804,14 @@
       },
       {
         "name": "orc07.SC2Map",
-        "version": "1.6",
-        "sha256": "f97c0c8b1846ace62852af7304923a5d14edde44e264c03dc6882d688c590a82",
+        "version": "1.7",
+        "sha256": "d5379f9bbc2f9837b5503c3732c606edf8d4605b3900663a488a388cf64ce0fc",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/orc07.SC2Map"
       },
       {
         "name": "orc08.SC2Map",
-        "version": "1.6",
-        "sha256": "5908b36102a490aebed2ab0b21a6436d73a178f3aa9e5868f67b7449c1fdf506",
+        "version": "1.7",
+        "sha256": "49bbc75de149ca48a14e5416d517623d5162c4472f5c2f6b01dc7c7564eca23f",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/orc08.SC2Map"
       },
       {
@@ -840,14 +840,14 @@
       },
       {
         "name": "prologue05.SC2Map",
-        "version": "1.14",
-        "sha256": "2e37c2f962351a71beedcf9296fc8cdddf323ac89a9cba2a10f237d5a54d2587",
+        "version": "1.15",
+        "sha256": "25e938076712d0c539af5d31bac67efbc1ce213c1a5316f570f531838219c2a4",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/prologue05.SC2Map"
       },
       {
         "name": "undead01.SC2Map",
-        "version": "1.11",
-        "sha256": "1c2ad7a1e304e6effe861d073beee9ce52508bf8c18d2fcdeddc60969f479a12",
+        "version": "1.12",
+        "sha256": "74a17780836e0a98b2b3176aa62feae7dced532ba8ae537202b3ed513a8421dd",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/undead01.SC2Map"
       },
       {
@@ -858,50 +858,50 @@
       },
       {
         "name": "undead02interlude.SC2Map",
-        "version": "1.8",
-        "sha256": "ee6e91c547e170c619f7dc7020798b1f78de7c18de7565e0e508139b17ccc3e0",
+        "version": "1.9",
+        "sha256": "279466bca79ae39017e0db2d383ba9cb5d1aab769dcfe0f02e9f30ef6993e5e9",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/undead02interlude.SC2Map"
       },
       {
         "name": "undead03.SC2Map",
-        "version": "1.9",
-        "sha256": "fe5c7e94f39f6e4f15be7ecbde984f1e76c67671cea5783ad0e5733c74372c1d",
+        "version": "1.10",
+        "sha256": "c86a23ef169a50f689140bc6d1b8ab613b2f8cfa7f24f840aaa44966e50ee608",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/undead03.SC2Map"
       },
       {
         "name": "undead04.SC2Map",
-        "version": "1.9",
-        "sha256": "a1654acb0645c1bfbaa467b6cf2dca5564777a03b128c2937be59c917bb4dd5e",
+        "version": "1.10",
+        "sha256": "3ae9a522788d92d6f9e085f0efa2da15dd14d03824205a9244ba8834f9aa72f6",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/undead04.SC2Map"
       },
       {
         "name": "undead05.SC2Map",
-        "version": "1.10",
-        "sha256": "7117d1125c772bf07c3f502ba9498f8c9848a02e79584e3bcf63452909856352",
+        "version": "1.11",
+        "sha256": "ee3182b19da34bf8b50c7b1e43fa3e946c9c3795a6bbf2640227acae417edd8f",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/undead05.SC2Map"
       },
       {
         "name": "undead05interlude.SC2Map",
-        "version": "1.9",
-        "sha256": "de1f83d326f0916abdd5da27f0a8d344d063e7970212d67c8932cc779e94f75d",
+        "version": "1.10",
+        "sha256": "7946f8188a12a8144961faaa03b1e43d81f8b194d53c77291a35c5349dba8250",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/undead05interlude.SC2Map"
       },
       {
         "name": "undead06.SC2Map",
-        "version": "1.9",
-        "sha256": "c2ab5854c104db56d4674d1468a16ee33bb2682b37caf091d9648fb83a429e97",
+        "version": "1.10",
+        "sha256": "2ba5bbd61814abc8e1869ddede74576b6be3775b958b137208c98a5673d6c71e",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/undead06.SC2Map"
       },
       {
         "name": "undead07.SC2Map",
-        "version": "1.7",
-        "sha256": "351fb23a5eb8d9992ccb3004ab51a082067e81c3fcae5e709ab777c44174b657",
+        "version": "1.8",
+        "sha256": "235406dd8ff63e078bb3c152128f961d82076f8be6eb47a5a2d6913220b09c02",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/undead07.SC2Map"
       },
       {
         "name": "undead08.SC2Map",
-        "version": "1.10",
-        "sha256": "43f3850c228e8a6038eebc9fb2383043d63d176edba3f52b7c2c34220e91a7d1",
+        "version": "1.11",
+        "sha256": "3acd47e1a7bbf6f6b656858234bfd9454ae20958e06bf64a6fa3ecbfd9c705e2",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/undead08.SC2Map"
       },
       {
@@ -912,8 +912,8 @@
       },
       {
         "name": "undeadx01interlude.SC2Map",
-        "version": "1.4",
-        "sha256": "fcb5f884aaa229e7e8c7816ef11a959f67819cf67aa8e0ba3ac6b51a65eeebc5",
+        "version": "1.5",
+        "sha256": "3ccad069f8739cf4a09d2fb342cb4ab29fa9c7ba453f3b9ae43eab2ffc1085c5",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/undeadx01interlude.SC2Map"
       },
       {
@@ -924,26 +924,26 @@
       },
       {
         "name": "undeadx02interlude.SC2Map",
-        "version": "1.4",
-        "sha256": "6bfd76db57c14e4a167755ccb7a95c1c2b322242694f9c017f59c324aa8f48a9",
+        "version": "1.5",
+        "sha256": "76486e8aa31d7b9a7fa9e0294008c981fb7348979a781cacc1739b0cc116fdb3",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/undeadx02interlude.SC2Map"
       },
       {
         "name": "undeadx03.SC2Map",
-        "version": "1.4",
-        "sha256": "4abac313775fac450eb3983aaea1868a62299e4d2d6bbd102e3d72aaf9307834",
+        "version": "1.5",
+        "sha256": "6c9660ad7589b93202a3879fac84d61ae1264ff6f181b5e3c4eb8c35940feb93",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/undeadx03.SC2Map"
       },
       {
         "name": "undeadx04.SC2Map",
-        "version": "1.7",
-        "sha256": "5910ebb87b22871e40d5fee7901dcd0a7184b3f802650d319716b1fa67ee1050",
+        "version": "1.8",
+        "sha256": "cad61e90a22e602ecefde98ff3dfa62203cc30f25a87f81ff52abef3577d67e8",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/undeadx04.SC2Map"
       },
       {
         "name": "undeadx05.SC2Map",
-        "version": "1.4",
-        "sha256": "5800258c5e3bf213e5130d9fe1e245c20f028655202b70b700a7a43715d14518",
+        "version": "1.5",
+        "sha256": "a39905292b4f846d24a6ed568b4bdd0a14c5db25ce88f7fcec0b489e29c72b1c",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/undeadx05.SC2Map"
       },
       {
@@ -972,8 +972,8 @@
       },
       {
         "name": "undeadx07interlude.SC2Map",
-        "version": "1.4",
-        "sha256": "40dce18f78955b7ae74e70edfebd11a0e2666061cdafa978de627038489496ec",
+        "version": "1.5",
+        "sha256": "4b9dbc050394a9a3ac0745519e9f6b724f536f33571497ed87675c8e7963dd18",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/undeadx07interlude.SC2Map"
       },
       {
@@ -1050,7 +1050,7 @@
   },
   {
     "title": "Azeroth Reswapped",
-    "version": "2.5",
+    "version": "2.6",
     "asset": "Azeroth Reswapped.png",
     "maps": [
       {
@@ -1073,32 +1073,32 @@
       },
       {
         "name": "human02interlude_RS.SC2Map",
-        "version": "1.2",
-        "sha256": "ccefbf118843cfbb4822fda71656fefe96505bb984ed070a5af81d8ab598b4df",
+        "version": "1.3",
+        "sha256": "9588c641db0b12e9fcb711982a000ed6dfec6e26dc459bf2df34e64973a2ba7e",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reswapped/human02interlude_RS.SC2Map"
       },
       {
         "name": "human03_RS.SC2Map",
-        "version": "1.1",
-        "sha256": "e8ea1968e3bf7c42aaf8313237754605ad10312f385d804ee1122daece3f8f2c",
+        "version": "1.2",
+        "sha256": "5fd3286c7d620f9b2cf9cb192b81d10c9f04b85ff92e96e09fda1cea16b066ec",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reswapped/human03_RS.SC2Map"
       },
       {
         "name": "human04_RS.SC2Map",
-        "version": "1.1",
-        "sha256": "e7ce1df264c200138b8cfc9308cafe1c061403b2929a64c4810ab43d5faa0361",
+        "version": "1.2",
+        "sha256": "6e2cda0181dcb826e896e07218518a035facec54ad91980bd65a981cf964fa54",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reswapped/human04_RS.SC2Map"
       },
       {
         "name": "human05_RS.SC2Map",
-        "version": "1.1",
-        "sha256": "0de7d7f0875ce642f21222cc6b86123912008a03f8494b3c930f111ff799566b",
+        "version": "1.2",
+        "sha256": "622f0f2a3cf2d026a3ad795e4bae6cad66a03f62ad3bfa34af6347118438fc8d",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reswapped/human05_RS.SC2Map"
       },
       {
         "name": "human05interlude_RS.SC2Map",
-        "version": "1.2",
-        "sha256": "bbc4be17bb88bfe4c4d70830cbc4c03cd6545dec69968eff42d97c6d69678136",
+        "version": "1.3",
+        "sha256": "8661a6650cd81d8f2213b4a9c7911487d38e5df794817c98907d8bc89ebda291",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reswapped/human05interlude_RS.SC2Map"
       },
       {
@@ -1109,8 +1109,8 @@
       },
       {
         "name": "human06interlude_RS.SC2Map",
-        "version": "1.2",
-        "sha256": "783530732712ad249eae77a7705320c74f881c7533e759b0de5ed36c967acaaf",
+        "version": "1.3",
+        "sha256": "7a1cdbdc2f50ef8ccabd6cd363bc85949bf782a1f529ef4ca7833c7373bf4f17",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reswapped/human06interlude_RS.SC2Map"
       },
       {
@@ -1127,8 +1127,8 @@
       },
       {
         "name": "human09_RS.SC2Map",
-        "version": "1.1",
-        "sha256": "66ca75b56e03a438795c417a0c12123dbafaee2718dc03e84970e35d6d3787cf",
+        "version": "1.2",
+        "sha256": "ec5936ccd2fa0b034621cbefe0e924fa12608773c5d3102919360012e09ff523",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reswapped/human09_RS.SC2Map"
       },
       {
@@ -1157,8 +1157,8 @@
       },
       {
         "name": "prologue05_RS.SC2Map",
-        "version": "1.7",
-        "sha256": "8d6954d44ffa1df5c2460becd1f9805b4930053ea371f21781c2ece19efbf4e9",
+        "version": "1.8",
+        "sha256": "f838908fd995d386d7fdecfe6127f6848914c0aa6706cd3b1c93225d6b0e5d12",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reswapped/prologue05_RS.SC2Map"
       },
       {
