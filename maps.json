@@ -505,7 +505,7 @@
   },
   {
     "title": "Azeroth Reborn",
-    "version": "3.23",
+    "version": "3.24",
     "asset": "Azeroth Reborn.png",
     "maps": [
       {
@@ -852,8 +852,8 @@
       },
       {
         "name": "undead02.SC2Map",
-        "version": "1.14",
-        "sha256": "256ed8872010b70a6040cdf07538fc3edde8674cfaff7ea1be601212d755e859",
+        "version": "1.15",
+        "sha256": "e30a022411f7a354293a4fa4dc81f9624882d98281ec3d63e90a36c932e72857",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/undead02.SC2Map"
       },
       {
