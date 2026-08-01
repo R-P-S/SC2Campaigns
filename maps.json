@@ -2374,13 +2374,13 @@
   },
   {
     "title": "WarChasers",
-    "version": "2.60",
+    "version": "2.61",
     "asset": "WarChasers.png",
     "maps": [
       {
         "name": "WarChasers.SC2Map",
-        "version": "1.10",
-        "sha256": "5ccf32ef52d5663bccb1730c98531e3bc70f947699cc0fd531f436103f2f2bb8",
+        "version": "1.11",
+        "sha256": "e808b0ceaed40d20e99472d8f54efd4081c08117fdddf08d21a95b3336f60eab",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/WarChasers/WarChasers.SC2Map"
       },
       {
