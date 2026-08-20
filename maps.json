@@ -13,8 +13,9 @@
       {
         "name": "WC3_CustomAssets.SC2Mod",
         "version": "1.2",
-        "sha256": "78cb971612fbf0b4862a0542171c126a272db225e9775b73da551be85bdaccfc",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Battlegrounds/mods/WC3_CustomAssets.SC2Mod"
+        "sha256": "6177f1eba961c613928aa197b7e4cbdeae437844b1767a4622a77c5d418188c6",
+        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3_CustomAssets.SC2Mod",
+        "release_asset": true
       },
       {
         "name": "WC3_CustomData.SC2Mod",
@@ -31,59 +32,10 @@
         "shared_asset": true
       },
       {
-        "version": "1.1",
-        "sha256": "eb7aa5e8f128f198c492c9d38194bf4415d6b8934782567fe59ab6c90a24286c",
-        "name": "WC3MOD_ASSETS_1.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_1.SC2Mod",
-        "release_asset": true
-      },
-      {
-        "version": "1.1",
-        "sha256": "7331b8884b6f4fbb4d273d96a971c39b8fed69be60b26d90692c0e528644b8e7",
-        "name": "WC3MOD_ASSETS_2.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_2.SC2Mod",
-        "release_asset": true
-      },
-      {
-        "name": "WC3MOD_ASSETS_3.SC2Mod",
-        "version": "1.4",
-        "sha256": "a774f288c4145bba86a2ce43fa32c6f593a96d0c1b63b1862316a7a8da2dfa5b",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Battlegrounds/mods/WC3MOD_ASSETS_3.SC2Mod",
-        "shared_asset": true
-      },
-      {
-        "name": "WC3MOD_ASSETS_4.SC2Mod",
-        "version": "1.2",
-        "sha256": "83750cc267b26a1996b4043f7b05a2ef80c061118011ed539fe6adf18e390a9e",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Battlegrounds/mods/WC3MOD_ASSETS_4.SC2Mod",
-        "shared_asset": true
-      },
-      {
-        "version": "1.1",
-        "sha256": "8da4ca518973e01deece411e08093b5e027dee8c2673219e8b8919e140d5bebf",
-        "name": "WC3MOD_ASSETS_MOVIES_1.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_MOVIES_1.SC2Mod",
-        "release_asset": true
-      },
-      {
-        "version": "1.1",
-        "sha256": "c69cb3c4501d84424ea6c4489114fb09f54584fb7cc251dcd29ebb7ebfb2d0d9",
-        "name": "WC3MOD_ASSETS_MOVIES_2.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_MOVIES_2.SC2Mod",
-        "release_asset": true
-      },
-      {
-        "version": "1.1",
-        "sha256": "7130d6ab525db141615b140294fb89633745cf3016e2f31d8dc974813f65e0f9",
-        "name": "WC3MOD_ASSETS_MOVIES_3.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_MOVIES_3.SC2Mod",
-        "release_asset": true
-      },
-      {
-        "version": "1.1",
-        "sha256": "79aa5f6de78bc7b5c9a9659a0540bd65dffd29e25d312f7bfb12b6c8250f0db7",
-        "name": "WC3MOD_ASSETS_MOVIES_4.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_MOVIES_4.SC2Mod",
+        "name": "WC3MOD_ASSETS.SC2Mod",
+        "version": "1.0",
+        "sha256": "774aef27b9d722978d664db2451c132a9a82ce7d5b767c106a24bff9c815f336",
+        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS.SC2Mod",
         "release_asset": true
       }
     ],
@@ -133,8 +85,9 @@
       {
         "name": "WC3_CustomAssets.SC2Mod",
         "version": "1.2",
-        "sha256": "78cb971612fbf0b4862a0542171c126a272db225e9775b73da551be85bdaccfc",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Gods/mods/WC3_CustomAssets.SC2Mod"
+        "sha256": "6177f1eba961c613928aa197b7e4cbdeae437844b1767a4622a77c5d418188c6",
+        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3_CustomAssets.SC2Mod",
+        "release_asset": true
       },
       {
         "name": "WC3_CustomData.SC2Mod",
@@ -151,59 +104,10 @@
         "shared_asset": true
       },
       {
-        "version": "1.1",
-        "sha256": "eb7aa5e8f128f198c492c9d38194bf4415d6b8934782567fe59ab6c90a24286c",
-        "name": "WC3MOD_ASSETS_1.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_1.SC2Mod",
-        "release_asset": true
-      },
-      {
-        "version": "1.1",
-        "sha256": "7331b8884b6f4fbb4d273d96a971c39b8fed69be60b26d90692c0e528644b8e7",
-        "name": "WC3MOD_ASSETS_2.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_2.SC2Mod",
-        "release_asset": true
-      },
-      {
-        "name": "WC3MOD_ASSETS_3.SC2Mod",
-        "version": "1.4",
-        "sha256": "a774f288c4145bba86a2ce43fa32c6f593a96d0c1b63b1862316a7a8da2dfa5b",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Gods/mods/WC3MOD_ASSETS_3.SC2Mod",
-        "shared_asset": true
-      },
-      {
-        "name": "WC3MOD_ASSETS_4.SC2Mod",
-        "version": "1.2",
-        "sha256": "83750cc267b26a1996b4043f7b05a2ef80c061118011ed539fe6adf18e390a9e",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Gods/mods/WC3MOD_ASSETS_4.SC2Mod",
-        "shared_asset": true
-      },
-      {
-        "version": "1.1",
-        "sha256": "8da4ca518973e01deece411e08093b5e027dee8c2673219e8b8919e140d5bebf",
-        "name": "WC3MOD_ASSETS_MOVIES_1.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_MOVIES_1.SC2Mod",
-        "release_asset": true
-      },
-      {
-        "version": "1.1",
-        "sha256": "c69cb3c4501d84424ea6c4489114fb09f54584fb7cc251dcd29ebb7ebfb2d0d9",
-        "name": "WC3MOD_ASSETS_MOVIES_2.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_MOVIES_2.SC2Mod",
-        "release_asset": true
-      },
-      {
-        "version": "1.1",
-        "sha256": "7130d6ab525db141615b140294fb89633745cf3016e2f31d8dc974813f65e0f9",
-        "name": "WC3MOD_ASSETS_MOVIES_3.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_MOVIES_3.SC2Mod",
-        "release_asset": true
-      },
-      {
-        "version": "1.1",
-        "sha256": "79aa5f6de78bc7b5c9a9659a0540bd65dffd29e25d312f7bfb12b6c8250f0db7",
-        "name": "WC3MOD_ASSETS_MOVIES_4.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_MOVIES_4.SC2Mod",
+        "name": "WC3MOD_ASSETS.SC2Mod",
+        "version": "1.0",
+        "sha256": "774aef27b9d722978d664db2451c132a9a82ce7d5b767c106a24bff9c815f336",
+        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS.SC2Mod",
         "release_asset": true
       }
     ],
@@ -331,8 +235,9 @@
       {
         "name": "WC3_CustomAssets.SC2Mod",
         "version": "1.2",
-        "sha256": "78cb971612fbf0b4862a0542171c126a272db225e9775b73da551be85bdaccfc",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/mods/WC3_CustomAssets.SC2Mod"
+        "sha256": "6177f1eba961c613928aa197b7e4cbdeae437844b1767a4622a77c5d418188c6",
+        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3_CustomAssets.SC2Mod",
+        "release_asset": true
       },
       {
         "name": "WC3_CustomData.SC2Mod",
@@ -349,59 +254,10 @@
         "shared_asset": true
       },
       {
-        "version": "1.1",
-        "sha256": "eb7aa5e8f128f198c492c9d38194bf4415d6b8934782567fe59ab6c90a24286c",
-        "name": "WC3MOD_ASSETS_1.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_1.SC2Mod",
-        "release_asset": true
-      },
-      {
-        "version": "1.1",
-        "sha256": "7331b8884b6f4fbb4d273d96a971c39b8fed69be60b26d90692c0e528644b8e7",
-        "name": "WC3MOD_ASSETS_2.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_2.SC2Mod",
-        "release_asset": true
-      },
-      {
-        "name": "WC3MOD_ASSETS_3.SC2Mod",
-        "version": "1.4",
-        "sha256": "a774f288c4145bba86a2ce43fa32c6f593a96d0c1b63b1862316a7a8da2dfa5b",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/mods/WC3MOD_ASSETS_3.SC2Mod",
-        "shared_asset": true
-      },
-      {
-        "name": "WC3MOD_ASSETS_4.SC2Mod",
-        "version": "1.2",
-        "sha256": "83750cc267b26a1996b4043f7b05a2ef80c061118011ed539fe6adf18e390a9e",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Legends/mods/WC3MOD_ASSETS_4.SC2Mod",
-        "shared_asset": true
-      },
-      {
-        "version": "1.1",
-        "sha256": "8da4ca518973e01deece411e08093b5e027dee8c2673219e8b8919e140d5bebf",
-        "name": "WC3MOD_ASSETS_MOVIES_1.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_MOVIES_1.SC2Mod",
-        "release_asset": true
-      },
-      {
-        "version": "1.1",
-        "sha256": "c69cb3c4501d84424ea6c4489114fb09f54584fb7cc251dcd29ebb7ebfb2d0d9",
-        "name": "WC3MOD_ASSETS_MOVIES_2.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_MOVIES_2.SC2Mod",
-        "release_asset": true
-      },
-      {
-        "version": "1.1",
-        "sha256": "7130d6ab525db141615b140294fb89633745cf3016e2f31d8dc974813f65e0f9",
-        "name": "WC3MOD_ASSETS_MOVIES_3.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_MOVIES_3.SC2Mod",
-        "release_asset": true
-      },
-      {
-        "version": "1.1",
-        "sha256": "79aa5f6de78bc7b5c9a9659a0540bd65dffd29e25d312f7bfb12b6c8250f0db7",
-        "name": "WC3MOD_ASSETS_MOVIES_4.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_MOVIES_4.SC2Mod",
+        "name": "WC3MOD_ASSETS.SC2Mod",
+        "version": "1.0",
+        "sha256": "774aef27b9d722978d664db2451c132a9a82ce7d5b767c106a24bff9c815f336",
+        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS.SC2Mod",
         "release_asset": true
       }
     ],
@@ -427,8 +283,9 @@
       {
         "name": "WC3_CustomAssets.SC2Mod",
         "version": "1.2",
-        "sha256": "78cb971612fbf0b4862a0542171c126a272db225e9775b73da551be85bdaccfc",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Mysteries/mods/WC3_CustomAssets.SC2Mod"
+        "sha256": "6177f1eba961c613928aa197b7e4cbdeae437844b1767a4622a77c5d418188c6",
+        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3_CustomAssets.SC2Mod",
+        "release_asset": true
       },
       {
         "name": "WC3_CustomData.SC2Mod",
@@ -445,59 +302,10 @@
         "shared_asset": true
       },
       {
-        "version": "1.1",
-        "sha256": "eb7aa5e8f128f198c492c9d38194bf4415d6b8934782567fe59ab6c90a24286c",
-        "name": "WC3MOD_ASSETS_1.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_1.SC2Mod",
-        "release_asset": true
-      },
-      {
-        "version": "1.1",
-        "sha256": "7331b8884b6f4fbb4d273d96a971c39b8fed69be60b26d90692c0e528644b8e7",
-        "name": "WC3MOD_ASSETS_2.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_2.SC2Mod",
-        "release_asset": true
-      },
-      {
-        "name": "WC3MOD_ASSETS_3.SC2Mod",
-        "version": "1.4",
-        "sha256": "a774f288c4145bba86a2ce43fa32c6f593a96d0c1b63b1862316a7a8da2dfa5b",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Mysteries/mods/WC3MOD_ASSETS_3.SC2Mod",
-        "shared_asset": true
-      },
-      {
-        "name": "WC3MOD_ASSETS_4.SC2Mod",
-        "version": "1.2",
-        "sha256": "83750cc267b26a1996b4043f7b05a2ef80c061118011ed539fe6adf18e390a9e",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Mysteries/mods/WC3MOD_ASSETS_4.SC2Mod",
-        "shared_asset": true
-      },
-      {
-        "version": "1.1",
-        "sha256": "8da4ca518973e01deece411e08093b5e027dee8c2673219e8b8919e140d5bebf",
-        "name": "WC3MOD_ASSETS_MOVIES_1.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_MOVIES_1.SC2Mod",
-        "release_asset": true
-      },
-      {
-        "version": "1.1",
-        "sha256": "c69cb3c4501d84424ea6c4489114fb09f54584fb7cc251dcd29ebb7ebfb2d0d9",
-        "name": "WC3MOD_ASSETS_MOVIES_2.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_MOVIES_2.SC2Mod",
-        "release_asset": true
-      },
-      {
-        "version": "1.1",
-        "sha256": "7130d6ab525db141615b140294fb89633745cf3016e2f31d8dc974813f65e0f9",
-        "name": "WC3MOD_ASSETS_MOVIES_3.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_MOVIES_3.SC2Mod",
-        "release_asset": true
-      },
-      {
-        "version": "1.1",
-        "sha256": "79aa5f6de78bc7b5c9a9659a0540bd65dffd29e25d312f7bfb12b6c8250f0db7",
-        "name": "WC3MOD_ASSETS_MOVIES_4.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_MOVIES_4.SC2Mod",
+        "name": "WC3MOD_ASSETS.SC2Mod",
+        "version": "1.0",
+        "sha256": "774aef27b9d722978d664db2451c132a9a82ce7d5b767c106a24bff9c815f336",
+        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS.SC2Mod",
         "release_asset": true
       }
     ],
@@ -990,59 +798,10 @@
         "shared_asset": true
       },
       {
-        "version": "1.1",
-        "sha256": "eb7aa5e8f128f198c492c9d38194bf4415d6b8934782567fe59ab6c90a24286c",
-        "name": "WC3MOD_ASSETS_1.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_1.SC2Mod",
-        "release_asset": true
-      },
-      {
-        "version": "1.1",
-        "sha256": "7331b8884b6f4fbb4d273d96a971c39b8fed69be60b26d90692c0e528644b8e7",
-        "name": "WC3MOD_ASSETS_2.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_2.SC2Mod",
-        "release_asset": true
-      },
-      {
-        "name": "WC3MOD_ASSETS_3.SC2Mod",
-        "version": "1.4",
-        "sha256": "a774f288c4145bba86a2ce43fa32c6f593a96d0c1b63b1862316a7a8da2dfa5b",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/mods/WC3MOD_ASSETS_3.SC2Mod",
-        "shared_asset": true
-      },
-      {
-        "name": "WC3MOD_ASSETS_4.SC2Mod",
-        "version": "1.2",
-        "sha256": "83750cc267b26a1996b4043f7b05a2ef80c061118011ed539fe6adf18e390a9e",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/mods/WC3MOD_ASSETS_4.SC2Mod",
-        "shared_asset": true
-      },
-      {
-        "version": "1.1",
-        "sha256": "8da4ca518973e01deece411e08093b5e027dee8c2673219e8b8919e140d5bebf",
-        "name": "WC3MOD_ASSETS_MOVIES_1.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_MOVIES_1.SC2Mod",
-        "release_asset": true
-      },
-      {
-        "version": "1.1",
-        "sha256": "c69cb3c4501d84424ea6c4489114fb09f54584fb7cc251dcd29ebb7ebfb2d0d9",
-        "name": "WC3MOD_ASSETS_MOVIES_2.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_MOVIES_2.SC2Mod",
-        "release_asset": true
-      },
-      {
-        "version": "1.1",
-        "sha256": "7130d6ab525db141615b140294fb89633745cf3016e2f31d8dc974813f65e0f9",
-        "name": "WC3MOD_ASSETS_MOVIES_3.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_MOVIES_3.SC2Mod",
-        "release_asset": true
-      },
-      {
-        "version": "1.1",
-        "sha256": "79aa5f6de78bc7b5c9a9659a0540bd65dffd29e25d312f7bfb12b6c8250f0db7",
-        "name": "WC3MOD_ASSETS_MOVIES_4.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_MOVIES_4.SC2Mod",
+        "name": "WC3MOD_ASSETS.SC2Mod",
+        "version": "1.0",
+        "sha256": "774aef27b9d722978d664db2451c132a9a82ce7d5b767c106a24bff9c815f336",
+        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS.SC2Mod",
         "release_asset": true
       }
     ],
@@ -1229,59 +988,10 @@
         "shared_asset": true
       },
       {
-        "version": "1.1",
-        "sha256": "eb7aa5e8f128f198c492c9d38194bf4415d6b8934782567fe59ab6c90a24286c",
-        "name": "WC3MOD_ASSETS_1.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_1.SC2Mod",
-        "release_asset": true
-      },
-      {
-        "version": "1.1",
-        "sha256": "7331b8884b6f4fbb4d273d96a971c39b8fed69be60b26d90692c0e528644b8e7",
-        "name": "WC3MOD_ASSETS_2.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_2.SC2Mod",
-        "release_asset": true
-      },
-      {
-        "name": "WC3MOD_ASSETS_3.SC2Mod",
-        "version": "1.4",
-        "sha256": "a774f288c4145bba86a2ce43fa32c6f593a96d0c1b63b1862316a7a8da2dfa5b",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reswapped/mods/WC3MOD_ASSETS_3.SC2Mod",
-        "shared_asset": true
-      },
-      {
-        "name": "WC3MOD_ASSETS_4.SC2Mod",
-        "version": "1.2",
-        "sha256": "83750cc267b26a1996b4043f7b05a2ef80c061118011ed539fe6adf18e390a9e",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reswapped/mods/WC3MOD_ASSETS_4.SC2Mod",
-        "shared_asset": true
-      },
-      {
-        "version": "1.1",
-        "sha256": "8da4ca518973e01deece411e08093b5e027dee8c2673219e8b8919e140d5bebf",
-        "name": "WC3MOD_ASSETS_MOVIES_1.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_MOVIES_1.SC2Mod",
-        "release_asset": true
-      },
-      {
-        "version": "1.1",
-        "sha256": "c69cb3c4501d84424ea6c4489114fb09f54584fb7cc251dcd29ebb7ebfb2d0d9",
-        "name": "WC3MOD_ASSETS_MOVIES_2.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_MOVIES_2.SC2Mod",
-        "release_asset": true
-      },
-      {
-        "version": "1.1",
-        "sha256": "7130d6ab525db141615b140294fb89633745cf3016e2f31d8dc974813f65e0f9",
-        "name": "WC3MOD_ASSETS_MOVIES_3.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_MOVIES_3.SC2Mod",
-        "release_asset": true
-      },
-      {
-        "version": "1.1",
-        "sha256": "79aa5f6de78bc7b5c9a9659a0540bd65dffd29e25d312f7bfb12b6c8250f0db7",
-        "name": "WC3MOD_ASSETS_MOVIES_4.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_MOVIES_4.SC2Mod",
+        "name": "WC3MOD_ASSETS.SC2Mod",
+        "version": "1.0",
+        "sha256": "774aef27b9d722978d664db2451c132a9a82ce7d5b767c106a24bff9c815f336",
+        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS.SC2Mod",
         "release_asset": true
       }
     ],
@@ -2386,8 +2096,9 @@
       {
         "name": "WC3_CustomAssets.SC2Mod",
         "version": "1.2",
-        "sha256": "78cb971612fbf0b4862a0542171c126a272db225e9775b73da551be85bdaccfc",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/WarChasers/mods/WC3_CustomAssets.SC2Mod"
+        "sha256": "6177f1eba961c613928aa197b7e4cbdeae437844b1767a4622a77c5d418188c6",
+        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3_CustomAssets.SC2Mod",
+        "release_asset": true
       },
       {
         "name": "WC3_CustomData.SC2Mod",
@@ -2404,59 +2115,10 @@
         "shared_asset": true
       },
       {
-        "version": "1.1",
-        "sha256": "eb7aa5e8f128f198c492c9d38194bf4415d6b8934782567fe59ab6c90a24286c",
-        "name": "WC3MOD_ASSETS_1.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_1.SC2Mod",
-        "release_asset": true
-      },
-      {
-        "version": "1.1",
-        "sha256": "7331b8884b6f4fbb4d273d96a971c39b8fed69be60b26d90692c0e528644b8e7",
-        "name": "WC3MOD_ASSETS_2.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_2.SC2Mod",
-        "release_asset": true
-      },
-      {
-        "name": "WC3MOD_ASSETS_3.SC2Mod",
-        "version": "1.4",
-        "sha256": "a774f288c4145bba86a2ce43fa32c6f593a96d0c1b63b1862316a7a8da2dfa5b",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/WarChasers/mods/WC3MOD_ASSETS_3.SC2Mod",
-        "shared_asset": true
-      },
-      {
-        "name": "WC3MOD_ASSETS_4.SC2Mod",
-        "version": "1.2",
-        "sha256": "83750cc267b26a1996b4043f7b05a2ef80c061118011ed539fe6adf18e390a9e",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/WarChasers/mods/WC3MOD_ASSETS_4.SC2Mod",
-        "shared_asset": true
-      },
-      {
-        "version": "1.1",
-        "sha256": "8da4ca518973e01deece411e08093b5e027dee8c2673219e8b8919e140d5bebf",
-        "name": "WC3MOD_ASSETS_MOVIES_1.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_MOVIES_1.SC2Mod",
-        "release_asset": true
-      },
-      {
-        "version": "1.1",
-        "sha256": "c69cb3c4501d84424ea6c4489114fb09f54584fb7cc251dcd29ebb7ebfb2d0d9",
-        "name": "WC3MOD_ASSETS_MOVIES_2.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_MOVIES_2.SC2Mod",
-        "release_asset": true
-      },
-      {
-        "version": "1.1",
-        "sha256": "7130d6ab525db141615b140294fb89633745cf3016e2f31d8dc974813f65e0f9",
-        "name": "WC3MOD_ASSETS_MOVIES_3.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_MOVIES_3.SC2Mod",
-        "release_asset": true
-      },
-      {
-        "version": "1.1",
-        "sha256": "79aa5f6de78bc7b5c9a9659a0540bd65dffd29e25d312f7bfb12b6c8250f0db7",
-        "name": "WC3MOD_ASSETS_MOVIES_4.SC2Mod",
-        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS_MOVIES_4.SC2Mod",
+        "name": "WC3MOD_ASSETS.SC2Mod",
+        "version": "1.0",
+        "sha256": "774aef27b9d722978d664db2451c132a9a82ce7d5b767c106a24bff9c815f336",
+        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS.SC2Mod",
         "release_asset": true
       }
     ],
