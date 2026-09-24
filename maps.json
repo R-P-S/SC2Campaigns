@@ -43,13 +43,13 @@
   },
   {
     "title": "Azeroth Defenders",
-    "version": "3.1",
+    "version": "3.2",
     "asset": "Azeroth Defenders.png",
     "maps": [
       {
         "name": "ADLauncher.SC2Map",
-        "version": "1.1",
-        "sha256": "4078c3c375584a72a09045c9ec2691f923b078568a36cff1ebccacec23a0bdba",
+        "version": "1.2",
+        "sha256": "f44800c7f7efcd7e7feedac14e17e48fdfb3f8a269587bd477eecb85cf2bec08",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Defenders/ADLauncher.SC2Map"
       },
       {
