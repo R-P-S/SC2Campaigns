@@ -43,7 +43,7 @@
   },
   {
     "title": "Azeroth Defenders",
-    "version": "3.2",
+    "version": "3.3",
     "asset": "Azeroth Defenders.png",
     "maps": [
       {
@@ -78,6 +78,12 @@
         "sha256": "c1b2112563922d32b51e7dac909137673e1503e8af853ea71f9b923220ea4afb",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Defenders/mods/WC3_CustomData.SC2Mod",
         "shared_asset": true
+      },
+      {
+        "name": "WC3_Defenders.SC2Mod",
+        "version": "1.1",
+        "sha256": "1af3829808feacb6338f4b292e22c89da7c35133a8d8c329df05540a08a4637a",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Defenders/mods/WC3_Defenders.SC2Mod"
       },
       {
         "name": "WC3MOD.SC2Mod",
