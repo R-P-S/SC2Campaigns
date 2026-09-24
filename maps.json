@@ -43,7 +43,7 @@
   },
   {
     "title": "Azeroth Defenders",
-    "version": "3.3",
+    "version": "1.0",
     "asset": "Azeroth Defenders.png",
     "maps": [
       {
@@ -57,13 +57,6 @@
         "version": "1.1",
         "sha256": "88fa8ca7f53f2049abff70db3f6b7d4231d370340645f5a7e894519d5545860b",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Defenders/Defenders_Dalaran.SC2Map"
-      },
-      {
-        "name": "WC3_Defenders.SC2Mod",
-        "version": "1.0",
-        "sha256": "c1b2112563922d32b51e7dac909137673e1503e8af853ea71f9b923220ea4afb",
-        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Defenders/mods/WC3_CustomData.SC2Mod",
-        "shared_asset": true
       },
       {
         "name": "WC3_CustomAssets.SC2Mod",
