@@ -13,7 +13,7 @@
       {
         "name": "WC3_CustomAssets.SC2Mod",
         "version": "1.2",
-        "sha256": "5007302e280ec5e19a6b267b3524b5d8ab3784632eaf703845a57798bc532da7",
+        "sha256": "fa3b2eb4168369f6368a913fe728f9b8123ac9a43b16fe5ffb0cb3e186d8bbb4",
         "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3_CustomAssets.SC2Mod",
         "release_asset": true
       },
@@ -41,6 +41,49 @@
     ],
     "folder": "azerothbattlegrounds"
   },
+  {
+    "title": "Azeroth Defenders",
+    "version": "3.0",
+    "asset": "Azeroth Defenders.png",
+    "maps": [
+      {
+        "name": "ADLauncher.SC2Map",
+        "version": "1.0",
+        "sha256": "c895d73e1dfb4ec5c0bd26fc2af8b2b3b91a7736737758058443097f59a527b6",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Battlegrounds/Battlegrounds.SC2Map"
+      },
+      {
+        "name": "WC3_CustomAssets.SC2Mod",
+        "version": "1.2",
+        "sha256": "fa3b2eb4168369f6368a913fe728f9b8123ac9a43b16fe5ffb0cb3e186d8bbb4",
+        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3_CustomAssets.SC2Mod",
+        "release_asset": true
+      },
+      {
+        "name": "WC3_CustomData.SC2Mod",
+        "version": "1.75",
+        "sha256": "9fcb0be50724e7aef1cce6f458710bce6d9ace6398334d2ea1a0063b1f6011b6",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Battlegrounds/mods/WC3_CustomData.SC2Mod",
+        "shared_asset": true
+      },
+      {
+        "name": "WC3MOD.SC2Mod",
+        "version": "2.39",
+        "sha256": "36deff8eda6ce5bfff350dcc2c2c4d6b2c0e6fc5ac65092bf608ebe078c51ab2",
+        "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Battlegrounds/mods/WC3MOD.SC2Mod",
+        "shared_asset": true
+      },
+      {
+        "name": "WC3MOD_ASSETS.SC2Mod",
+        "version": "1.0",
+        "sha256": "774aef27b9d722978d664db2451c132a9a82ce7d5b767c106a24bff9c815f336",
+        "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3MOD_ASSETS.SC2Mod",
+        "release_asset": true
+      }
+    ],
+    "folder": "azerothdefenders"
+  },
+
   {
     "title": "Azeroth Gods",
     "version": "2.9",
@@ -85,7 +128,7 @@
       {
         "name": "WC3_CustomAssets.SC2Mod",
         "version": "1.2",
-        "sha256": "5007302e280ec5e19a6b267b3524b5d8ab3784632eaf703845a57798bc532da7",
+        "sha256": "fa3b2eb4168369f6368a913fe728f9b8123ac9a43b16fe5ffb0cb3e186d8bbb4",
         "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3_CustomAssets.SC2Mod",
         "release_asset": true
       },
@@ -235,7 +278,7 @@
       {
         "name": "WC3_CustomAssets.SC2Mod",
         "version": "1.2",
-        "sha256": "5007302e280ec5e19a6b267b3524b5d8ab3784632eaf703845a57798bc532da7",
+        "sha256": "fa3b2eb4168369f6368a913fe728f9b8123ac9a43b16fe5ffb0cb3e186d8bbb4",
         "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3_CustomAssets.SC2Mod",
         "release_asset": true
       },
@@ -283,7 +326,7 @@
       {
         "name": "WC3_CustomAssets.SC2Mod",
         "version": "1.2",
-        "sha256": "5007302e280ec5e19a6b267b3524b5d8ab3784632eaf703845a57798bc532da7",
+        "sha256": "fa3b2eb4168369f6368a913fe728f9b8123ac9a43b16fe5ffb0cb3e186d8bbb4",
         "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3_CustomAssets.SC2Mod",
         "release_asset": true
       },
@@ -2096,7 +2139,7 @@
       {
         "name": "WC3_CustomAssets.SC2Mod",
         "version": "1.2",
-        "sha256": "5007302e280ec5e19a6b267b3524b5d8ab3784632eaf703845a57798bc532da7",
+        "sha256": "fa3b2eb4168369f6368a913fe728f9b8123ac9a43b16fe5ffb0cb3e186d8bbb4",
         "url": "https://github.com/R-P-S/SC2Campaigns/releases/download/wc3assets/WC3_CustomAssets.SC2Mod",
         "release_asset": true
       },
