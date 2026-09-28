@@ -367,7 +367,7 @@
   },
   {
     "title": "Azeroth Reborn",
-    "version": "3.83",
+    "version": "3.84",
     "asset": "Azeroth Reborn.png",
     "maps": [
       {
@@ -636,8 +636,8 @@
       },
       {
         "name": "orc03.SC2Map",
-        "version": "1.7",
-        "sha256": "97b98ae9b4b91667a3c6785a3c6709352969a03a329298b19b99c767f4630fae",
+        "version": "1.8",
+        "sha256": "97836638ee2beac91fd9691f731f6cac536dc54fba709d44d8ec348655c1e0ad",
         "url": "https://raw.githubusercontent.com/R-P-S/SC2Campaigns/main/campaigns/Azeroth%20Reborn/orc03.SC2Map"
       },
       {
